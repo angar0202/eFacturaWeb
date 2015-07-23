@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<factura id="comprobante" version="1.0.0">
+   <infoTributaria>
+      <ambiente>1</ambiente>
+      <tipoEmision>1</tipoEmision>
+      <razonSocial>TRACTOMAQ S.A.</razonSocial>
+      <ruc>0992620854001</ruc>
+      <claveAcceso>0712201401099262085400110010010000702980010901313</claveAcceso>
+      <codDoc>01</codDoc>
+      <estab>001</estab>
+      <ptoEmi>001</ptoEmi>
+      <secuencial>000070298</secuencial>
+      <dirMatriz>KM 95 VIA DAULE 43 NO SOLAR 62 Y 23 NO</dirMatriz>
+   </infoTributaria>
+   <infoFactura>
+      <fechaEmision>07/12/2014</fechaEmision>
+      <dirEstablecimiento>CALLE 9 DE JULIO 425 Y OLMEDO FRENTE AL MERCADO MUNICIPAL</dirEstablecimiento>
+      <contribuyenteEspecial>00048</contribuyenteEspecial>
+      <obligadoContabilidad>SI</obligadoContabilidad>
+      <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+      <razonSocialComprador>PRUEBAS SERVICIO DE RENTAS INTERNAS</razonSocialComprador>
+      <identificacionComprador>1306353135001</identificacionComprador>
+      <totalSinImpuestos>475.00</totalSinImpuestos>
+      <totalDescuento>0.00</totalDescuento>
+      <totalConImpuestos>
+         <totalImpuesto>
+            <codigo>2</codigo>
+            <codigoPorcentaje>2</codigoPorcentaje>
+            <baseImponible>475.00</baseImponible>
+            <tarifa>0</tarifa>
+            <valor>57.00</valor>
+         </totalImpuesto>
+      </totalConImpuestos>
+      <propina>0.00</propina>
+      <importeTotal>532.00</importeTotal>
+      <moneda>DOLAR</moneda>
+   </infoFactura>
+   <detalles>
+      <detalle>
+         <codigoPrincipal>GT227</codigoPrincipal>
+         <descripcion>P265/70R16 111T SAVERO HT2 OWL</descripcion>
+         <cantidad>4.00</cantidad>
+         <precioUnitario>118.75</precioUnitario>
+         <descuento>0.00</descuento>
+         <precioTotalSinImpuesto>475.00</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>475.00</baseImponible>
+               <valor>57.00</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+   </detalles>
+</factura>

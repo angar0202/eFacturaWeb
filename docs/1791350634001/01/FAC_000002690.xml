@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<factura id="comprobante" version="1.0.0">
+   <infoTributaria>
+      <ambiente>1</ambiente>
+      <tipoEmision>1</tipoEmision>
+      <razonSocial>TRACTOMAQ S.A.</razonSocial>
+      <ruc>0992620854001</ruc>
+      <claveAcceso>0712201401099262085400110010020000026900000295614</claveAcceso>
+      <codDoc>01</codDoc>
+      <estab>001</estab>
+      <ptoEmi>002</ptoEmi>
+      <secuencial>000002690</secuencial>
+      <dirMatriz>KM 95 VIA DAULE 43 NO SOLAR 62 Y 23 NO</dirMatriz>
+   </infoTributaria>
+   <infoFactura>
+      <fechaEmision>07/12/2014</fechaEmision>
+      <dirEstablecimiento>AV. SHYRIS 2646 Y  AV. GASPAR DE VILLARROEL</dirEstablecimiento>
+      <contribuyenteEspecial>00048</contribuyenteEspecial>
+      <obligadoContabilidad>SI</obligadoContabilidad>
+      <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+      <razonSocialComprador>PRUEBAS SERVICIO DE RENTAS INTERNAS</razonSocialComprador>
+      <identificacionComprador>1791350634001</identificacionComprador>
+      <totalSinImpuestos>3373.20</totalSinImpuestos>
+      <totalDescuento>0.00</totalDescuento>
+      <totalConImpuestos>
+         <totalImpuesto>
+            <codigo>2</codigo>
+            <codigoPorcentaje>2</codigoPorcentaje>
+            <baseImponible>3373.20</baseImponible>
+            <tarifa>0</tarifa>
+            <valor>404.78</valor>
+         </totalImpuesto>
+      </totalConImpuestos>
+      <propina>0.00</propina>
+      <importeTotal>3777.98</importeTotal>
+      <moneda>DOLAR</moneda>
+   </infoFactura>
+   <detalles>
+      <detalle>
+         <codigoPrincipal>DL-014</codigoPrincipal>
+         <descripcion>265/70R16 112T AT3 OW 01 GDEEI</descripcion>
+         <cantidad>8.00</cantidad>
+         <precioUnitario>166.07</precioUnitario>
+         <descuento>0.00</descuento>
+         <precioTotalSinImpuesto>1328.56</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>1328.56</baseImponible>
+               <valor>159.43</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+      <detalle>
+         <codigoPrincipal>DL-012</codigoPrincipal>
+         <descripcion>255/70R16 111T AT3 OW 01 GDEEI</descripcion>
+         <cantidad>8.00</cantidad>
+         <precioUnitario>143.25</precioUnitario>
+         <descuento>0.00</descuento>
+         <precioTotalSinImpuesto>1146.00</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>1146.00</baseImponible>
+               <valor>137.52</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+      <detalle>
+         <codigoPrincipal>DL-004</codigoPrincipal>
+         <descripcion>225/65R17 102H AT3 BL 01 GWI</descripcion>
+         <cantidad>4.00</cantidad>
+         <precioUnitario>139.84</precioUnitario>
+         <descuento>0.00</descuento>
+         <precioTotalSinImpuesto>559.36</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>559.36</baseImponible>
+               <valor>67.12</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+      <detalle>
+         <codigoPrincipal>DL-064</codigoPrincipal>
+         <descripcion>275/70R16 114T AT3</descripcion>
+         <cantidad>2.00</cantidad>
+         <precioUnitario>169.64</precioUnitario>
+         <descuento>0.00</descuento>
+         <precioTotalSinImpuesto>339.28</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>339.28</baseImponible>
+               <valor>40.71</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+   </detalles>
+</factura>

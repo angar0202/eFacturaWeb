@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<factura id="comprobante" version="1.0.0">
+   <infoTributaria>
+      <ambiente>1</ambiente>
+      <tipoEmision>1</tipoEmision>
+      <razonSocial>TRACTOMAQ S.A.</razonSocial>
+      <ruc>0992620854001</ruc>
+      <claveAcceso>0412201401099262085400110010010000702720010898015</claveAcceso>
+      <codDoc>01</codDoc>
+      <estab>001</estab>
+      <ptoEmi>001</ptoEmi>
+      <secuencial>000070272</secuencial>
+      <dirMatriz>KM 95 VIA DAULE 43 NO SOLAR 62 Y 23 NO</dirMatriz>
+   </infoTributaria>
+   <infoFactura>
+      <fechaEmision>04/12/2014</fechaEmision>
+      <dirEstablecimiento>AVENIDA DE LAS AMERICAS S/N Y REMIGIO CRESPO</dirEstablecimiento>
+      <contribuyenteEspecial>12345</contribuyenteEspecial>
+      <obligadoContabilidad>SI</obligadoContabilidad>
+      <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+      <razonSocialComprador>PRUEBAS SERVICIO DE RENTAS INTERNAS</razonSocialComprador>
+      <identificacionComprador>0102187598001</identificacionComprador>
+      <totalSinImpuestos>2603.05</totalSinImpuestos>
+      <totalDescuento>691.95</totalDescuento>
+      <totalConImpuestos>
+         <totalImpuesto>
+            <codigo>2</codigo>
+            <codigoPorcentaje>2</codigoPorcentaje>
+            <baseImponible>2603.05</baseImponible>
+            <tarifa>0</tarifa>
+            <valor>312.36</valor>
+         </totalImpuesto>
+      </totalConImpuestos>
+      <propina>0.00</propina>
+      <importeTotal>2915.41</importeTotal>
+      <moneda>DOLAR</moneda>
+   </infoFactura>
+   <detalles>
+      <detalle>
+         <codigoPrincipal>CS388</codigoPrincipal>
+         <descripcion>CHENGSHAN 9.5R17.5 16PR CST78 DIREC</descripcion>
+         <cantidad>5.00</cantidad>
+         <precioUnitario>291.00</precioUnitario>
+         <descuento>305.55</descuento>
+         <precioTotalSinImpuesto>1149.45</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>1149.45</baseImponible>
+               <valor>137.93</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+      <detalle>
+         <codigoPrincipal>CS349</codigoPrincipal>
+         <descripcion>CHENGSHAN 215/75R17.5 CST68 TRACC</descripcion>
+         <cantidad>8.00</cantidad>
+         <precioUnitario>230.00</precioUnitario>
+         <descuento>386.40</descuento>
+         <precioTotalSinImpuesto>1453.60</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>1453.60</baseImponible>
+               <valor>174.43</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+   </detalles>
+</factura>

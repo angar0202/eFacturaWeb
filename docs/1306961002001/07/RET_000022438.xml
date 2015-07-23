@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comprobanteRetencion id="comprobante" version="1.0.0">
+   <infoTributaria>
+      <ambiente>1</ambiente>
+      <tipoEmision>1</tipoEmision>
+      <razonSocial>TRACTOMAQ S.A.</razonSocial>
+      <ruc>0992620854001</ruc>
+      <claveAcceso>3011201407099262085400110010010000224380027401110</claveAcceso>
+      <codDoc>07</codDoc>
+      <estab>001</estab>
+      <ptoEmi>001</ptoEmi>
+      <secuencial>000022438</secuencial>
+      <dirMatriz>KM 95 VIA DAULE 43 NO SOLAR 62 Y 23 NO</dirMatriz>
+   </infoTributaria>
+   <infoCompRetencion>
+      <fechaEmision>30/11/2014</fechaEmision>
+      <dirEstablecimiento>CDLA. ALBORADA SEXTA ETAPA, MZ.603 VILLA 4</dirEstablecimiento>
+      <obligadoContabilidad>SI</obligadoContabilidad>
+      <tipoIdentificacionSujetoRetenido>04</tipoIdentificacionSujetoRetenido>
+      <razonSocialSujetoRetenido>PRUEBAS SERVICIO DE RENTAS INTERNAS</razonSocialSujetoRetenido>
+      <identificacionSujetoRetenido>1306961002001</identificacionSujetoRetenido>
+      <periodoFiscal>11/2014</periodoFiscal>
+   </infoCompRetencion>
+   <impuestos>
+      <impuesto>
+         <codigo>2</codigo>
+         <codigoRetencion>1</codigoRetencion>
+         <baseImponible>78.22</baseImponible>
+         <porcentajeRetener>30</porcentajeRetener>
+         <valorRetenido>23.47</valorRetenido>
+         <codDocSustento>01</codDocSustento>
+         <numDocSustento>001001000000001</numDocSustento>
+         <fechaEmisionDocSustento>28/11/2014</fechaEmisionDocSustento>
+      </impuesto>
+      <impuesto>
+         <codigo>1</codigo>
+         <codigoRetencion>312</codigoRetencion>
+         <baseImponible>651.77</baseImponible>
+         <porcentajeRetener>1</porcentajeRetener>
+         <valorRetenido>6.52</valorRetenido>
+         <codDocSustento>01</codDocSustento>
+         <numDocSustento>001001000000001</numDocSustento>
+         <fechaEmisionDocSustento>30/11/2014</fechaEmisionDocSustento>
+      </impuesto>
+   </impuestos>
+</comprobanteRetencion>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<factura id="comprobante" version="1.0.0">
+   <infoTributaria>
+      <ambiente>1</ambiente>
+      <tipoEmision>1</tipoEmision>
+      <razonSocial>TRACTOMAQ S.A.</razonSocial>
+      <ruc>0992620854001</ruc>
+      <claveAcceso>2711201401099262085400110010010000701540010885013</claveAcceso>
+      <codDoc>01</codDoc>
+      <estab>001</estab>
+      <ptoEmi>001</ptoEmi>
+      <secuencial>000070154</secuencial>
+      <dirMatriz>KM 95 VIA DAULE 43 NO SOLAR 62 Y 23 NO</dirMatriz>
+   </infoTributaria>
+   <infoFactura>
+      <fechaEmision>27/11/2014</fechaEmision>
+      <dirEstablecimiento>VIA QUEVEDO S/N INTERSECCION MARGEN DERECHO</dirEstablecimiento>
+      <obligadoContabilidad>SI</obligadoContabilidad>
+      <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+      <razonSocialComprador>PRUEBAS SERVICIO DE RENTAS INTERNAS</razonSocialComprador>
+      <identificacionComprador>1791410742001</identificacionComprador>
+      <totalSinImpuestos>1292.32</totalSinImpuestos>
+      <totalDescuento>283.68</totalDescuento>
+      <totalConImpuestos>
+         <totalImpuesto>
+            <codigo>2</codigo>
+            <codigoPorcentaje>2</codigoPorcentaje>
+            <baseImponible>1292.32</baseImponible>
+            <tarifa>0</tarifa>
+            <valor>155.08</valor>
+         </totalImpuesto>
+      </totalConImpuestos>
+      <propina>0.00</propina>
+      <importeTotal>1447.40</importeTotal>
+      <moneda>DOLAR</moneda>
+   </infoFactura>
+   <detalles>
+      <detalle>
+         <codigoPrincipal>CS393</codigoPrincipal>
+         <descripcion>CHENGSHAN 235/75R17.5 16 CST78</descripcion>
+         <cantidad>2.00</cantidad>
+         <precioUnitario>260.00</precioUnitario>
+         <descuento>93.60</descuento>
+         <precioTotalSinImpuesto>426.40</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>426.40</baseImponible>
+               <valor>51.17</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+      <detalle>
+         <codigoPrincipal>CS394</codigoPrincipal>
+         <descripcion>CHENGSHAN 235/75R17.5 16 CST68</descripcion>
+         <cantidad>4.00</cantidad>
+         <precioUnitario>264.00</precioUnitario>
+         <descuento>190.08</descuento>
+         <precioTotalSinImpuesto>865.92</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>865.92</baseImponible>
+               <valor>103.91</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+   </detalles>
+</factura>

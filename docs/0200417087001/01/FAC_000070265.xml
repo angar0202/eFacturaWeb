@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<factura id="comprobante" version="1.0.0">
+   <infoTributaria>
+      <ambiente>1</ambiente>
+      <tipoEmision>1</tipoEmision>
+      <razonSocial>TRACTOMAQ S.A.</razonSocial>
+      <ruc>0992620854001</ruc>
+      <claveAcceso>0412201401099262085400110010010000702650010897312</claveAcceso>
+      <codDoc>01</codDoc>
+      <estab>001</estab>
+      <ptoEmi>001</ptoEmi>
+      <secuencial>000070265</secuencial>
+      <dirMatriz>KM 95 VIA DAULE 43 NO SOLAR 62 Y 23 NO</dirMatriz>
+   </infoTributaria>
+   <infoFactura>
+      <fechaEmision>04/12/2014</fechaEmision>
+      <dirEstablecimiento>CALUMA AV. NARANJA Y CELESTINO SOSA</dirEstablecimiento>
+      <contribuyenteEspecial>12345</contribuyenteEspecial>
+      <obligadoContabilidad>SI</obligadoContabilidad>
+      <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+      <razonSocialComprador>PRUEBAS SERVICIO DE RENTAS INTERNAS</razonSocialComprador>
+      <identificacionComprador>0200417087001</identificacionComprador>
+      <totalSinImpuestos>604.80</totalSinImpuestos>
+      <totalDescuento>115.20</totalDescuento>
+      <totalConImpuestos>
+         <totalImpuesto>
+            <codigo>2</codigo>
+            <codigoPorcentaje>2</codigoPorcentaje>
+            <baseImponible>604.80</baseImponible>
+            <tarifa>0</tarifa>
+            <valor>72.58</valor>
+         </totalImpuesto>
+      </totalConImpuestos>
+      <propina>0.00</propina>
+      <importeTotal>677.38</importeTotal>
+      <moneda>DOLAR</moneda>
+   </infoFactura>
+   <detalles>
+      <detalle>
+         <codigoPrincipal>GT237</codigoPrincipal>
+         <descripcion>LT275/70R17 114/110R 6PR ADVENTURO AT3 OWL GT RADIAL</descripcion>
+         <cantidad>4.00</cantidad>
+         <precioUnitario>180.00</precioUnitario>
+         <descuento>115.20</descuento>
+         <precioTotalSinImpuesto>604.80</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>604.80</baseImponible>
+               <valor>72.58</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+   </detalles>
+</factura>

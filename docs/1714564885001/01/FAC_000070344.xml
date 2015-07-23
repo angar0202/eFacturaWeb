@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<factura id="comprobante" version="1.0.0">
+   <infoTributaria>
+      <ambiente>1</ambiente>
+      <tipoEmision>1</tipoEmision>
+      <razonSocial>TRACTOMAQ S.A.</razonSocial>
+      <ruc>0992620854001</ruc>
+      <claveAcceso>0712201401099262085400110010010000703440010906519</claveAcceso>
+      <codDoc>01</codDoc>
+      <estab>001</estab>
+      <ptoEmi>001</ptoEmi>
+      <secuencial>000070344</secuencial>
+      <dirMatriz>KM 95 VIA DAULE 43 NO SOLAR 62 Y 23 NO</dirMatriz>
+   </infoTributaria>
+   <infoFactura>
+      <fechaEmision>07/12/2014</fechaEmision>
+      <dirEstablecimiento>S28-195 PASAJE PARAISO CENTRO COMERCIAL EL DORADO LOCAL 9</dirEstablecimiento>
+      <contribuyenteEspecial>00048</contribuyenteEspecial>
+      <obligadoContabilidad>SI</obligadoContabilidad>
+      <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+      <razonSocialComprador>PRUEBAS SERVICIO DE RENTAS INTERNAS</razonSocialComprador>
+      <identificacionComprador>1714564885001</identificacionComprador>
+      <totalSinImpuestos>337.84</totalSinImpuestos>
+      <totalDescuento>74.16</totalDescuento>
+      <totalConImpuestos>
+         <totalImpuesto>
+            <codigo>2</codigo>
+            <codigoPorcentaje>2</codigoPorcentaje>
+            <baseImponible>337.84</baseImponible>
+            <tarifa>0</tarifa>
+            <valor>40.54</valor>
+         </totalImpuesto>
+      </totalConImpuestos>
+      <propina>0.00</propina>
+      <importeTotal>378.38</importeTotal>
+      <moneda>DOLAR</moneda>
+   </infoFactura>
+   <detalles>
+      <detalle>
+         <codigoPrincipal>GT030</codigoPrincipal>
+         <descripcion>GT RADIAL 700R15 10PR SP668GT LISA </descripcion>
+         <cantidad>2.00</cantidad>
+         <precioUnitario>206.00</precioUnitario>
+         <descuento>74.16</descuento>
+         <precioTotalSinImpuesto>337.84</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>337.84</baseImponible>
+               <valor>40.54</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+   </detalles>
+</factura>

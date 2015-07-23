@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<factura id="comprobante" version="1.0.0">
+   <infoTributaria>
+      <ambiente>1</ambiente>
+      <tipoEmision>1</tipoEmision>
+      <razonSocial>TRACTOMAQ S.A.</razonSocial>
+      <ruc>0992620854001</ruc>
+      <claveAcceso>1712201401099262085400110010020000040860000314615</claveAcceso>
+      <codDoc>01</codDoc>
+      <estab>001</estab>
+      <ptoEmi>002</ptoEmi>
+      <secuencial>000004086</secuencial>
+      <dirMatriz>KM 95 VIA DAULE 43 NO SOLAR 62 Y 23 NO</dirMatriz>
+   </infoTributaria>
+   <infoFactura>
+      <fechaEmision>17/12/2014</fechaEmision>
+      <dirEstablecimiento>AV. 10 DE AGOSTO NO.7128 Y AV. EL INCA (JUNTO A MEGAMOTORS)</dirEstablecimiento>
+      <contribuyenteEspecial>00048</contribuyenteEspecial>
+      <obligadoContabilidad>SI</obligadoContabilidad>
+      <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+      <razonSocialComprador>PRUEBAS SERVICIO DE RENTAS INTERNAS</razonSocialComprador>
+      <identificacionComprador>1708650757001</identificacionComprador>
+      <totalSinImpuestos>1366.04</totalSinImpuestos>
+      <totalDescuento>0.00</totalDescuento>
+      <totalConImpuestos>
+         <totalImpuesto>
+            <codigo>2</codigo>
+            <codigoPorcentaje>2</codigoPorcentaje>
+            <baseImponible>1366.04</baseImponible>
+            <tarifa>0</tarifa>
+            <valor>163.92</valor>
+         </totalImpuesto>
+      </totalConImpuestos>
+      <propina>0.00</propina>
+      <importeTotal>1529.96</importeTotal>
+      <moneda>DOLAR</moneda>
+   </infoFactura>
+   <detalles>
+      <detalle>
+         <codigoPrincipal>DL-092(JP)</codigoPrincipal>
+         <descripcion>225/65R17 101H PT2</descripcion>
+         <cantidad>4.00</cantidad>
+         <precioUnitario>129.46</precioUnitario>
+         <descuento>0.00</descuento>
+         <precioTotalSinImpuesto>517.84</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>517.84</baseImponible>
+               <valor>62.14</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+      <detalle>
+         <codigoPrincipal>DL-064</codigoPrincipal>
+         <descripcion>275/70R16 114T AT3</descripcion>
+         <cantidad>5.00</cantidad>
+         <precioUnitario>169.64</precioUnitario>
+         <descuento>0.00</descuento>
+         <precioTotalSinImpuesto>848.20</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>848.20</baseImponible>
+               <valor>101.78</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+   </detalles>
+</factura>

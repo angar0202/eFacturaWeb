@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<factura id="comprobante" version="1.0.0">
+   <infoTributaria>
+      <ambiente>1</ambiente>
+      <tipoEmision>1</tipoEmision>
+      <razonSocial>TRACTOMAQ S.A.</razonSocial>
+      <ruc>0992620854001</ruc>
+      <claveAcceso>0712201401099262085400110010010000703140010902919</claveAcceso>
+      <codDoc>01</codDoc>
+      <estab>001</estab>
+      <ptoEmi>001</ptoEmi>
+      <secuencial>000070314</secuencial>
+      <dirMatriz>KM 95 VIA DAULE 43 NO SOLAR 62 Y 23 NO</dirMatriz>
+   </infoTributaria>
+   <infoFactura>
+      <fechaEmision>07/12/2014</fechaEmision>
+      <dirEstablecimiento>AV. 19 DE MAYO # 192 Y LOS ALAMOS</dirEstablecimiento>
+      <contribuyenteEspecial>00048</contribuyenteEspecial>
+      <obligadoContabilidad>SI</obligadoContabilidad>
+      <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+      <razonSocialComprador>PRUEBAS SERVICIO DE RENTAS INTERNAS</razonSocialComprador>
+      <identificacionComprador>0500302963001</identificacionComprador>
+      <totalSinImpuestos>2032.80</totalSinImpuestos>
+      <totalDescuento>387.20</totalDescuento>
+      <totalConImpuestos>
+         <totalImpuesto>
+            <codigo>2</codigo>
+            <codigoPorcentaje>2</codigoPorcentaje>
+            <baseImponible>2032.80</baseImponible>
+            <tarifa>0</tarifa>
+            <valor>243.93</valor>
+         </totalImpuesto>
+      </totalConImpuestos>
+      <propina>0.00</propina>
+      <importeTotal>2276.73</importeTotal>
+      <moneda>DOLAR</moneda>
+   </infoFactura>
+   <detalles>
+      <detalle>
+         <codigoPrincipal>CS336</codigoPrincipal>
+         <descripcion>CHENGSHAN 1200R2018PR CST27 MIXTA</descripcion>
+         <cantidad>2.00</cantidad>
+         <precioUnitario>640.00</precioUnitario>
+         <descuento>204.80</descuento>
+         <precioTotalSinImpuesto>1075.20</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>1075.20</baseImponible>
+               <valor>129.02</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+      <detalle>
+         <codigoPrincipal>GT233</codigoPrincipal>
+         <descripcion>GT RADIAL 12R22.5 18PR 152/149F GAO822</descripcion>
+         <cantidad>2.00</cantidad>
+         <precioUnitario>570.00</precioUnitario>
+         <descuento>182.40</descuento>
+         <precioTotalSinImpuesto>957.60</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>957.60</baseImponible>
+               <valor>114.91</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+   </detalles>
+</factura>

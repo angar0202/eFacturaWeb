@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<guiaRemision id="comprobante" version="1.0.0">
+   <infoTributaria>
+      <ambiente>1</ambiente>
+      <tipoEmision>1</tipoEmision>
+      <razonSocial>TRACTOMAQ S A </razonSocial>
+      <ruc>0992620854001</ruc>
+      <claveAcceso>1812201406099262085400110010020000040940000016819</claveAcceso>
+      <codDoc>06</codDoc>
+      <estab>001</estab>
+      <ptoEmi>002</ptoEmi>
+      <secuencial>000004094</secuencial>
+      <dirMatriz>KM 95 VIA DAULE 43 NO SOLAR 62 Y 23 NO</dirMatriz>
+   </infoTributaria>
+   <infoGuiaRemision>
+      <dirEstablecimiento>AV. EL REY S/N Y TELIGOTE FRENTE A FEICO</dirEstablecimiento>
+      <dirPartida>AV. EL REY S/N Y TELIGOTE FRENTE A FEICO</dirPartida>
+      <razonSocialTransportista>PRUEBAS SERVICIO DE RENTAS INTERNAS</razonSocialTransportista>
+      <tipoIdentificacionTransportista>04</tipoIdentificacionTransportista>
+      <rucTransportista>1802983732001</rucTransportista>
+      <rise>RISE</rise>
+      <obligadoContabilidad>SI</obligadoContabilidad>
+      <contribuyenteEspecial>00048</contribuyenteEspecial>
+      <fechaIniTransporte>18/12/2014</fechaIniTransporte>
+      <fechaFinTransporte>18/12/2014</fechaFinTransporte>
+      <placa>JAA1425</placa>
+   </infoGuiaRemision>
+   <destinatarios>
+      <destinatario>
+         <identificacionDestinatario>1802983732001</identificacionDestinatario>
+         <razonSocialDestinatario>VARGAS FUENTES YESSENIA  </razonSocialDestinatario>
+         <dirDestinatario>AV. EL REY S/N Y TELIGOTE FRENTE A FEICO</dirDestinatario>
+         <motivoTraslado>O</motivoTraslado>
+         <codEstabDestino>001</codEstabDestino>
+         <ruta>NA</ruta>
+         <codDocSustento>01</codDocSustento>
+         <numDocSustento>001-002-000004094</numDocSustento>
+         <numAutDocSustento>1712201411505209926208540010173255064</numAutDocSustento>
+         <fechaEmisionDocSustento>16/12/2014</fechaEmisionDocSustento>
+         <detalles>
+            <detalle>
+               <codigoInterno>DL-105</codigoInterno>
+               <descripcion>195/60R15 88H SPLM703</descripcion>
+               <cantidad>2.00</cantidad>
+            </detalle>
+         </detalles>
+      </destinatario>
+   </destinatarios>
+</guiaRemision>

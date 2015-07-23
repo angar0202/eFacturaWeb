@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<guiaRemision id="comprobante" version="1.0.0">
+   <infoTributaria>
+      <ambiente>1</ambiente>
+      <tipoEmision>1</tipoEmision>
+      <razonSocial>TRACTOMAQ S.A.</razonSocial>
+      <ruc>0992620854001</ruc>
+      <claveAcceso>1812201406099262085400110010020000040740000015910</claveAcceso>
+      <codDoc>06</codDoc>
+      <estab>001</estab>
+      <ptoEmi>002</ptoEmi>
+      <secuencial>000004074</secuencial>
+      <dirMatriz>KM 95 VIA DAULE 43 NO SOLAR 62 Y 23 NO</dirMatriz>
+   </infoTributaria>
+   <infoGuiaRemision>
+      <dirEstablecimiento>AV. JUAN TANCA MARENGO KM 5.5</dirEstablecimiento>
+      <dirPartida>AV. JUAN TANCA MARENGO KM 5.5</dirPartida>
+      <razonSocialTransportista>PRUEBAS SERVICIO DE RENTAS INTERNAS</razonSocialTransportista>
+      <tipoIdentificacionTransportista>04</tipoIdentificacionTransportista>
+      <rucTransportista>0990006059001</rucTransportista>
+      <rise>RISE</rise>
+      <obligadoContabilidad>SI</obligadoContabilidad>
+      <contribuyenteEspecial>00048</contribuyenteEspecial>
+      <fechaIniTransporte />
+      <fechaFinTransporte />
+      <placa>GHV547</placa>
+   </infoGuiaRemision>
+   <destinatarios>
+      <destinatario>
+         <identificacionDestinatario>0990006059001</identificacionDestinatario>
+         <razonSocialDestinatario>FRENOSEGURO CIA. LTDA.</razonSocialDestinatario>
+         <dirDestinatario>AV. JUAN TANCA MARENGO KM 5.5</dirDestinatario>
+         <motivoTraslado>O</motivoTraslado>
+         <codEstabDestino>001</codEstabDestino>
+         <ruta>N/A</ruta>
+         <codDocSustento>01</codDocSustento>
+         <numDocSustento>001-002-000004074</numDocSustento>
+         <numAutDocSustento>1712201411481909926208540010173249787</numAutDocSustento>
+         <fechaEmisionDocSustento>13/12/2014</fechaEmisionDocSustento>
+         <detalles>
+            <detalle>
+               <codigoInterno>DL-030</codigoInterno>
+               <descripcion>225/55R16 95V DZ101DI</descripcion>
+               <cantidad>4.00</cantidad>
+            </detalle>
+         </detalles>
+      </destinatario>
+   </destinatarios>
+</guiaRemision>

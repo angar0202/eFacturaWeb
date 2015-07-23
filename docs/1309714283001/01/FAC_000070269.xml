@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<factura id="comprobante" version="1.0.0">
+   <infoTributaria>
+      <ambiente>1</ambiente>
+      <tipoEmision>1</tipoEmision>
+      <razonSocial>TRACTOMAQ S.A.</razonSocial>
+      <ruc>0992620854001</ruc>
+      <claveAcceso>0412201401099262085400110010010000702690010897713</claveAcceso>
+      <codDoc>01</codDoc>
+      <estab>001</estab>
+      <ptoEmi>001</ptoEmi>
+      <secuencial>000070269</secuencial>
+      <dirMatriz>KM 95 VIA DAULE 43 NO SOLAR 62 Y 23 NO</dirMatriz>
+   </infoTributaria>
+   <infoFactura>
+      <fechaEmision>04/12/2014</fechaEmision>
+      <dirEstablecimiento>ALEJO LASCANO Y SANTISTEVAN</dirEstablecimiento>
+      <contribuyenteEspecial>12345</contribuyenteEspecial>
+      <obligadoContabilidad>SI</obligadoContabilidad>
+      <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+      <razonSocialComprador>PRUEBAS SERVICIO DE RENTAS INTERNAS</razonSocialComprador>
+      <identificacionComprador>1309714283001</identificacionComprador>
+      <totalSinImpuestos>537.93</totalSinImpuestos>
+      <totalDescuento>38.11</totalDescuento>
+      <totalConImpuestos>
+         <totalImpuesto>
+            <codigo>2</codigo>
+            <codigoPorcentaje>2</codigoPorcentaje>
+            <baseImponible>537.93</baseImponible>
+            <tarifa>0</tarifa>
+            <valor>64.55</valor>
+         </totalImpuesto>
+      </totalConImpuestos>
+      <propina>0.00</propina>
+      <importeTotal>602.48</importeTotal>
+      <moneda>DOLAR</moneda>
+   </infoFactura>
+   <detalles>
+      <detalle>
+         <codigoPrincipal>GT093</codigoPrincipal>
+         <descripcion>GT RADIAL 165/70R12 77T MAXTOUR GT</descripcion>
+         <cantidad>4.00</cantidad>
+         <precioUnitario>52.93</precioUnitario>
+         <descuento>38.11</descuento>
+         <precioTotalSinImpuesto>173.61</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>173.61</baseImponible>
+               <valor>20.83</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+      <detalle>
+         <codigoPrincipal>GT137</codigoPrincipal>
+         <descripcion>GT RADIAL 185/70R13 86T CHAMPIRO VP1</descripcion>
+         <cantidad>8.00</cantidad>
+         <precioUnitario>45.54</precioUnitario>
+         <descuento>0.00</descuento>
+         <precioTotalSinImpuesto>364.32</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>364.32</baseImponible>
+               <valor>43.72</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+   </detalles>
+</factura>

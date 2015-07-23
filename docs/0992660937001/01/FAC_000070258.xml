@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<factura id="comprobante" version="1.0.0">
+   <infoTributaria>
+      <ambiente>1</ambiente>
+      <tipoEmision>1</tipoEmision>
+      <razonSocial>TRACTOMAQ S.A.</razonSocial>
+      <ruc>0992620854001</ruc>
+      <claveAcceso>0412201401099262085400110010010000702580010896611</claveAcceso>
+      <codDoc>01</codDoc>
+      <estab>001</estab>
+      <ptoEmi>001</ptoEmi>
+      <secuencial>000070258</secuencial>
+      <dirMatriz>KM 95 VIA DAULE 43 NO SOLAR 62 Y 23 NO</dirMatriz>
+   </infoTributaria>
+   <infoFactura>
+      <fechaEmision>04/12/2014</fechaEmision>
+      <dirEstablecimiento>CDLA VERNAZA NORTE , AV. JOAQUIN ORRANTIA Y LEOPOLDO BENITEZRDIFICIO TRADE BUILDERS</dirEstablecimiento>
+      <contribuyenteEspecial>12345</contribuyenteEspecial>
+      <obligadoContabilidad>SI</obligadoContabilidad>
+      <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+      <razonSocialComprador>PRUEBAS SERVICIO DE RENTAS INTERNAS</razonSocialComprador>
+      <identificacionComprador>0992660937001</identificacionComprador>
+      <totalSinImpuestos>1764.67</totalSinImpuestos>
+      <totalDescuento>336.13</totalDescuento>
+      <totalConImpuestos>
+         <totalImpuesto>
+            <codigo>2</codigo>
+            <codigoPorcentaje>2</codigoPorcentaje>
+            <baseImponible>1764.67</baseImponible>
+            <tarifa>0</tarifa>
+            <valor>211.76</valor>
+         </totalImpuesto>
+      </totalConImpuestos>
+      <propina>0.00</propina>
+      <importeTotal>1976.43</importeTotal>
+      <moneda>DOLAR</moneda>
+   </infoFactura>
+   <detalles>
+      <detalle>
+         <codigoPrincipal>GT103</codigoPrincipal>
+         <descripcion>GT RADIAL 295/80R22.5 16PR GT659 TRAC</descripcion>
+         <cantidad>4.00</cantidad>
+         <precioUnitario>525.20</precioUnitario>
+         <descuento>336.13</descuento>
+         <precioTotalSinImpuesto>1764.67</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>1764.67</baseImponible>
+               <valor>211.76</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+   </detalles>
+</factura>

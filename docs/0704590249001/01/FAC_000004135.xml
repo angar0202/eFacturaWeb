@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<factura id="comprobante" version="1.0.0">
+   <infoTributaria>
+      <ambiente>1</ambiente>
+      <tipoEmision>1</tipoEmision>
+      <razonSocial>TRACTOMAQ S.A.</razonSocial>
+      <ruc>0992620854001</ruc>
+      <claveAcceso>1912201401099262085400110010020000041350000319719</claveAcceso>
+      <codDoc>01</codDoc>
+      <estab>001</estab>
+      <ptoEmi>002</ptoEmi>
+      <secuencial>000004135</secuencial>
+      <dirMatriz>KM 95 VIA DAULE 43 NO SOLAR 62 Y 23 NO</dirMatriz>
+   </infoTributaria>
+   <infoFactura>
+      <fechaEmision>19/12/2014</fechaEmision>
+      <dirEstablecimiento>COLON S/N Y CARRION PINZANO Y JULIO  BETANC RF: FRENTE A UNA LUBRICADORA</dirEstablecimiento>
+      <contribuyenteEspecial>00048</contribuyenteEspecial>
+      <obligadoContabilidad>SI</obligadoContabilidad>
+      <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+      <razonSocialComprador>PRUEBAS SERVICIO DE RENTAS INTERNAS</razonSocialComprador>
+      <identificacionComprador>0704590249001</identificacionComprador>
+      <totalSinImpuestos>783.00</totalSinImpuestos>
+      <totalDescuento>0.00</totalDescuento>
+      <totalConImpuestos>
+         <totalImpuesto>
+            <codigo>2</codigo>
+            <codigoPorcentaje>2</codigoPorcentaje>
+            <baseImponible>783.00</baseImponible>
+            <tarifa>0</tarifa>
+            <valor>93.96</valor>
+         </totalImpuesto>
+      </totalConImpuestos>
+      <propina>0.00</propina>
+      <importeTotal>876.96</importeTotal>
+      <moneda>DOLAR</moneda>
+   </infoFactura>
+   <detalles>
+      <detalle>
+         <codigoPrincipal>DL-059(JP)</codigoPrincipal>
+         <descripcion>P275/60R15 107S SPGT WL GI</descripcion>
+         <cantidad>4.00</cantidad>
+         <precioUnitario>136.84</precioUnitario>
+         <descuento>0.00</descuento>
+         <precioTotalSinImpuesto>547.36</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>547.36</baseImponible>
+               <valor>65.68</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+      <detalle>
+         <codigoPrincipal>DL-037</codigoPrincipal>
+         <descripcion>185/60R13 80H SPLM703 GEI</descripcion>
+         <cantidad>4.00</cantidad>
+         <precioUnitario>58.91</precioUnitario>
+         <descuento>0.00</descuento>
+         <precioTotalSinImpuesto>235.64</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>235.64</baseImponible>
+               <valor>28.28</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+   </detalles>
+</factura>

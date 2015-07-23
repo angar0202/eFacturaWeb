@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<guiaRemision id="comprobante" version="1.0.0">
+   <infoTributaria>
+      <ambiente>1</ambiente>
+      <tipoEmision>1</tipoEmision>
+      <razonSocial>TRACTOMAQ S A </razonSocial>
+      <ruc>0992620854001</ruc>
+      <claveAcceso>1812201406099262085400110010020000041030000017413</claveAcceso>
+      <codDoc>06</codDoc>
+      <estab>001</estab>
+      <ptoEmi>002</ptoEmi>
+      <secuencial>000004103</secuencial>
+      <dirMatriz>KM 95 VIA DAULE 43 NO SOLAR 62 Y 23 NO</dirMatriz>
+   </infoTributaria>
+   <infoGuiaRemision>
+      <dirEstablecimiento>AV. 8 DE ABRIL S/N</dirEstablecimiento>
+      <dirPartida>AV. 8 DE ABRIL S/N</dirPartida>
+      <razonSocialTransportista>PRUEBAS SERVICIO DE RENTAS INTERNAS</razonSocialTransportista>
+      <tipoIdentificacionTransportista>04</tipoIdentificacionTransportista>
+      <rucTransportista>0911063717001</rucTransportista>
+      <rise>RISE</rise>
+      <obligadoContabilidad>SI</obligadoContabilidad>
+      <contribuyenteEspecial>00048</contribuyenteEspecial>
+      <fechaIniTransporte>18/12/2014</fechaIniTransporte>
+      <fechaFinTransporte>18/12/2014</fechaFinTransporte>
+      <placa>GPE350</placa>
+   </infoGuiaRemision>
+   <destinatarios>
+      <destinatario>
+         <identificacionDestinatario>0911063717001</identificacionDestinatario>
+         <razonSocialDestinatario>OLVERA YULAN MARCIA CECIL</razonSocialDestinatario>
+         <dirDestinatario>AV. 8 DE ABRIL S/N</dirDestinatario>
+         <motivoTraslado>O</motivoTraslado>
+         <codEstabDestino>001</codEstabDestino>
+         <ruta>NA</ruta>
+         <codDocSustento>01</codDocSustento>
+         <numDocSustento>001-002-000004103</numDocSustento>
+         <numAutDocSustento>1712201411570009926208540010173267038</numAutDocSustento>
+         <fechaEmisionDocSustento>16/12/2014</fechaEmisionDocSustento>
+         <detalles>
+            <detalle>
+               <codigoInterno>DL-035</codigoInterno>
+               <descripcion>175/50R13 72H SPLM703 GEI</descripcion>
+               <cantidad>4.00</cantidad>
+            </detalle>
+         </detalles>
+      </destinatario>
+   </destinatarios>
+</guiaRemision>

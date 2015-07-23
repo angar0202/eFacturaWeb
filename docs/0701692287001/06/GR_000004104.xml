@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<guiaRemision id="comprobante" version="1.0.0">
+   <infoTributaria>
+      <ambiente>1</ambiente>
+      <tipoEmision>1</tipoEmision>
+      <razonSocial>TRACTOMAQ S A </razonSocial>
+      <ruc>0992620854001</ruc>
+      <claveAcceso>1812201406099262085400110010020000041040000017516</claveAcceso>
+      <codDoc>06</codDoc>
+      <estab>001</estab>
+      <ptoEmi>002</ptoEmi>
+      <secuencial>000004104</secuencial>
+      <dirMatriz>KM 95 VIA DAULE 43 NO SOLAR 62 Y 23 NO</dirMatriz>
+   </infoTributaria>
+   <infoGuiaRemision>
+      <dirEstablecimiento>CALLE EUGENIO ESPEJO S/N Y 15 DE OCTUBRE FRENTE AL ALMACEN PYCCA </dirEstablecimiento>
+      <dirPartida>CALLE EUGENIO ESPEJO S/N Y 15 DE OCTUBRE FRENTE AL ALMACEN PYCCA </dirPartida>
+      <razonSocialTransportista>PRUEBAS SERVICIO DE RENTAS INTERNAS</razonSocialTransportista>
+      <tipoIdentificacionTransportista>04</tipoIdentificacionTransportista>
+      <rucTransportista>0701692287001</rucTransportista>
+      <rise>RISE</rise>
+      <obligadoContabilidad>SI</obligadoContabilidad>
+      <contribuyenteEspecial>00048</contribuyenteEspecial>
+      <fechaIniTransporte>18/12/2014</fechaIniTransporte>
+      <fechaFinTransporte>18/12/2014</fechaFinTransporte>
+      <placa>GPE350</placa>
+   </infoGuiaRemision>
+   <destinatarios>
+      <destinatario>
+         <identificacionDestinatario>0701692287001</identificacionDestinatario>
+         <razonSocialDestinatario>TORAL REGALADO TEOFILO MA</razonSocialDestinatario>
+         <dirDestinatario>CALLE EUGENIO ESPEJO S/N Y 15 DE OCTUBRE FRENTE AL ALMACEN PYCCA </dirDestinatario>
+         <motivoTraslado>O</motivoTraslado>
+         <codEstabDestino>001</codEstabDestino>
+         <ruta>NA</ruta>
+         <codDocSustento>01</codDocSustento>
+         <numDocSustento>001-002-000004104</numDocSustento>
+         <numAutDocSustento>1712201411570809926208540010173267281</numAutDocSustento>
+         <fechaEmisionDocSustento>16/12/2014</fechaEmisionDocSustento>
+         <detalles>
+            <detalle>
+               <codigoInterno>DL-111</codigoInterno>
+               <descripcion>225/70R16 103T AT3</descripcion>
+               <cantidad>4.00</cantidad>
+            </detalle>
+         </detalles>
+      </destinatario>
+      <destinatario>
+         <identificacionDestinatario>0701692287001</identificacionDestinatario>
+         <razonSocialDestinatario>TORAL REGALADO TEOFILO MA</razonSocialDestinatario>
+         <dirDestinatario>CALLE EUGENIO ESPEJO S/N Y 15 DE OCTUBRE FRENTE AL ALMACEN PYCCA </dirDestinatario>
+         <motivoTraslado>O</motivoTraslado>
+         <codEstabDestino>001</codEstabDestino>
+         <ruta>NA</ruta>
+         <codDocSustento>01</codDocSustento>
+         <numDocSustento>001-002-000004104</numDocSustento>
+         <numAutDocSustento>1712201411570809926208540010173267281</numAutDocSustento>
+         <fechaEmisionDocSustento>16/12/2014</fechaEmisionDocSustento>
+         <detalles>
+            <detalle>
+               <codigoInterno>DL-006</codigoInterno>
+               <descripcion>245/65R17 107H AT3 BL 01 EEI</descripcion>
+               <cantidad>4.00</cantidad>
+            </detalle>
+         </detalles>
+      </destinatario>
+      <destinatario>
+         <identificacionDestinatario>0701692287001</identificacionDestinatario>
+         <razonSocialDestinatario>TORAL REGALADO TEOFILO MA</razonSocialDestinatario>
+         <dirDestinatario>CALLE EUGENIO ESPEJO S/N Y 15 DE OCTUBRE FRENTE AL ALMACEN PYCCA </dirDestinatario>
+         <motivoTraslado>O</motivoTraslado>
+         <codEstabDestino>001</codEstabDestino>
+         <ruta>NA</ruta>
+         <codDocSustento>01</codDocSustento>
+         <numDocSustento>001-002-000004104</numDocSustento>
+         <numAutDocSustento>1712201411570809926208540010173267281</numAutDocSustento>
+         <fechaEmisionDocSustento>16/12/2014</fechaEmisionDocSustento>
+         <detalles>
+            <detalle>
+               <codigoInterno>DL-078</codigoInterno>
+               <descripcion>195/65R15 91V SPLM704</descripcion>
+               <cantidad>4.00</cantidad>
+            </detalle>
+         </detalles>
+      </destinatario>
+      <destinatario>
+         <identificacionDestinatario>0701692287001</identificacionDestinatario>
+         <razonSocialDestinatario>TORAL REGALADO TEOFILO MA</razonSocialDestinatario>
+         <dirDestinatario>CALLE EUGENIO ESPEJO S/N Y 15 DE OCTUBRE FRENTE AL ALMACEN PYCCA </dirDestinatario>
+         <motivoTraslado>O</motivoTraslado>
+         <codEstabDestino>001</codEstabDestino>
+         <ruta>NA</ruta>
+         <codDocSustento>01</codDocSustento>
+         <numDocSustento>001-002-000004104</numDocSustento>
+         <numAutDocSustento>1712201411570809926208540010173267281</numAutDocSustento>
+         <fechaEmisionDocSustento>16/12/2014</fechaEmisionDocSustento>
+         <detalles>
+            <detalle>
+               <codigoInterno>DL-012</codigoInterno>
+               <descripcion>255/70R16 111T AT3 OW 01 GDEEI</descripcion>
+               <cantidad>8.00</cantidad>
+            </detalle>
+         </detalles>
+      </destinatario>
+      <destinatario>
+         <identificacionDestinatario>0701692287001</identificacionDestinatario>
+         <razonSocialDestinatario>TORAL REGALADO TEOFILO MA</razonSocialDestinatario>
+         <dirDestinatario>CALLE EUGENIO ESPEJO S/N Y 15 DE OCTUBRE FRENTE AL ALMACEN PYCCA </dirDestinatario>
+         <motivoTraslado>O</motivoTraslado>
+         <codEstabDestino>001</codEstabDestino>
+         <ruta>NA</ruta>
+         <codDocSustento>01</codDocSustento>
+         <numDocSustento>001-002-000004104</numDocSustento>
+         <numAutDocSustento>1712201411570809926208540010173267281</numAutDocSustento>
+         <fechaEmisionDocSustento>16/12/2014</fechaEmisionDocSustento>
+         <detalles>
+            <detalle>
+               <codigoInterno>DL-036</codigoInterno>
+               <descripcion>185/60R14 82H SPLM703 GEEI</descripcion>
+               <cantidad>8.00</cantidad>
+            </detalle>
+         </detalles>
+      </destinatario>
+   </destinatarios>
+</guiaRemision>

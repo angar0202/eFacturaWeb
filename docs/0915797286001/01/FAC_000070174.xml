@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<factura id="comprobante" version="1.0.0">
+   <infoTributaria>
+      <ambiente>1</ambiente>
+      <tipoEmision>1</tipoEmision>
+      <razonSocial>TRACTOMAQ S.A.</razonSocial>
+      <ruc>0992620854001</ruc>
+      <claveAcceso>2711201401099262085400110010010000701740010887414</claveAcceso>
+      <codDoc>01</codDoc>
+      <estab>001</estab>
+      <ptoEmi>001</ptoEmi>
+      <secuencial>000070174</secuencial>
+      <dirMatriz>KM 95 VIA DAULE 43 NO SOLAR 62 Y 23 NO</dirMatriz>
+   </infoTributaria>
+   <infoFactura>
+      <fechaEmision>27/11/2014</fechaEmision>
+      <dirEstablecimiento>AV. QUITO 4856 Y ORIENTE</dirEstablecimiento>
+      <obligadoContabilidad>SI</obligadoContabilidad>
+      <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+      <razonSocialComprador>PRUEBAS SERVICIO DE RENTAS INTERNAS</razonSocialComprador>
+      <identificacionComprador>0915797286001</identificacionComprador>
+      <totalSinImpuestos>729.12</totalSinImpuestos>
+      <totalDescuento>138.88</totalDescuento>
+      <totalConImpuestos>
+         <totalImpuesto>
+            <codigo>2</codigo>
+            <codigoPorcentaje>2</codigoPorcentaje>
+            <baseImponible>729.12</baseImponible>
+            <tarifa>0</tarifa>
+            <valor>87.49</valor>
+         </totalImpuesto>
+      </totalConImpuestos>
+      <propina>0.00</propina>
+      <importeTotal>816.61</importeTotal>
+      <moneda>DOLAR</moneda>
+   </infoFactura>
+   <detalles>
+      <detalle>
+         <codigoPrincipal>GT008</codigoPrincipal>
+         <descripcion>GT RADIAL LT235/75R15  6PR  A/T LB</descripcion>
+         <cantidad>4.00</cantidad>
+         <precioUnitario>147.00</precioUnitario>
+         <descuento>94.08</descuento>
+         <precioTotalSinImpuesto>493.92</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>493.92</baseImponible>
+               <valor>59.27</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+      <detalle>
+         <codigoPrincipal>RW409</codigoPrincipal>
+         <descripcion>RUNWAY LT235/75R15 6PR ENDURO A/T LB</descripcion>
+         <cantidad>2.00</cantidad>
+         <precioUnitario>140.00</precioUnitario>
+         <descuento>44.80</descuento>
+         <precioTotalSinImpuesto>235.20</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>235.20</baseImponible>
+               <valor>28.22</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+   </detalles>
+</factura>

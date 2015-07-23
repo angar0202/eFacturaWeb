@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<factura id="comprobante" version="1.0.0">
+   <infoTributaria>
+      <ambiente>1</ambiente>
+      <tipoEmision>1</tipoEmision>
+      <razonSocial>TRACTOMAQ S.A.</razonSocial>
+      <ruc>0992620854001</ruc>
+      <claveAcceso>2711201401099262085400110010010000701490010884516</claveAcceso>
+      <codDoc>01</codDoc>
+      <estab>001</estab>
+      <ptoEmi>001</ptoEmi>
+      <secuencial>000070149</secuencial>
+      <dirMatriz>KM 95 VIA DAULE 43 NO SOLAR 62 Y 23 NO</dirMatriz>
+   </infoTributaria>
+   <infoFactura>
+      <fechaEmision>27/11/2014</fechaEmision>
+      <dirEstablecimiento>CDLA LA PRADERA CALLE LEONIDAS PLAZA # 06-06 Y AV. LOS CHASQUIS</dirEstablecimiento>
+      <obligadoContabilidad>SI</obligadoContabilidad>
+      <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+      <razonSocialComprador>PRUEBAS SERVICIO DE RENTAS INTERNAS</razonSocialComprador>
+      <identificacionComprador>1801941459001</identificacionComprador>
+      <totalSinImpuestos>984.20</totalSinImpuestos>
+      <totalDescuento>65.52</totalDescuento>
+      <totalConImpuestos>
+         <totalImpuesto>
+            <codigo>2</codigo>
+            <codigoPorcentaje>2</codigoPorcentaje>
+            <baseImponible>984.20</baseImponible>
+            <tarifa>0</tarifa>
+            <valor>118.11</valor>
+         </totalImpuesto>
+      </totalConImpuestos>
+      <propina>0.00</propina>
+      <importeTotal>1102.31</importeTotal>
+      <moneda>DOLAR</moneda>
+   </infoFactura>
+   <detalles>
+      <detalle>
+         <codigoPrincipal>GT010</codigoPrincipal>
+         <descripcion>GT RADIAL 650R16 10PR S.TRAV668 LISA</descripcion>
+         <cantidad>2.00</cantidad>
+         <precioUnitario>182.00</precioUnitario>
+         <descuento>65.52</descuento>
+         <precioTotalSinImpuesto>298.48</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>298.48</baseImponible>
+               <valor>35.82</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+      <detalle>
+         <codigoPrincipal>GT064</codigoPrincipal>
+         <descripcion>GT RADIAL 33X12.50R15LT 6PR ADVENT. M/T LB</descripcion>
+         <cantidad>4.00</cantidad>
+         <precioUnitario>171.43</precioUnitario>
+         <descuento>0.00</descuento>
+         <precioTotalSinImpuesto>685.72</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>685.72</baseImponible>
+               <valor>82.29</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+   </detalles>
+</factura>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<factura id="comprobante" version="1.0.0">
+   <infoTributaria>
+      <ambiente>1</ambiente>
+      <tipoEmision>1</tipoEmision>
+      <razonSocial>TRACTOMAQ S.A.</razonSocial>
+      <ruc>0992620854001</ruc>
+      <claveAcceso>0412201401099262085400110010010000702670010897518</claveAcceso>
+      <codDoc>01</codDoc>
+      <estab>001</estab>
+      <ptoEmi>001</ptoEmi>
+      <secuencial>000070267</secuencial>
+      <dirMatriz>KM 95 VIA DAULE 43 NO SOLAR 62 Y 23 NO</dirMatriz>
+   </infoTributaria>
+   <infoFactura>
+      <fechaEmision>04/12/2014</fechaEmision>
+      <dirEstablecimiento>17 AVA #805 ENTRE FEBRES CORDERO Y CUENCA</dirEstablecimiento>
+      <contribuyenteEspecial>12345</contribuyenteEspecial>
+      <obligadoContabilidad>SI</obligadoContabilidad>
+      <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+      <razonSocialComprador>PRUEBAS SERVICIO DE RENTAS INTERNAS</razonSocialComprador>
+      <identificacionComprador>0918452988001</identificacionComprador>
+      <totalSinImpuestos>1975.93</totalSinImpuestos>
+      <totalDescuento>376.37</totalDescuento>
+      <totalConImpuestos>
+         <totalImpuesto>
+            <codigo>2</codigo>
+            <codigoPorcentaje>2</codigoPorcentaje>
+            <baseImponible>1975.93</baseImponible>
+            <tarifa>0</tarifa>
+            <valor>237.11</valor>
+         </totalImpuesto>
+      </totalConImpuestos>
+      <propina>0.00</propina>
+      <importeTotal>2213.04</importeTotal>
+      <moneda>DOLAR</moneda>
+   </infoFactura>
+   <detalles>
+      <detalle>
+         <codigoPrincipal>RW562</codigoPrincipal>
+         <descripcion>GT RADIAL 185/55R15 82H  WINGRO</descripcion>
+         <cantidad>30.00</cantidad>
+         <precioUnitario>78.41</precioUnitario>
+         <descuento>376.37</descuento>
+         <precioTotalSinImpuesto>1975.93</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>1975.93</baseImponible>
+               <valor>237.11</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+   </detalles>
+</factura>

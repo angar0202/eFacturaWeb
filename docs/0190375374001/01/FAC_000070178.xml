@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<factura id="comprobante" version="1.0.0">
+   <infoTributaria>
+      <ambiente>1</ambiente>
+      <tipoEmision>1</tipoEmision>
+      <razonSocial>TRACTOMAQ S.A.</razonSocial>
+      <ruc>0992620854001</ruc>
+      <claveAcceso>2711201401099262085400110010010000701780010888110</claveAcceso>
+      <codDoc>01</codDoc>
+      <estab>001</estab>
+      <ptoEmi>001</ptoEmi>
+      <secuencial>000070178</secuencial>
+      <dirMatriz>KM 95 VIA DAULE 43 NO SOLAR 62 Y 23 NO</dirMatriz>
+   </infoTributaria>
+   <infoFactura>
+      <fechaEmision>27/11/2014</fechaEmision>
+      <dirEstablecimiento>HEROES DE VERDELOMA Y GIL RAMIREZ DAVALOS</dirEstablecimiento>
+      <obligadoContabilidad>SI</obligadoContabilidad>
+      <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+      <razonSocialComprador>PRUEBAS SERVICIO DE RENTAS INTERNAS</razonSocialComprador>
+      <identificacionComprador>0190375374001</identificacionComprador>
+      <totalSinImpuestos>3655.24</totalSinImpuestos>
+      <totalDescuento>181.44</totalDescuento>
+      <totalConImpuestos>
+         <totalImpuesto>
+            <codigo>2</codigo>
+            <codigoPorcentaje>2</codigoPorcentaje>
+            <baseImponible>3655.24</baseImponible>
+            <tarifa>0</tarifa>
+            <valor>438.64</valor>
+         </totalImpuesto>
+      </totalConImpuestos>
+      <propina>0.00</propina>
+      <importeTotal>4093.88</importeTotal>
+      <moneda>DOLAR</moneda>
+   </infoFactura>
+   <detalles>
+      <detalle>
+         <codigoPrincipal>GT079</codigoPrincipal>
+         <descripcion>GT RADIAL P205/75R14 95S CHAMPIRO 75BL </descripcion>
+         <cantidad>12.00</cantidad>
+         <precioUnitario>84.00</precioUnitario>
+         <descuento>181.44</descuento>
+         <precioTotalSinImpuesto>826.56</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>826.56</baseImponible>
+               <valor>99.19</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+      <detalle>
+         <codigoPrincipal>GT082</codigoPrincipal>
+         <descripcion>GT RADIAL LT235/75R15 104/101S 6PR M/T</descripcion>
+         <cantidad>12.00</cantidad>
+         <precioUnitario>120.54</precioUnitario>
+         <descuento>0.00</descuento>
+         <precioTotalSinImpuesto>1446.48</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>1446.48</baseImponible>
+               <valor>173.58</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+      <detalle>
+         <codigoPrincipal>GT162</codigoPrincipal>
+         <descripcion>GT RADIAL 195/70R14 91T MAXTOUR</descripcion>
+         <cantidad>12.00</cantidad>
+         <precioUnitario>58.04</precioUnitario>
+         <descuento>0.00</descuento>
+         <precioTotalSinImpuesto>696.48</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>696.48</baseImponible>
+               <valor>83.58</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+      <detalle>
+         <codigoPrincipal>GT064</codigoPrincipal>
+         <descripcion>GT RADIAL 33X12.50R15LT 6PR ADVENT. M/T LB</descripcion>
+         <cantidad>4.00</cantidad>
+         <precioUnitario>171.43</precioUnitario>
+         <descuento>0.00</descuento>
+         <precioTotalSinImpuesto>685.72</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>685.72</baseImponible>
+               <valor>82.29</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+   </detalles>
+</factura>

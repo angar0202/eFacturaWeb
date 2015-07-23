@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<guiaRemision id="comprobante" version="1.0.0">
+   <infoTributaria>
+      <ambiente>1</ambiente>
+      <tipoEmision>1</tipoEmision>
+      <razonSocial>TRACTOMAQ S A </razonSocial>
+      <ruc>0992620854001</ruc>
+      <claveAcceso>1712201406099262085400110010020000040930000016711</claveAcceso>
+      <codDoc>06</codDoc>
+      <estab>001</estab>
+      <ptoEmi>002</ptoEmi>
+      <secuencial>000004093</secuencial>
+      <dirMatriz>KM 95 VIA DAULE 43 NO SOLAR 62 Y 23 NO</dirMatriz>
+   </infoTributaria>
+   <infoGuiaRemision>
+      <dirEstablecimiento>BARRIO AGUA SANTA VIA A CEVALLOS S/N</dirEstablecimiento>
+      <dirPartida>BARRIO AGUA SANTA VIA A CEVALLOS S/N</dirPartida>
+      <razonSocialTransportista>PRUEBAS SERVICIO DE RENTAS INTERNAS</razonSocialTransportista>
+      <tipoIdentificacionTransportista>04</tipoIdentificacionTransportista>
+      <rucTransportista>1802064996001</rucTransportista>
+      <rise>RISE</rise>
+      <obligadoContabilidad>SI</obligadoContabilidad>
+      <contribuyenteEspecial>00048</contribuyenteEspecial>
+      <fechaIniTransporte>18/12/2014</fechaIniTransporte>
+      <fechaFinTransporte>18/12/2014</fechaFinTransporte>
+      <placa>JAA1425</placa>
+   </infoGuiaRemision>
+   <destinatarios>
+      <destinatario>
+         <identificacionDestinatario>1802064996001</identificacionDestinatario>
+         <razonSocialDestinatario>PAZMIÑO JACOME EDISON ENR</razonSocialDestinatario>
+         <dirDestinatario>BARRIO AGUA SANTA VIA A CEVALLOS S/N</dirDestinatario>
+         <motivoTraslado>O</motivoTraslado>
+         <codEstabDestino>001</codEstabDestino>
+         <ruta>NA</ruta>
+         <codDocSustento>01</codDocSustento>
+         <numDocSustento>001-002-000004093</numDocSustento>
+         <numAutDocSustento>1712201411504509926208540010173254920</numAutDocSustento>
+         <fechaEmisionDocSustento>16/12/2014</fechaEmisionDocSustento>
+         <detalles>
+            <detalle>
+               <codigoInterno>DL-045</codigoInterno>
+               <descripcion>295/80R22.5 152M SP350A GDWI</descripcion>
+               <cantidad>5.00</cantidad>
+            </detalle>
+         </detalles>
+      </destinatario>
+   </destinatarios>
+</guiaRemision>

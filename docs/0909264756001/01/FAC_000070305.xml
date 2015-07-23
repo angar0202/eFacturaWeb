@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<factura id="comprobante" version="1.0.0">
+   <infoTributaria>
+      <ambiente>1</ambiente>
+      <tipoEmision>1</tipoEmision>
+      <razonSocial>TRACTOMAQ S.A.</razonSocial>
+      <ruc>0992620854001</ruc>
+      <claveAcceso>0712201401099262085400110010010000703050010902014</claveAcceso>
+      <codDoc>01</codDoc>
+      <estab>001</estab>
+      <ptoEmi>001</ptoEmi>
+      <secuencial>000070305</secuencial>
+      <dirMatriz>KM 95 VIA DAULE 43 NO SOLAR 62 Y 23 NO</dirMatriz>
+   </infoTributaria>
+   <infoFactura>
+      <fechaEmision>07/12/2014</fechaEmision>
+      <dirEstablecimiento>PICHINCHA NO.315 Y DOLORES AZUAY RF: DIAGONAL AL MERCADO CENTRAL</dirEstablecimiento>
+      <contribuyenteEspecial>00048</contribuyenteEspecial>
+      <obligadoContabilidad>SI</obligadoContabilidad>
+      <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+      <razonSocialComprador>PRUEBAS SERVICIO DE RENTAS INTERNAS</razonSocialComprador>
+      <identificacionComprador>0909264756001</identificacionComprador>
+      <totalSinImpuestos>4248.89</totalSinImpuestos>
+      <totalDescuento>756.29</totalDescuento>
+      <totalConImpuestos>
+         <totalImpuesto>
+            <codigo>2</codigo>
+            <codigoPorcentaje>2</codigoPorcentaje>
+            <baseImponible>4248.89</baseImponible>
+            <tarifa>0</tarifa>
+            <valor>509.87</valor>
+         </totalImpuesto>
+      </totalConImpuestos>
+      <propina>0.00</propina>
+      <importeTotal>4758.76</importeTotal>
+      <moneda>DOLAR</moneda>
+   </infoFactura>
+   <detalles>
+      <detalle>
+         <codigoPrincipal>GT068</codigoPrincipal>
+         <descripcion>GT RADIAL 295/80R22.5 16PR DIREC GT879 </descripcion>
+         <cantidad>2.00</cantidad>
+         <precioUnitario>401.79</precioUnitario>
+         <descuento>0.00</descuento>
+         <precioTotalSinImpuesto>803.58</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>803.58</baseImponible>
+               <valor>96.43</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+      <detalle>
+         <codigoPrincipal>GT103</codigoPrincipal>
+         <descripcion>GT RADIAL 295/80R22.5 16PR GT659 TRAC</descripcion>
+         <cantidad>8.00</cantidad>
+         <precioUnitario>525.20</precioUnitario>
+         <descuento>756.29</descuento>
+         <precioTotalSinImpuesto>3445.31</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>3445.31</baseImponible>
+               <valor>413.44</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+   </detalles>
+</factura>

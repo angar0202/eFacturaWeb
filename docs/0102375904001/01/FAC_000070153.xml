@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<factura id="comprobante" version="1.0.0">
+   <infoTributaria>
+      <ambiente>1</ambiente>
+      <tipoEmision>1</tipoEmision>
+      <razonSocial>TRACTOMAQ S.A.</razonSocial>
+      <ruc>0992620854001</ruc>
+      <claveAcceso>2711201401099262085400110010010000701530010884917</claveAcceso>
+      <codDoc>01</codDoc>
+      <estab>001</estab>
+      <ptoEmi>001</ptoEmi>
+      <secuencial>000070153</secuencial>
+      <dirMatriz>KM 95 VIA DAULE 43 NO SOLAR 62 Y 23 NO</dirMatriz>
+   </infoTributaria>
+   <infoFactura>
+      <fechaEmision>27/11/2014</fechaEmision>
+      <dirEstablecimiento>GIL RAMIREZ DAVALOS Y HUAYNACAPAC</dirEstablecimiento>
+      <obligadoContabilidad>SI</obligadoContabilidad>
+      <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+      <razonSocialComprador>PRUEBAS SERVICIO DE RENTAS INTERNAS</razonSocialComprador>
+      <identificacionComprador>0102375904001</identificacionComprador>
+      <totalSinImpuestos>1718.06</totalSinImpuestos>
+      <totalDescuento>271.30</totalDescuento>
+      <totalConImpuestos>
+         <totalImpuesto>
+            <codigo>2</codigo>
+            <codigoPorcentaje>2</codigoPorcentaje>
+            <baseImponible>1718.06</baseImponible>
+            <tarifa>0</tarifa>
+            <valor>206.17</valor>
+         </totalImpuesto>
+      </totalConImpuestos>
+      <propina>0.00</propina>
+      <importeTotal>1924.23</importeTotal>
+      <moneda>DOLAR</moneda>
+   </infoFactura>
+   <detalles>
+      <detalle>
+         <codigoPrincipal>RW584</codigoPrincipal>
+         <descripcion>RUNWAY LT245/75R16 10PR END M/T </descripcion>
+         <cantidad>4.00</cantidad>
+         <precioUnitario>192.97</precioUnitario>
+         <descuento>138.94</descuento>
+         <precioTotalSinImpuesto>632.94</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>632.94</baseImponible>
+               <valor>75.95</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+      <detalle>
+         <codigoPrincipal>GT007</codigoPrincipal>
+         <descripcion>GT RADIAL 31X10.50R15 6PR M/T LB</descripcion>
+         <cantidad>4.00</cantidad>
+         <precioUnitario>183.83</precioUnitario>
+         <descuento>132.36</descuento>
+         <precioTotalSinImpuesto>602.96</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>602.96</baseImponible>
+               <valor>72.36</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+      <detalle>
+         <codigoPrincipal>RW583</codigoPrincipal>
+         <descripcion>RUNWAY LT235/75R15 6PR ENDURO M/T OWL</descripcion>
+         <cantidad>4.00</cantidad>
+         <precioUnitario>120.54</precioUnitario>
+         <descuento>0.00</descuento>
+         <precioTotalSinImpuesto>482.16</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>482.16</baseImponible>
+               <valor>57.86</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+   </detalles>
+</factura>

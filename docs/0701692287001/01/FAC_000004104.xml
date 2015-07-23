@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<factura id="comprobante" version="1.0.0">
+   <infoTributaria>
+      <ambiente>1</ambiente>
+      <tipoEmision>1</tipoEmision>
+      <razonSocial>TRACTOMAQ S.A.</razonSocial>
+      <ruc>0992620854001</ruc>
+      <claveAcceso>1712201401099262085400110010020000041040000316517</claveAcceso>
+      <codDoc>01</codDoc>
+      <estab>001</estab>
+      <ptoEmi>002</ptoEmi>
+      <secuencial>000004104</secuencial>
+      <dirMatriz>KM 95 VIA DAULE 43 NO SOLAR 62 Y 23 NO</dirMatriz>
+   </infoTributaria>
+   <infoFactura>
+      <fechaEmision>17/12/2014</fechaEmision>
+      <dirEstablecimiento>CALLE EUGENIO ESPEJO S/N Y 15 DE OCTUBRE (FRENTE AL ALMACEN PYCCA )</dirEstablecimiento>
+      <contribuyenteEspecial>00048</contribuyenteEspecial>
+      <obligadoContabilidad>SI</obligadoContabilidad>
+      <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+      <razonSocialComprador>PRUEBAS SERVICIO DE RENTAS INTERNAS</razonSocialComprador>
+      <identificacionComprador>0701692287001</identificacionComprador>
+      <totalSinImpuestos>3302.84</totalSinImpuestos>
+      <totalDescuento>0.00</totalDescuento>
+      <totalConImpuestos>
+         <totalImpuesto>
+            <codigo>2</codigo>
+            <codigoPorcentaje>2</codigoPorcentaje>
+            <baseImponible>3302.84</baseImponible>
+            <tarifa>0</tarifa>
+            <valor>396.35</valor>
+         </totalImpuesto>
+      </totalConImpuestos>
+      <propina>0.00</propina>
+      <importeTotal>3699.19</importeTotal>
+      <moneda>DOLAR</moneda>
+   </infoFactura>
+   <detalles>
+      <detalle>
+         <codigoPrincipal>DL-111</codigoPrincipal>
+         <descripcion>225/70R16 103T AT3</descripcion>
+         <cantidad>4.00</cantidad>
+         <precioUnitario>140.68</precioUnitario>
+         <descuento>0.00</descuento>
+         <precioTotalSinImpuesto>562.72</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>562.72</baseImponible>
+               <valor>67.53</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+      <detalle>
+         <codigoPrincipal>DL-006</codigoPrincipal>
+         <descripcion>245/65R17 107H AT3 BL 01 EEI</descripcion>
+         <cantidad>4.00</cantidad>
+         <precioUnitario>173.14</precioUnitario>
+         <descuento>0.00</descuento>
+         <precioTotalSinImpuesto>692.56</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>692.56</baseImponible>
+               <valor>83.11</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+      <detalle>
+         <codigoPrincipal>DL-078</codigoPrincipal>
+         <descripcion>195/65R15 91V SPLM704</descripcion>
+         <cantidad>4.00</cantidad>
+         <precioUnitario>75.43</precioUnitario>
+         <descuento>0.00</descuento>
+         <precioTotalSinImpuesto>301.72</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>301.72</baseImponible>
+               <valor>36.21</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+      <detalle>
+         <codigoPrincipal>DL-012</codigoPrincipal>
+         <descripcion>255/70R16 111T AT3 OW 01 GDEEI</descripcion>
+         <cantidad>8.00</cantidad>
+         <precioUnitario>151.50</precioUnitario>
+         <descuento>0.00</descuento>
+         <precioTotalSinImpuesto>1212.00</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>1212.00</baseImponible>
+               <valor>145.44</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+      <detalle>
+         <codigoPrincipal>DL-036</codigoPrincipal>
+         <descripcion>185/60R14 82H SPLM703 GEEI</descripcion>
+         <cantidad>8.00</cantidad>
+         <precioUnitario>66.73</precioUnitario>
+         <descuento>0.00</descuento>
+         <precioTotalSinImpuesto>533.84</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>533.84</baseImponible>
+               <valor>64.06</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+   </detalles>
+</factura>

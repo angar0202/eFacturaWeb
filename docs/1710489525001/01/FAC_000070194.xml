@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<factura id="comprobante" version="1.0.0">
+   <infoTributaria>
+      <ambiente>1</ambiente>
+      <tipoEmision>1</tipoEmision>
+      <razonSocial>TRACTOMAQ S.A.</razonSocial>
+      <ruc>0992620854001</ruc>
+      <claveAcceso>2711201401099262085400110010010000701940010889912</claveAcceso>
+      <codDoc>01</codDoc>
+      <estab>001</estab>
+      <ptoEmi>001</ptoEmi>
+      <secuencial>000070194</secuencial>
+      <dirMatriz>KM 95 VIA DAULE 43 NO SOLAR 62 Y 23 NO</dirMatriz>
+   </infoTributaria>
+   <infoFactura>
+      <fechaEmision>27/11/2014</fechaEmision>
+      <dirEstablecimiento>TUNGURAHUA NO.900 Y AGUIRRE RF: A UNA CUADRA DEL COLEGIO VICENTE ROCAFUERTE</dirEstablecimiento>
+      <obligadoContabilidad>SI</obligadoContabilidad>
+      <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+      <razonSocialComprador>PRUEBAS SERVICIO DE RENTAS INTERNAS</razonSocialComprador>
+      <identificacionComprador>1710489525001</identificacionComprador>
+      <totalSinImpuestos>1986.24</totalSinImpuestos>
+      <totalDescuento>379.56</totalDescuento>
+      <totalConImpuestos>
+         <totalImpuesto>
+            <codigo>2</codigo>
+            <codigoPorcentaje>2</codigoPorcentaje>
+            <baseImponible>1986.24</baseImponible>
+            <tarifa>0</tarifa>
+            <valor>238.35</valor>
+         </totalImpuesto>
+      </totalConImpuestos>
+      <propina>0.00</propina>
+      <importeTotal>2224.59</importeTotal>
+      <moneda>DOLAR</moneda>
+   </infoFactura>
+   <detalles>
+      <detalle>
+         <codigoPrincipal>GT224</codigoPrincipal>
+         <descripcion>GT RADIAL 31X10.50R15LT 109S 6PR ADVENTURO AT3 OWL</descripcion>
+         <cantidad>4.00</cantidad>
+         <precioUnitario>155.00</precioUnitario>
+         <descuento>111.60</descuento>
+         <precioTotalSinImpuesto>508.40</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>508.40</baseImponible>
+               <valor>61.01</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+      <detalle>
+         <codigoPrincipal>GT167</codigoPrincipal>
+         <descripcion>GT RADIAL 205/60R15 91T MAXTOUR</descripcion>
+         <cantidad>4.00</cantidad>
+         <precioUnitario>64.29</precioUnitario>
+         <descuento>0.00</descuento>
+         <precioTotalSinImpuesto>257.16</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>257.16</baseImponible>
+               <valor>30.86</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+      <detalle>
+         <codigoPrincipal>RW614</codigoPrincipal>
+         <descripcion>RUNWAY 235/60R16 100H ENDURO 816</descripcion>
+         <cantidad>4.00</cantidad>
+         <precioUnitario>119.16</precioUnitario>
+         <descuento>85.80</descuento>
+         <precioTotalSinImpuesto>390.84</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>390.84</baseImponible>
+               <valor>46.90</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+      <detalle>
+         <codigoPrincipal>CS360</codigoPrincipal>
+         <descripcion>CHENGSHAN 225/70R15C8 CSR48</descripcion>
+         <cantidad>4.00</cantidad>
+         <precioUnitario>119.00</precioUnitario>
+         <descuento>85.68</descuento>
+         <precioTotalSinImpuesto>390.32</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>390.32</baseImponible>
+               <valor>46.84</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+      <detalle>
+         <codigoPrincipal>GT228</codigoPrincipal>
+         <descripcion>LT225/70R16 102/99S 6PR ADVENTURO A/T</descripcion>
+         <cantidad>4.00</cantidad>
+         <precioUnitario>134.00</precioUnitario>
+         <descuento>96.48</descuento>
+         <precioTotalSinImpuesto>439.52</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>439.52</baseImponible>
+               <valor>52.74</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+   </detalles>
+</factura>

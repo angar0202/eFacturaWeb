@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<factura id="comprobante" version="1.0.0">
+   <infoTributaria>
+      <ambiente>1</ambiente>
+      <tipoEmision>1</tipoEmision>
+      <razonSocial>TRACTOMAQ S.A.</razonSocial>
+      <ruc>0992620854001</ruc>
+      <claveAcceso>2711201401099262085400110010010000701830010888614</claveAcceso>
+      <codDoc>01</codDoc>
+      <estab>001</estab>
+      <ptoEmi>001</ptoEmi>
+      <secuencial>000070183</secuencial>
+      <dirMatriz>KM 95 VIA DAULE 43 NO SOLAR 62 Y 23 NO</dirMatriz>
+   </infoTributaria>
+   <infoFactura>
+      <fechaEmision>27/11/2014</fechaEmision>
+      <dirEstablecimiento>BARRIO CASAGUAICO VIA CHIMBO S/N</dirEstablecimiento>
+      <obligadoContabilidad>SI</obligadoContabilidad>
+      <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+      <razonSocialComprador>PRUEBAS SERVICIO DE RENTAS INTERNAS</razonSocialComprador>
+      <identificacionComprador>0201455011001</identificacionComprador>
+      <totalSinImpuestos>2033.76</totalSinImpuestos>
+      <totalDescuento>291.60</totalDescuento>
+      <totalConImpuestos>
+         <totalImpuesto>
+            <codigo>2</codigo>
+            <codigoPorcentaje>2</codigoPorcentaje>
+            <baseImponible>2033.76</baseImponible>
+            <tarifa>0</tarifa>
+            <valor>244.05</valor>
+         </totalImpuesto>
+      </totalConImpuestos>
+      <propina>0.00</propina>
+      <importeTotal>2277.81</importeTotal>
+      <moneda>DOLAR</moneda>
+   </infoFactura>
+   <detalles>
+      <detalle>
+         <codigoPrincipal>GT031</codigoPrincipal>
+         <descripcion>GT RADIAL 11R22.5 16PR  MIXTA GT01 MS</descripcion>
+         <cantidad>2.00</cantidad>
+         <precioUnitario>352.68</precioUnitario>
+         <descuento>0.00</descuento>
+         <precioTotalSinImpuesto>705.36</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>705.36</baseImponible>
+               <valor>84.64</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+      <detalle>
+         <codigoPrincipal>LM512</codigoPrincipal>
+         <descripcion>LONG MARCH 11R22.5/16 LM518 TRACCION</descripcion>
+         <cantidad>4.00</cantidad>
+         <precioUnitario>405.00</precioUnitario>
+         <descuento>291.60</descuento>
+         <precioTotalSinImpuesto>1328.40</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>1328.40</baseImponible>
+               <valor>159.41</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+   </detalles>
+</factura>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<factura id="comprobante" version="1.0.0">
+   <infoTributaria>
+      <ambiente>1</ambiente>
+      <tipoEmision>1</tipoEmision>
+      <razonSocial>TRACTOMAQ S.A.</razonSocial>
+      <ruc>0992620854001</ruc>
+      <claveAcceso>2811201401099262085400110010010000701980010890313</claveAcceso>
+      <codDoc>01</codDoc>
+      <estab>001</estab>
+      <ptoEmi>001</ptoEmi>
+      <secuencial>000070198</secuencial>
+      <dirMatriz>KM 95 VIA DAULE 43 NO SOLAR 62 Y 23 NO</dirMatriz>
+   </infoTributaria>
+   <infoFactura>
+      <fechaEmision>28/11/2014</fechaEmision>
+      <dirEstablecimiento>AV. LEON BORJA Y EPLICACHIMA</dirEstablecimiento>
+      <obligadoContabilidad>SI</obligadoContabilidad>
+      <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+      <razonSocialComprador>PRUEBAS SERVICIO DE RENTAS INTERNAS</razonSocialComprador>
+      <identificacionComprador>0601976996001</identificacionComprador>
+      <totalSinImpuestos>4456.56</totalSinImpuestos>
+      <totalDescuento>993.60</totalDescuento>
+      <totalConImpuestos>
+         <totalImpuesto>
+            <codigo>2</codigo>
+            <codigoPorcentaje>2</codigoPorcentaje>
+            <baseImponible>4456.56</baseImponible>
+            <tarifa>0</tarifa>
+            <valor>534.79</valor>
+         </totalImpuesto>
+      </totalConImpuestos>
+      <propina>0.00</propina>
+      <importeTotal>4991.35</importeTotal>
+      <moneda>DOLAR</moneda>
+   </infoFactura>
+   <detalles>
+      <detalle>
+         <codigoPrincipal>GT046</codigoPrincipal>
+         <descripcion>GT RADIAL 275/70R22.5 16PR DIREC GT279</descripcion>
+         <cantidad>4.00</cantidad>
+         <precioUnitario>420.00</precioUnitario>
+         <descuento>336.00</descuento>
+         <precioTotalSinImpuesto>1344.00</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>1344.00</baseImponible>
+               <valor>161.28</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+      <detalle>
+         <codigoPrincipal>GT135</codigoPrincipal>
+         <descripcion>GT RADIAL 295/80R22.5 16PR  GAR821 MIXTA</descripcion>
+         <cantidad>6.00</cantidad>
+         <precioUnitario>548.00</precioUnitario>
+         <descuento>657.60</descuento>
+         <precioTotalSinImpuesto>2630.40</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>2630.40</baseImponible>
+               <valor>315.65</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+      <detalle>
+         <codigoPrincipal>GT082</codigoPrincipal>
+         <descripcion>GT RADIAL LT235/75R15 104/101S 6PR M/T</descripcion>
+         <cantidad>4.00</cantidad>
+         <precioUnitario>120.54</precioUnitario>
+         <descuento>0.00</descuento>
+         <precioTotalSinImpuesto>482.16</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>482.16</baseImponible>
+               <valor>57.86</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+   </detalles>
+</factura>

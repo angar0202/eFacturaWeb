@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<guiaRemision id="comprobante" version="1.0.0">
+   <infoTributaria>
+      <ambiente>1</ambiente>
+      <tipoEmision>1</tipoEmision>
+      <razonSocial>TRACTOMAQ S.A.</razonSocial>
+      <ruc>0992620854001</ruc>
+      <claveAcceso>1812201406099262085400110010020000041050000016116</claveAcceso>
+      <codDoc>06</codDoc>
+      <estab>001</estab>
+      <ptoEmi>002</ptoEmi>
+      <secuencial>000004105</secuencial>
+      <dirMatriz>KM 95 VIA DAULE 43 NO SOLAR 62 Y 23 NO</dirMatriz>
+   </infoTributaria>
+   <infoGuiaRemision>
+      <dirEstablecimiento>CDLA GONZALEZ FRENTE A LA ESCUELA JULIA GONZALEZ</dirEstablecimiento>
+      <dirPartida>CDLA GONZALEZ FRENTE A LA ESCUELA JULIA GONZALEZ</dirPartida>
+      <razonSocialTransportista>PRUEBAS SERVICIO DE RENTAS INTERNAS</razonSocialTransportista>
+      <tipoIdentificacionTransportista>04</tipoIdentificacionTransportista>
+      <rucTransportista>1303987513001</rucTransportista>
+      <rise>RISE</rise>
+      <obligadoContabilidad>SI</obligadoContabilidad>
+      <contribuyenteEspecial>00048</contribuyenteEspecial>
+      <fechaIniTransporte>18/12/2014</fechaIniTransporte>
+      <fechaFinTransporte>18/12/2014</fechaFinTransporte>
+      <placa>MAT0229</placa>
+   </infoGuiaRemision>
+   <destinatarios>
+      <destinatario>
+         <identificacionDestinatario>1303987513001</identificacionDestinatario>
+         <razonSocialDestinatario>IBARRA ZAMBRANO RICHARD J</razonSocialDestinatario>
+         <dirDestinatario>CDLA GONZALEZ FRENTE A LA ESCUELA JULIA GONZALEZ</dirDestinatario>
+         <motivoTraslado>O</motivoTraslado>
+         <codEstabDestino>001</codEstabDestino>
+         <ruta>NA</ruta>
+         <codDocSustento>01</codDocSustento>
+         <numDocSustento>001-002-000004105</numDocSustento>
+         <numAutDocSustento>1712201411571709926208540010173267599</numAutDocSustento>
+         <fechaEmisionDocSustento>16/12/2014</fechaEmisionDocSustento>
+         <detalles>
+            <detalle>
+               <codigoInterno>DL-011</codigoInterno>
+               <descripcion>245/70R16 111T AT3 OW 02 DEEI</descripcion>
+               <cantidad>2.00</cantidad>
+            </detalle>
+         </detalles>
+      </destinatario>
+   </destinatarios>
+</guiaRemision>

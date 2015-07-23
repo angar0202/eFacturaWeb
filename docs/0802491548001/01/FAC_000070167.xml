@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<factura id="comprobante" version="1.0.0">
+   <infoTributaria>
+      <ambiente>1</ambiente>
+      <tipoEmision>1</tipoEmision>
+      <razonSocial>TRACTOMAQ S.A.</razonSocial>
+      <ruc>0992620854001</ruc>
+      <claveAcceso>2711201401099262085400110010010000701670010886711</claveAcceso>
+      <codDoc>01</codDoc>
+      <estab>001</estab>
+      <ptoEmi>001</ptoEmi>
+      <secuencial>000070167</secuencial>
+      <dirMatriz>KM 95 VIA DAULE 43 NO SOLAR 62 Y 23 NO</dirMatriz>
+   </infoTributaria>
+   <infoFactura>
+      <fechaEmision>27/11/2014</fechaEmision>
+      <dirEstablecimiento>AV.SIMON PLATA TORRES 674 NIÑO JESUS</dirEstablecimiento>
+      <obligadoContabilidad>SI</obligadoContabilidad>
+      <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+      <razonSocialComprador>PRUEBAS SERVICIO DE RENTAS INTERNAS</razonSocialComprador>
+      <identificacionComprador>0802491548001</identificacionComprador>
+      <totalSinImpuestos>1225.88</totalSinImpuestos>
+      <totalDescuento>175.80</totalDescuento>
+      <totalConImpuestos>
+         <totalImpuesto>
+            <codigo>2</codigo>
+            <codigoPorcentaje>2</codigoPorcentaje>
+            <baseImponible>1225.88</baseImponible>
+            <tarifa>0</tarifa>
+            <valor>147.10</valor>
+         </totalImpuesto>
+      </totalConImpuestos>
+      <propina>0.00</propina>
+      <importeTotal>1372.98</importeTotal>
+      <moneda>DOLAR</moneda>
+   </infoFactura>
+   <detalles>
+      <detalle>
+         <codigoPrincipal>RW589</codigoPrincipal>
+         <descripcion>RUNWAY 185/65R14 86H ENDURO 816</descripcion>
+         <cantidad>4.00</cantidad>
+         <precioUnitario>51.79</precioUnitario>
+         <descuento>0.00</descuento>
+         <precioTotalSinImpuesto>207.16</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>207.16</baseImponible>
+               <valor>24.86</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+      <detalle>
+         <codigoPrincipal>GT003</codigoPrincipal>
+         <descripcion>GT RADIAL 185/70R14 88H CHAMPIRO 728</descripcion>
+         <cantidad>4.00</cantidad>
+         <precioUnitario>54.46</precioUnitario>
+         <descuento>0.00</descuento>
+         <precioTotalSinImpuesto>217.84</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>217.84</baseImponible>
+               <valor>26.14</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+      <detalle>
+         <codigoPrincipal>RW584</codigoPrincipal>
+         <descripcion>RUNWAY LT245/75R16 10PR END M/T </descripcion>
+         <cantidad>4.00</cantidad>
+         <precioUnitario>192.97</precioUnitario>
+         <descuento>138.94</descuento>
+         <precioTotalSinImpuesto>632.94</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>632.94</baseImponible>
+               <valor>75.95</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+      <detalle>
+         <codigoPrincipal>RW543</codigoPrincipal>
+         <descripcion>RUNWAY 155/80R12 77T END806</descripcion>
+         <cantidad>4.00</cantidad>
+         <precioUnitario>51.20</precioUnitario>
+         <descuento>36.86</descuento>
+         <precioTotalSinImpuesto>167.94</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>167.94</baseImponible>
+               <valor>20.15</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+   </detalles>
+</factura>

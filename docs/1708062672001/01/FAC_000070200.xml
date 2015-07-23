@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<factura id="comprobante" version="1.0.0">
+   <infoTributaria>
+      <ambiente>1</ambiente>
+      <tipoEmision>1</tipoEmision>
+      <razonSocial>TRACTOMAQ S.A.</razonSocial>
+      <ruc>0992620854001</ruc>
+      <claveAcceso>2811201401099262085400110010010000702000010890517</claveAcceso>
+      <codDoc>01</codDoc>
+      <estab>001</estab>
+      <ptoEmi>001</ptoEmi>
+      <secuencial>000070200</secuencial>
+      <dirMatriz>KM 95 VIA DAULE 43 NO SOLAR 62 Y 23 NO</dirMatriz>
+   </infoTributaria>
+   <infoFactura>
+      <fechaEmision>28/11/2014</fechaEmision>
+      <dirEstablecimiento>PROFESOR HIDROVO S/N JUNTO A ESCUELA GLADYS CEDEÑO DE OLIVO</dirEstablecimiento>
+      <obligadoContabilidad>SI</obligadoContabilidad>
+      <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+      <razonSocialComprador>PRUEBAS SERVICIO DE RENTAS INTERNAS</razonSocialComprador>
+      <identificacionComprador>1708062672001</identificacionComprador>
+      <totalSinImpuestos>2914.08</totalSinImpuestos>
+      <totalDescuento>821.92</totalDescuento>
+      <totalConImpuestos>
+         <totalImpuesto>
+            <codigo>2</codigo>
+            <codigoPorcentaje>2</codigoPorcentaje>
+            <baseImponible>2914.08</baseImponible>
+            <tarifa>0</tarifa>
+            <valor>349.69</valor>
+         </totalImpuesto>
+      </totalConImpuestos>
+      <propina>0.00</propina>
+      <importeTotal>3263.77</importeTotal>
+      <moneda>DOLAR</moneda>
+   </infoFactura>
+   <detalles>
+      <detalle>
+         <codigoPrincipal>LM529</codigoPrincipal>
+         <descripcion>LONG MARCH 275/70R22.5/16 LM216 LISA</descripcion>
+         <cantidad>4.00</cantidad>
+         <precioUnitario>380.00</precioUnitario>
+         <descuento>334.40</descuento>
+         <precioTotalSinImpuesto>1185.60</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>1185.60</baseImponible>
+               <valor>142.27</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+      <detalle>
+         <codigoPrincipal>GT213</codigoPrincipal>
+         <descripcion>GT RADIAL 315/80R22.5 22PR 161/157J GT01 MS</descripcion>
+         <cantidad>4.00</cantidad>
+         <precioUnitario>554.00</precioUnitario>
+         <descuento>487.52</descuento>
+         <precioTotalSinImpuesto>1728.48</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>1728.48</baseImponible>
+               <valor>207.42</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+   </detalles>
+</factura>

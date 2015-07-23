@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<factura id="comprobante" version="1.0.0">
+   <infoTributaria>
+      <ambiente>1</ambiente>
+      <tipoEmision>1</tipoEmision>
+      <razonSocial>TRACTOMAQ S.A.</razonSocial>
+      <ruc>0992620854001</ruc>
+      <claveAcceso>2711201401099262085400110010010000701920010889717</claveAcceso>
+      <codDoc>01</codDoc>
+      <estab>001</estab>
+      <ptoEmi>001</ptoEmi>
+      <secuencial>000070192</secuencial>
+      <dirMatriz>KM 95 VIA DAULE 43 NO SOLAR 62 Y 23 NO</dirMatriz>
+   </infoTributaria>
+   <infoFactura>
+      <fechaEmision>27/11/2014</fechaEmision>
+      <dirEstablecimiento>CALLE DANIEL ALVAREZ S/N Y SEGUNDO CUEVA</dirEstablecimiento>
+      <obligadoContabilidad>SI</obligadoContabilidad>
+      <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+      <razonSocialComprador>PRUEBAS SERVICIO DE RENTAS INTERNAS</razonSocialComprador>
+      <identificacionComprador>1707867337001</identificacionComprador>
+      <totalSinImpuestos>10700.80</totalSinImpuestos>
+      <totalDescuento>2675.20</totalDescuento>
+      <totalConImpuestos>
+         <totalImpuesto>
+            <codigo>2</codigo>
+            <codigoPorcentaje>2</codigoPorcentaje>
+            <baseImponible>10700.80</baseImponible>
+            <tarifa>0</tarifa>
+            <valor>1284.10</valor>
+         </totalImpuesto>
+      </totalConImpuestos>
+      <propina>0.00</propina>
+      <importeTotal>11984.90</importeTotal>
+      <moneda>DOLAR</moneda>
+   </infoFactura>
+   <detalles>
+      <detalle>
+         <codigoPrincipal>GT075</codigoPrincipal>
+         <descripcion>GT RADIAL 315/80R22.518PR GT686 MS</descripcion>
+         <cantidad>18.00</cantidad>
+         <precioUnitario>620.00</precioUnitario>
+         <descuento>2232.00</descuento>
+         <precioTotalSinImpuesto>8928.00</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>8928.00</baseImponible>
+               <valor>1071.36</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+      <detalle>
+         <codigoPrincipal>GT213</codigoPrincipal>
+         <descripcion>GT RADIAL 315/80R22.5 22PR 161/157J GT01 MS</descripcion>
+         <cantidad>4.00</cantidad>
+         <precioUnitario>554.00</precioUnitario>
+         <descuento>443.20</descuento>
+         <precioTotalSinImpuesto>1772.80</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>1772.80</baseImponible>
+               <valor>212.74</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+   </detalles>
+</factura>

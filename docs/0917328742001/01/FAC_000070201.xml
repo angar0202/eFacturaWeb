@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<factura id="comprobante" version="1.0.0">
+   <infoTributaria>
+      <ambiente>1</ambiente>
+      <tipoEmision>1</tipoEmision>
+      <razonSocial>TRACTOMAQ S.A.</razonSocial>
+      <ruc>0992620854001</ruc>
+      <claveAcceso>2811201401099262085400110010010000702010010890611</claveAcceso>
+      <codDoc>01</codDoc>
+      <estab>001</estab>
+      <ptoEmi>001</ptoEmi>
+      <secuencial>000070201</secuencial>
+      <dirMatriz>KM 95 VIA DAULE 43 NO SOLAR 62 Y 23 NO</dirMatriz>
+   </infoTributaria>
+   <infoFactura>
+      <fechaEmision>28/11/2014</fechaEmision>
+      <dirEstablecimiento>CUENCA 5321 ENTRE LA 26 Y 27 AVA.</dirEstablecimiento>
+      <obligadoContabilidad>SI</obligadoContabilidad>
+      <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+      <razonSocialComprador>PRUEBAS SERVICIO DE RENTAS INTERNAS</razonSocialComprador>
+      <identificacionComprador>0917328742001</identificacionComprador>
+      <totalSinImpuestos>638.40</totalSinImpuestos>
+      <totalDescuento>121.60</totalDescuento>
+      <totalConImpuestos>
+         <totalImpuesto>
+            <codigo>2</codigo>
+            <codigoPorcentaje>2</codigoPorcentaje>
+            <baseImponible>638.40</baseImponible>
+            <tarifa>0</tarifa>
+            <valor>76.61</valor>
+         </totalImpuesto>
+      </totalConImpuestos>
+      <propina>0.00</propina>
+      <importeTotal>715.01</importeTotal>
+      <moneda>DOLAR</moneda>
+   </infoFactura>
+   <detalles>
+      <detalle>
+         <codigoPrincipal>CS400</codigoPrincipal>
+         <descripcion>CHENGSHAN 165/65R13 77T CSC801</descripcion>
+         <cantidad>10.00</cantidad>
+         <precioUnitario>46.00</precioUnitario>
+         <descuento>73.60</descuento>
+         <precioTotalSinImpuesto>386.40</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>386.40</baseImponible>
+               <valor>46.37</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+      <detalle>
+         <codigoPrincipal>CS398</codigoPrincipal>
+         <descripcion>CHENGSHAN 195/55R15 85V CSC6</descripcion>
+         <cantidad>4.00</cantidad>
+         <precioUnitario>75.00</precioUnitario>
+         <descuento>48.00</descuento>
+         <precioTotalSinImpuesto>252.00</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>252.00</baseImponible>
+               <valor>30.24</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+   </detalles>
+</factura>

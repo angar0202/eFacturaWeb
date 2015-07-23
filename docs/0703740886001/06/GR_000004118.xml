@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<guiaRemision id="comprobante" version="1.0.0">
+   <infoTributaria>
+      <ambiente>1</ambiente>
+      <tipoEmision>1</tipoEmision>
+      <razonSocial>TRACTOMAQ S A </razonSocial>
+      <ruc>0992620854001</ruc>
+      <claveAcceso>1912201406099262085400110010020000041180000018718</claveAcceso>
+      <codDoc>06</codDoc>
+      <estab>001</estab>
+      <ptoEmi>002</ptoEmi>
+      <secuencial>000004118</secuencial>
+      <dirMatriz>KM 95 VIA DAULE 43 NO SOLAR 62 Y 23 NO</dirMatriz>
+   </infoTributaria>
+   <infoGuiaRemision>
+      <dirEstablecimiento>BUENAVISTA S/N Y KLEBER FRANCO</dirEstablecimiento>
+      <dirPartida>BUENAVISTA S/N Y KLEBER FRANCO</dirPartida>
+      <razonSocialTransportista>PRUEBAS SERVICIO DE RENTAS INTERNAS</razonSocialTransportista>
+      <tipoIdentificacionTransportista>04</tipoIdentificacionTransportista>
+      <rucTransportista>0703740886001</rucTransportista>
+      <rise>RISE</rise>
+      <obligadoContabilidad>SI</obligadoContabilidad>
+      <contribuyenteEspecial>00048</contribuyenteEspecial>
+      <fechaIniTransporte>19/12/2014</fechaIniTransporte>
+      <fechaFinTransporte>19/12/2014</fechaFinTransporte>
+      <placa>GSH2314</placa>
+   </infoGuiaRemision>
+   <destinatarios>
+      <destinatario>
+         <identificacionDestinatario>0703740886001</identificacionDestinatario>
+         <razonSocialDestinatario>MALDONADO ANAZCO LUIS EDU</razonSocialDestinatario>
+         <dirDestinatario>BUENAVISTA S/N Y KLEBER FRANCO</dirDestinatario>
+         <motivoTraslado>O</motivoTraslado>
+         <codEstabDestino>001</codEstabDestino>
+         <ruta>NA</ruta>
+         <codDocSustento>01</codDocSustento>
+         <numDocSustento>001-002-000004118</numDocSustento>
+         <numAutDocSustento>1912201414490309926208540010176812021</numAutDocSustento>
+         <fechaEmisionDocSustento>17/12/2014</fechaEmisionDocSustento>
+         <detalles>
+            <detalle>
+               <codigoInterno>DL-108</codigoInterno>
+               <descripcion>215/50R13 85H SPLM703</descripcion>
+               <cantidad>4.00</cantidad>
+            </detalle>
+         </detalles>
+      </destinatario>
+   </destinatarios>
+</guiaRemision>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<factura id="comprobante" version="1.0.0">
+   <infoTributaria>
+      <ambiente>1</ambiente>
+      <tipoEmision>1</tipoEmision>
+      <razonSocial>TRACTOMAQ S.A.</razonSocial>
+      <ruc>0992620854001</ruc>
+      <claveAcceso>2811201401099262085400110010010000702160010892118</claveAcceso>
+      <codDoc>01</codDoc>
+      <estab>001</estab>
+      <ptoEmi>001</ptoEmi>
+      <secuencial>000070216</secuencial>
+      <dirMatriz>KM 95 VIA DAULE 43 NO SOLAR 62 Y 23 NO</dirMatriz>
+   </infoTributaria>
+   <infoFactura>
+      <fechaEmision>28/11/2014</fechaEmision>
+      <dirEstablecimiento>BRISAS DEL NORTE MZ. G SOLAR #17 POR AUTOPISTA TERMINAL PASCUALES</dirEstablecimiento>
+      <obligadoContabilidad>SI</obligadoContabilidad>
+      <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+      <razonSocialComprador>PRUEBAS SERVICIO DE RENTAS INTERNAS</razonSocialComprador>
+      <identificacionComprador>0914259643001</identificacionComprador>
+      <totalSinImpuestos>1705.60</totalSinImpuestos>
+      <totalDescuento>374.40</totalDescuento>
+      <totalConImpuestos>
+         <totalImpuesto>
+            <codigo>2</codigo>
+            <codigoPorcentaje>2</codigoPorcentaje>
+            <baseImponible>1705.60</baseImponible>
+            <tarifa>0</tarifa>
+            <valor>204.67</valor>
+         </totalImpuesto>
+      </totalConImpuestos>
+      <propina>0.00</propina>
+      <importeTotal>1910.27</importeTotal>
+      <moneda>DOLAR</moneda>
+   </infoFactura>
+   <detalles>
+      <detalle>
+         <codigoPrincipal>CS393</codigoPrincipal>
+         <descripcion>CHENGSHAN 235/75R17.5 16 CST78</descripcion>
+         <cantidad>8.00</cantidad>
+         <precioUnitario>260.00</precioUnitario>
+         <descuento>374.40</descuento>
+         <precioTotalSinImpuesto>1705.60</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>1705.60</baseImponible>
+               <valor>204.67</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+   </detalles>
+</factura>

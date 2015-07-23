@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<factura id="comprobante" version="1.0.0">
+   <infoTributaria>
+      <ambiente>1</ambiente>
+      <tipoEmision>1</tipoEmision>
+      <razonSocial>TRACTOMAQ S.A.</razonSocial>
+      <ruc>0992620854001</ruc>
+      <claveAcceso>2811201401099262085400110010010000701970010890210</claveAcceso>
+      <codDoc>01</codDoc>
+      <estab>001</estab>
+      <ptoEmi>001</ptoEmi>
+      <secuencial>000070197</secuencial>
+      <dirMatriz>KM 95 VIA DAULE 43 NO SOLAR 62 Y 23 NO</dirMatriz>
+   </infoTributaria>
+   <infoFactura>
+      <fechaEmision>28/11/2014</fechaEmision>
+      <dirEstablecimiento>9 DE OCTUBRE S/N Y TARACOA</dirEstablecimiento>
+      <obligadoContabilidad>SI</obligadoContabilidad>
+      <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+      <razonSocialComprador>PRUEBAS SERVICIO DE RENTAS INTERNAS</razonSocialComprador>
+      <identificacionComprador>2100189212001</identificacionComprador>
+      <totalSinImpuestos>37570.40</totalSinImpuestos>
+      <totalDescuento>464.00</totalDescuento>
+      <totalConImpuestos>
+         <totalImpuesto>
+            <codigo>2</codigo>
+            <codigoPorcentaje>2</codigoPorcentaje>
+            <baseImponible>37570.40</baseImponible>
+            <tarifa>0</tarifa>
+            <valor>4508.45</valor>
+         </totalImpuesto>
+      </totalConImpuestos>
+      <propina>0.00</propina>
+      <importeTotal>42078.85</importeTotal>
+      <moneda>DOLAR</moneda>
+   </infoFactura>
+   <detalles>
+      <detalle>
+         <codigoPrincipal>GT233</codigoPrincipal>
+         <descripcion>GT RADIAL 12R22.5 18PR 152/149F GAO822</descripcion>
+         <cantidad>80.00</cantidad>
+         <precioUnitario>446.43</precioUnitario>
+         <descuento>0.00</descuento>
+         <precioTotalSinImpuesto>35714.40</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>35714.40</baseImponible>
+               <valor>4285.73</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+      <detalle>
+         <codigoPrincipal>GT232</codigoPrincipal>
+         <descripcion>13R22.5 18PR 154/150156/150 L K GT01</descripcion>
+         <cantidad>4.00</cantidad>
+         <precioUnitario>580.00</precioUnitario>
+         <descuento>464.00</descuento>
+         <precioTotalSinImpuesto>1856.00</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>1856.00</baseImponible>
+               <valor>222.72</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+   </detalles>
+</factura>

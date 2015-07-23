@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<notaCredito id="comprobante" version="1.0.0">
+   <infoTributaria>
+      <ambiente>1</ambiente>
+      <tipoEmision>1</tipoEmision>
+      <razonSocial>TRACTOMAQ S.A.</razonSocial>
+      <ruc>0992620854001</ruc>
+      <claveAcceso>0712201404099262085400110010010000069080010914018</claveAcceso>
+      <codDoc>04</codDoc>
+      <estab>001</estab>
+      <ptoEmi>001</ptoEmi>
+      <secuencial>000006908</secuencial>
+      <dirMatriz>KM 95 VIA DAULE 43 NO SOLAR 62 Y 23 NO</dirMatriz>
+   </infoTributaria>
+   <infoNotaCredito>
+      <fechaEmision>07/12/2014</fechaEmision>
+      <dirEstablecimiento>AV. MACHALA 518 Y PADRE SOLANO - LUIS URDANETA</dirEstablecimiento>
+      <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+      <razonSocialComprador>PRUEBAS SERVICIO DE RENTAS INTERNAS</razonSocialComprador>
+      <identificacionComprador>0904820651001</identificacionComprador>
+      <contribuyenteEspecial>00048</contribuyenteEspecial>
+      <obligadoContabilidad>SI</obligadoContabilidad>
+      <rise>RISE</rise>
+      <codDocModificado>01</codDocModificado>
+      <numDocModificado>001-001-000069775</numDocModificado>
+      <fechaEmisionDocSustento>19/11/2014</fechaEmisionDocSustento>
+      <totalSinImpuestos>13480.64</totalSinImpuestos>
+      <valorModificacion>15098.31</valorModificacion>
+      <moneda>DOLAR</moneda>
+      <totalConImpuestos>
+         <totalImpuesto>
+            <codigo>2</codigo>
+            <codigoPorcentaje>2</codigoPorcentaje>
+            <baseImponible>13480.64</baseImponible>
+            <valor>1617.67</valor>
+         </totalImpuesto>
+      </totalConImpuestos>
+      <motivo>CLT DEV.</motivo>
+   </infoNotaCredito>
+   <detalles>
+      <detalle>
+         <codigoInterno>RW612</codigoInterno>
+         <codigoAdicional>RW612</codigoAdicional>
+         <descripcion>RUNWAY P225/70R16 101T ENDURO HT2</descripcion>
+         <cantidad>28.00</cantidad>
+         <precioUnitario>130.00</precioUnitario>
+         <descuento>728.00</descuento>
+         <precioTotalSinImpuesto>2912.00</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>2912.00</baseImponible>
+               <valor>349.44</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+      <detalle>
+         <codigoInterno>RW409</codigoInterno>
+         <codigoAdicional>RW409</codigoAdicional>
+         <descripcion>RUNWAY LT235/75R15 6PR ENDURO A/T LB</descripcion>
+         <cantidad>88.00</cantidad>
+         <precioUnitario>140.00</precioUnitario>
+         <descuento>2464.00</descuento>
+         <precioTotalSinImpuesto>9856.00</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>9856.00</baseImponible>
+               <valor>1182.72</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+      <detalle>
+         <codigoInterno>GT010</codigoInterno>
+         <codigoAdicional>GT010</codigoAdicional>
+         <descripcion>GT RADIAL 650R16 10PR S.TRAV668 LISA</descripcion>
+         <cantidad>2.00</cantidad>
+         <precioUnitario>182.00</precioUnitario>
+         <descuento>72.80</descuento>
+         <precioTotalSinImpuesto>291.20</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>291.20</baseImponible>
+               <valor>34.94</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+      <detalle>
+         <codigoInterno>GT141</codigoInterno>
+         <codigoAdicional>GT141</codigoAdicional>
+         <descripcion>GT RADIAL 225/65R17 102H CHAMPIRO VP1</descripcion>
+         <cantidad>4.00</cantidad>
+         <precioUnitario>105.36</precioUnitario>
+         <descuento>0.00</descuento>
+         <precioTotalSinImpuesto>421.44</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>421.44</baseImponible>
+               <valor>50.57</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+   </detalles>
+</notaCredito>

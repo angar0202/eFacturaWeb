@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<factura id="comprobante" version="1.0.0">
+   <infoTributaria>
+      <ambiente>1</ambiente>
+      <tipoEmision>1</tipoEmision>
+      <razonSocial>TRACTOMAQ S.A.</razonSocial>
+      <ruc>0992620854001</ruc>
+      <claveAcceso>0412201401099262085400110010010000702770010898519</claveAcceso>
+      <codDoc>01</codDoc>
+      <estab>001</estab>
+      <ptoEmi>001</ptoEmi>
+      <secuencial>000070277</secuencial>
+      <dirMatriz>KM 95 VIA DAULE 43 NO SOLAR 62 Y 23 NO</dirMatriz>
+   </infoTributaria>
+   <infoFactura>
+      <fechaEmision>04/12/2014</fechaEmision>
+      <dirEstablecimiento>CDLA 13 DE ABRIL PRINCIPAL S/N</dirEstablecimiento>
+      <contribuyenteEspecial>12345</contribuyenteEspecial>
+      <obligadoContabilidad>SI</obligadoContabilidad>
+      <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+      <razonSocialComprador>PRUEBAS SERVICIO DE RENTAS INTERNAS</razonSocialComprador>
+      <identificacionComprador>1203415946001</identificacionComprador>
+      <totalSinImpuestos>1203.76</totalSinImpuestos>
+      <totalDescuento>264.24</totalDescuento>
+      <totalConImpuestos>
+         <totalImpuesto>
+            <codigo>2</codigo>
+            <codigoPorcentaje>2</codigoPorcentaje>
+            <baseImponible>1203.76</baseImponible>
+            <tarifa>0</tarifa>
+            <valor>144.45</valor>
+         </totalImpuesto>
+      </totalConImpuestos>
+      <propina>0.00</propina>
+      <importeTotal>1348.21</importeTotal>
+      <moneda>DOLAR</moneda>
+   </infoFactura>
+   <detalles>
+      <detalle>
+         <codigoPrincipal>LM510</codigoPrincipal>
+         <descripcion>LONG MARCH 11R22.5/16 LM216 DIRECCIONAL</descripcion>
+         <cantidad>2.00</cantidad>
+         <precioUnitario>399.00</precioUnitario>
+         <descuento>143.64</descuento>
+         <precioTotalSinImpuesto>654.36</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>654.36</baseImponible>
+               <valor>78.52</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+      <detalle>
+         <codigoPrincipal>RW612</codigoPrincipal>
+         <descripcion>RUNWAY P225/70R16 101T ENDURO HT2</descripcion>
+         <cantidad>4.00</cantidad>
+         <precioUnitario>130.00</precioUnitario>
+         <descuento>93.60</descuento>
+         <precioTotalSinImpuesto>426.40</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>426.40</baseImponible>
+               <valor>51.17</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+      <detalle>
+         <codigoPrincipal>GT170</codigoPrincipal>
+         <descripcion>GT RADIAL 185/65R14 86T MAXTOUR</descripcion>
+         <cantidad>2.00</cantidad>
+         <precioUnitario>75.00</precioUnitario>
+         <descuento>27.00</descuento>
+         <precioTotalSinImpuesto>123.00</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>123.00</baseImponible>
+               <valor>14.76</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+   </detalles>
+</factura>

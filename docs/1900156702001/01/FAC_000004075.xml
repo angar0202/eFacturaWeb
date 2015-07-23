@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<factura id="comprobante" version="1.0.0">
+   <infoTributaria>
+      <ambiente>1</ambiente>
+      <tipoEmision>1</tipoEmision>
+      <razonSocial>TRACTOMAQ S.A.</razonSocial>
+      <ruc>0992620854001</ruc>
+      <claveAcceso>1712201401099262085400110010020000040750000313511</claveAcceso>
+      <codDoc>01</codDoc>
+      <estab>001</estab>
+      <ptoEmi>002</ptoEmi>
+      <secuencial>000004075</secuencial>
+      <dirMatriz>KM 95 VIA DAULE 43 NO SOLAR 62 Y 23 NO</dirMatriz>
+   </infoTributaria>
+   <infoFactura>
+      <fechaEmision>17/12/2014</fechaEmision>
+      <dirEstablecimiento>DIEGO DE VACA Y LUIS MARQUEZ FRENTE AL CTRO COMERCIAL REINA DEL</dirEstablecimiento>
+      <contribuyenteEspecial>00048</contribuyenteEspecial>
+      <obligadoContabilidad>SI</obligadoContabilidad>
+      <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+      <razonSocialComprador>PRUEBAS SERVICIO DE RENTAS INTERNAS</razonSocialComprador>
+      <identificacionComprador>1900156702001</identificacionComprador>
+      <totalSinImpuestos>1411.80</totalSinImpuestos>
+      <totalDescuento>0.00</totalDescuento>
+      <totalConImpuestos>
+         <totalImpuesto>
+            <codigo>2</codigo>
+            <codigoPorcentaje>2</codigoPorcentaje>
+            <baseImponible>1411.80</baseImponible>
+            <tarifa>0</tarifa>
+            <valor>169.42</valor>
+         </totalImpuesto>
+      </totalConImpuestos>
+      <propina>0.00</propina>
+      <importeTotal>1581.22</importeTotal>
+      <moneda>DOLAR</moneda>
+   </infoFactura>
+   <detalles>
+      <detalle>
+         <codigoPrincipal>DL-073</codigoPrincipal>
+         <descripcion>185/65R14 86H SPLM704</descripcion>
+         <cantidad>4.00</cantidad>
+         <precioUnitario>59.82</precioUnitario>
+         <descuento>0.00</descuento>
+         <precioTotalSinImpuesto>239.28</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>239.28</baseImponible>
+               <valor>28.71</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+      <detalle>
+         <codigoPrincipal>DL-015</codigoPrincipal>
+         <descripcion>LT215/75R15 100S AT3 OW 01 GDEEI</descripcion>
+         <cantidad>8.00</cantidad>
+         <precioUnitario>110.85</precioUnitario>
+         <descuento>0.00</descuento>
+         <precioTotalSinImpuesto>886.80</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>886.80</baseImponible>
+               <valor>106.42</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+      <detalle>
+         <codigoPrincipal>DL-078</codigoPrincipal>
+         <descripcion>195/65R15 91V SPLM704</descripcion>
+         <cantidad>4.00</cantidad>
+         <precioUnitario>71.43</precioUnitario>
+         <descuento>0.00</descuento>
+         <precioTotalSinImpuesto>285.72</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>285.72</baseImponible>
+               <valor>34.29</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+   </detalles>
+</factura>

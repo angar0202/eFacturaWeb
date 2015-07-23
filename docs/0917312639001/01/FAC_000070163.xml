@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<factura id="comprobante" version="1.0.0">
+   <infoTributaria>
+      <ambiente>1</ambiente>
+      <tipoEmision>1</tipoEmision>
+      <razonSocial>TRACTOMAQ S.A.</razonSocial>
+      <ruc>0992620854001</ruc>
+      <claveAcceso>2711201401099262085400110010010000701630010886310</claveAcceso>
+      <codDoc>01</codDoc>
+      <estab>001</estab>
+      <ptoEmi>001</ptoEmi>
+      <secuencial>000070163</secuencial>
+      <dirMatriz>KM 95 VIA DAULE 43 NO SOLAR 62 Y 23 NO</dirMatriz>
+   </infoTributaria>
+   <infoFactura>
+      <fechaEmision>27/11/2014</fechaEmision>
+      <dirEstablecimiento>CALLE OLMEDO AV. GUAYAQUIL RF: A UNA CUADRA DEL RESTAURANTE RON</dirEstablecimiento>
+      <obligadoContabilidad>SI</obligadoContabilidad>
+      <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+      <razonSocialComprador>PRUEBAS SERVICIO DE RENTAS INTERNAS</razonSocialComprador>
+      <identificacionComprador>0917312639001</identificacionComprador>
+      <totalSinImpuestos>3074.40</totalSinImpuestos>
+      <totalDescuento>570.60</totalDescuento>
+      <totalConImpuestos>
+         <totalImpuesto>
+            <codigo>2</codigo>
+            <codigoPorcentaje>2</codigoPorcentaje>
+            <baseImponible>3074.40</baseImponible>
+            <tarifa>0</tarifa>
+            <valor>368.93</valor>
+         </totalImpuesto>
+      </totalConImpuestos>
+      <propina>0.00</propina>
+      <importeTotal>3443.33</importeTotal>
+      <moneda>DOLAR</moneda>
+   </infoFactura>
+   <detalles>
+      <detalle>
+         <codigoPrincipal>GT150</codigoPrincipal>
+         <descripcion>GT RADIAL 225/70R15C 112/110R 8PR LT MAXMILER EX SS</descripcion>
+         <cantidad>4.00</cantidad>
+         <precioUnitario>118.75</precioUnitario>
+         <descuento>0.00</descuento>
+         <precioTotalSinImpuesto>475.00</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>475.00</baseImponible>
+               <valor>57.00</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+      <detalle>
+         <codigoPrincipal>GT053</codigoPrincipal>
+         <descripcion>GT RADIAL 12R22.5 16PR DIRECC GT879 </descripcion>
+         <cantidad>2.00</cantidad>
+         <precioUnitario>535.00</precioUnitario>
+         <descuento>192.60</descuento>
+         <precioTotalSinImpuesto>877.40</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>877.40</baseImponible>
+               <valor>105.29</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+      <detalle>
+         <codigoPrincipal>GT241</codigoPrincipal>
+         <descripcion>GT RADIAL 12R22.5 18PR 152/149K GT01N</descripcion>
+         <cantidad>4.00</cantidad>
+         <precioUnitario>525.00</precioUnitario>
+         <descuento>378.00</descuento>
+         <precioTotalSinImpuesto>1722.00</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>1722.00</baseImponible>
+               <valor>206.64</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+   </detalles>
+</factura>

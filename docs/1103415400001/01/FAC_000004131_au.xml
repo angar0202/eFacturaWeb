@@ -1,0 +1,193 @@
+<autorizacion>
+  <estado>AUTORIZADO</estado>
+  <numeroAutorizacion>1912201414515609926208540010176816223</numeroAutorizacion>
+  <fechaAutorizacion>2014-12-19T14:51:56.604-05:00</fechaAutorizacion>
+  <ambiente>PRUEBAS</ambiente>
+  <comprobante>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;factura id="comprobante" version="1.0.0"&gt;
+  &lt;infoTributaria&gt;
+    &lt;ambiente&gt;1&lt;/ambiente&gt;
+    &lt;tipoEmision&gt;1&lt;/tipoEmision&gt;
+    &lt;razonSocial&gt;TRACTOMAQ S.A.&lt;/razonSocial&gt;
+    &lt;ruc&gt;0992620854001&lt;/ruc&gt;
+    &lt;claveAcceso&gt;1912201401099262085400110010020000041310000319318&lt;/claveAcceso&gt;
+    &lt;codDoc&gt;01&lt;/codDoc&gt;
+    &lt;estab&gt;001&lt;/estab&gt;
+    &lt;ptoEmi&gt;002&lt;/ptoEmi&gt;
+    &lt;secuencial&gt;000004131&lt;/secuencial&gt;
+    &lt;dirMatriz&gt;KM 95 VIA DAULE 43 NO SOLAR 62 Y 23 NO&lt;/dirMatriz&gt;
+  &lt;/infoTributaria&gt;
+  &lt;infoFactura&gt;
+    &lt;fechaEmision&gt;19/12/2014&lt;/fechaEmision&gt;
+    &lt;dirEstablecimiento&gt;AV. CUXIBAMBA Y LA TACUNGA&lt;/dirEstablecimiento&gt;
+    &lt;contribuyenteEspecial&gt;00048&lt;/contribuyenteEspecial&gt;
+    &lt;obligadoContabilidad&gt;SI&lt;/obligadoContabilidad&gt;
+    &lt;tipoIdentificacionComprador&gt;04&lt;/tipoIdentificacionComprador&gt;
+    &lt;razonSocialComprador&gt;PRUEBAS SERVICIO DE RENTAS INTERNAS&lt;/razonSocialComprador&gt;
+    &lt;identificacionComprador&gt;1103415400001&lt;/identificacionComprador&gt;
+    &lt;totalSinImpuestos&gt;1146.00&lt;/totalSinImpuestos&gt;
+    &lt;totalDescuento&gt;0.00&lt;/totalDescuento&gt;
+    &lt;totalConImpuestos&gt;
+      &lt;totalImpuesto&gt;
+        &lt;codigo&gt;2&lt;/codigo&gt;
+        &lt;codigoPorcentaje&gt;2&lt;/codigoPorcentaje&gt;
+        &lt;baseImponible&gt;1146.00&lt;/baseImponible&gt;
+        &lt;tarifa&gt;0&lt;/tarifa&gt;
+        &lt;valor&gt;137.52&lt;/valor&gt;
+      &lt;/totalImpuesto&gt;
+    &lt;/totalConImpuestos&gt;
+    &lt;propina&gt;0.00&lt;/propina&gt;
+    &lt;importeTotal&gt;1283.52&lt;/importeTotal&gt;
+    &lt;moneda&gt;DOLAR&lt;/moneda&gt;
+  &lt;/infoFactura&gt;
+  &lt;detalles&gt;
+    &lt;detalle&gt;
+      &lt;codigoPrincipal&gt;DL-015&lt;/codigoPrincipal&gt;
+      &lt;descripcion&gt;LT215/75R15 100S AT3 OW 01 GDEEI&lt;/descripcion&gt;
+      &lt;cantidad&gt;4.00&lt;/cantidad&gt;
+      &lt;precioUnitario&gt;110.85&lt;/precioUnitario&gt;
+      &lt;descuento&gt;0.00&lt;/descuento&gt;
+      &lt;precioTotalSinImpuesto&gt;443.40&lt;/precioTotalSinImpuesto&gt;
+      &lt;impuestos&gt;
+        &lt;impuesto&gt;
+          &lt;codigo&gt;2&lt;/codigo&gt;
+          &lt;codigoPorcentaje&gt;2&lt;/codigoPorcentaje&gt;
+          &lt;tarifa&gt;12&lt;/tarifa&gt;
+          &lt;baseImponible&gt;443.40&lt;/baseImponible&gt;
+          &lt;valor&gt;53.21&lt;/valor&gt;
+        &lt;/impuesto&gt;
+      &lt;/impuestos&gt;
+    &lt;/detalle&gt;
+    &lt;detalle&gt;
+      &lt;codigoPrincipal&gt;DL-006&lt;/codigoPrincipal&gt;
+      &lt;descripcion&gt;245/65R17 107H AT3 BL 01 EEI&lt;/descripcion&gt;
+      &lt;cantidad&gt;2.00&lt;/cantidad&gt;
+      &lt;precioUnitario&gt;163.71&lt;/precioUnitario&gt;
+      &lt;descuento&gt;0.00&lt;/descuento&gt;
+      &lt;precioTotalSinImpuesto&gt;327.42&lt;/precioTotalSinImpuesto&gt;
+      &lt;impuestos&gt;
+        &lt;impuesto&gt;
+          &lt;codigo&gt;2&lt;/codigo&gt;
+          &lt;codigoPorcentaje&gt;2&lt;/codigoPorcentaje&gt;
+          &lt;tarifa&gt;12&lt;/tarifa&gt;
+          &lt;baseImponible&gt;327.42&lt;/baseImponible&gt;
+          &lt;valor&gt;39.29&lt;/valor&gt;
+        &lt;/impuesto&gt;
+      &lt;/impuestos&gt;
+    &lt;/detalle&gt;
+    &lt;detalle&gt;
+      &lt;codigoPrincipal&gt;DL-008&lt;/codigoPrincipal&gt;
+      &lt;descripcion&gt;275/65R17 115H AT3 BL 01 EEI&lt;/descripcion&gt;
+      &lt;cantidad&gt;2.00&lt;/cantidad&gt;
+      &lt;precioUnitario&gt;187.59&lt;/precioUnitario&gt;
+      &lt;descuento&gt;0.00&lt;/descuento&gt;
+      &lt;precioTotalSinImpuesto&gt;375.18&lt;/precioTotalSinImpuesto&gt;
+      &lt;impuestos&gt;
+        &lt;impuesto&gt;
+          &lt;codigo&gt;2&lt;/codigo&gt;
+          &lt;codigoPorcentaje&gt;2&lt;/codigoPorcentaje&gt;
+          &lt;tarifa&gt;12&lt;/tarifa&gt;
+          &lt;baseImponible&gt;375.18&lt;/baseImponible&gt;
+          &lt;valor&gt;45.02&lt;/valor&gt;
+        &lt;/impuesto&gt;
+      &lt;/impuestos&gt;
+    &lt;/detalle&gt;
+  &lt;/detalles&gt;
+&lt;ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature704354"&gt;
+&lt;ds:SignedInfo Id="Signature-SignedInfo624561"&gt;
+&lt;ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/&gt;
+&lt;ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/&gt;
+&lt;ds:Reference Id="SignedPropertiesID967895" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature704354-SignedProperties468226"&gt;
+&lt;ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/&gt;
+&lt;ds:DigestValue&gt;xY55PD9NmiKIiNkTCRDFuwu8DO0=&lt;/ds:DigestValue&gt;
+&lt;/ds:Reference&gt;
+&lt;ds:Reference URI="#Certificate1955485"&gt;
+&lt;ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/&gt;
+&lt;ds:DigestValue&gt;htP5InizVoNBsM7uFvjI7LmDhbw=&lt;/ds:DigestValue&gt;
+&lt;/ds:Reference&gt;
+&lt;ds:Reference Id="Reference-ID-751161" URI="#comprobante"&gt;
+&lt;ds:Transforms&gt;
+&lt;ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/&gt;
+&lt;/ds:Transforms&gt;
+&lt;ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/&gt;
+&lt;ds:DigestValue&gt;vdHrTET4lVn/J3ccr1QcJvupWq4=&lt;/ds:DigestValue&gt;
+&lt;/ds:Reference&gt;
+&lt;/ds:SignedInfo&gt;
+&lt;ds:SignatureValue Id="SignatureValue208317"&gt;
+a548SVVfq2QjpMezWbeCkF84BHcWmY/Mlsz+usX3G4tn01WISKc1+j41J9lo1jCyRuLxYfdDk/h1
+ZEXaP6e/mlkMtoPGEOkRgRorSjzb6jr4SOqsADhbW1B2IzsSyHE8qKrSnq/uLYFCQUKTWWhX8bcj
+eNCxtBkst5AcS82a85YTtl7pT9oebtvlgge7a8wTrxHVpsQp8FrpfcJLMyW95dlmhwWVSjiY9yci
+K38GaniwvTkOW4J0GsADhWWp2My6atWLFPmlx9VAx4DKR6pXTu87Xu1D6/aUtRBF8c4Ev9iOEBGG
+3CQEbxYU+GApXOOftR0ZVc+Y73M8lUUKAUTnxw==
+&lt;/ds:SignatureValue&gt;
+&lt;ds:KeyInfo Id="Certificate1955485"&gt;
+&lt;ds:X509Data&gt;
+&lt;ds:X509Certificate&gt;
+MIIJ5jCCB86gAwIBAgIETkLvtjANBgkqhkiG9w0BAQsFADCBoTELMAkGA1UEBhMCRUMxIjAgBgNV
+BAoTGUJBTkNPIENFTlRSQUwgREVMIEVDVUFET1IxNzA1BgNVBAsTLkVOVElEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBERSBJTkZPUk1BQ0lPTi1FQ0lCQ0UxDjAMBgNVBAcTBVFVSVRPMSUwIwYDVQQDExxB
+QyBCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMB4XDTE0MDcwOTE4NDAxOFoXDTE1MDcwOTE5MTAx
+OFowgbQxCzAJBgNVBAYTAkVDMSIwIAYDVQQKExlCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMTcw
+NQYDVQQLEy5FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04tRUNJQkNFMQ4w
+DAYDVQQHEwVRVUlUTzE4MBEGA1UEBRMKMDAwMDA3NDMwNDAjBgNVBAMTHEpVQU4gQ0FSTE9TIE1J
+UkFOREEgQ09QUElBTk8wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDX+Zk7xfbct6n2
+HaFIZPlXKyRicgKmSm/U6oFI9o2J6G82NngRKP79DnS4QwpW9hxPpPmEhE+RzpFxCYtAAX3D5VXR
+rovzKOehf4E8yjryl0hOD0mE1FEvlHYKeweEhEuYh2RNBpN0uz7V8qUVzWP97PHpmKIoaehXDRgI
+3b9HZV3TYBUOO7BSyjxwXCXtE+fn0Ep8li9DZsuoPMimWb9dFJkMiz3gM/7dgXGpZjQEB/b/r5O6
+YL6FeEGmkFZ7Oe4BEmTgsDGOyiECWa8Ie3NWPFpRtw+e7XMqJ9XByIgGjKT0JQcRMq23Ar88fFTr
+z7KrgGbeoo6d1m717IYkpNabAgMBAAGjggUPMIIFCzALBgNVHQ8EBAMCB4AwZwYDVR0gBGAwXjBc
+BgsrBgEEAYKoOwICATBNMEsGCCsGAQUFBwIBFj9odHRwOi8vd3d3LmVjaS5iY2UuZWMvcG9saXRp
+Y2EtY2VydGlmaWNhZG8vcGVyc29uYS1qdXJpZGljYS5wZGYwgZEGCCsGAQUFBwEBBIGEMIGBMD4G
+CCsGAQUFBzABhjJodHRwOi8vb2NzcC5lY2kuYmNlLmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMv
+b2NzcDA/BggrBgEFBQcwAYYzaHR0cDovL29jc3AxLmVjaS5iY2UuZWMvZWpiY2EvcHVibGljd2Vi
+L3N0YXR1cy9vY3NwMBwGCisGAQQBgqg7AwoEDhMMVFJBQ1RPTUFRIFNBMB0GCisGAQQBgqg7AwsE
+DxMNMDk5MjYyMDg1NDAwMTAaBgorBgEEAYKoOwMBBAwTCjA5MTIwMzA0NzUwGwYKKwYBBAGCqDsD
+AgQNEwtKVUFOIENBUkxPUzAXBgorBgEEAYKoOwMDBAkTB01JUkFOREEwGAYKKwYBBAGCqDsDBAQK
+EwhDT1BQSUFOTzAXBgorBgEEAYKoOwMFBAkTB0dFUkVOVEUwMwYKKwYBBAGCqDsDBwQlEyNLTTk1
+IFZJQSBEQVVMRSBDQUxMRSA0MyBOTyBTT0xBUiA2MjAZBgorBgEEAYKoOwMIBAsTCTA0MjExNDQ5
+NTAZBgorBgEEAYKoOwMJBAsTCUd1YXlhcXVpbDAXBgorBgEEAYKoOwMMBAkTB0VDVUFET1IwIAYK
+KwYBBAGCqDsDMwQSExBTT0ZUV0FSRS1BUkNISVZPMCEGA1UdEQQaMBiBFmNvbnRhZG9yQHRyYWN0
+b21hcS5jb20wggHfBgNVHR8EggHWMIIB0jCCAc6gggHKoIIBxoaB1WxkYXA6Ly9iY2VxbGRhcHN1
+YnAxLmJjZS5lYy9jbj1DUkwxNDAsY249QUMlMjBCQU5DTyUyMENFTlRSQUwlMjBERUwlMjBFQ1VB
+RE9SLGw9UVVJVE8sb3U9RU5USURBRCUyMERFJTIwQ0VSVElGSUNBQ0lPTiUyMERFJTIwSU5GT1JN
+QUNJT04tRUNJQkNFLG89QkFOQ08lMjBDRU5UUkFMJTIwREVMJTIwRUNVQURPUixjPUVDP2NlcnRp
+ZmljYXRlUmV2b2NhdGlvbkxpc3Q/YmFzZYY0aHR0cDovL3d3dy5lY2kuYmNlLmVjL0NSTC9lY2lf
+YmNlX2VjX2NybGZpbGVjb21iLmNybKSBtTCBsjELMAkGA1UEBhMCRUMxIjAgBgNVBAoTGUJBTkNP
+IENFTlRSQUwgREVMIEVDVUFET1IxNzA1BgNVBAsTLkVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBE
+RSBJTkZPUk1BQ0lPTi1FQ0lCQ0UxDjAMBgNVBAcTBVFVSVRPMSUwIwYDVQQDExxBQyBCQU5DTyBD
+RU5UUkFMIERFTCBFQ1VBRE9SMQ8wDQYDVQQDEwZDUkwxNDAwKwYDVR0QBCQwIoAPMjAxNDA3MDkx
+ODQwMThagQ8yMDE1MDcwOTE5MTAxOFowHwYDVR0jBBgwFoAUGPnw++YyHJlmOSrKi7JpfUknv84w
+HQYDVR0OBBYEFKpNkPZAvGsw2t0L3Ox295Qm+IFZMAkGA1UdEwQCMAAwGQYJKoZIhvZ9B0EABAww
+ChsEVjguMQMCBLAwDQYJKoZIhvcNAQELBQADggIBAJzDKwyTqdkGSf5/mdenyAcE9ltervR/v+pR
+pbpRgKwrUS00SgkcSjQD193q7Dw8DnuB/4e9D6DV/Gmlsy9zeppAeBOFEcqTOheJqHQu/M8OB0pg
+D29XuftcVEnbKk2/vsZbvFcc9R3OhmU1GkjHD9vdT2jo0yxznZZI1sZf3ew+Zko38ItsfyOiScVW
+sx35QkMe/IoKRbuArOtl9Ro6YlGSGwG97KSxkEk4t1olIdOuGikC0DK9TIzORdhGTSfp/KmHKDdv
+egEV+gtZBGcp4cZCPFPKv8s+LtPDd1BGPmbe69fz/Yv9N3wycCsl3mfBFq4zRMe2SsR/eQV60af3
+hkjeH/YspDOwDsevvuFXLwldBPh4i9q3YNNNhlV/HGYRb+7tYZ/uSJ4eH+I98Ho609fvnBNCtEgD
+xdzQQ1nhQPAq/irmn8kScxjMfm6UkL7qwsZ5EvaSS77r9AcXXcH5YdRIh9EUHd+ABTB52rK++9wm
+hvcc06o9lUn3zhIs+OkRrHHXLWzwOHAFpF20a2sZ9q7QFdV4n7FftSXAzrjoewQz62DVUcVvVhj8
+YaXws6wkLjoa08JY0Ez6yfgILtbh3lvh8HUW8nF6w0RnJNXDdEmiEbqe/PdJF8ne+ejWLcWQ8XJB
+5YSEK4i7a/EPK2yrOwr5goZ9SEf1QSIKLGl79SB2
+&lt;/ds:X509Certificate&gt;
+&lt;/ds:X509Data&gt;
+&lt;ds:KeyValue&gt;
+&lt;ds:RSAKeyValue&gt;
+&lt;ds:Modulus&gt;
+1/mZO8X23Lep9h2hSGT5VyskYnICpkpv1OqBSPaNiehvNjZ4ESj+/Q50uEMKVvYcT6T5hIRPkc6R
+cQmLQAF9w+VV0a6L8yjnoX+BPMo68pdITg9JhNRRL5R2CnsHhIRLmIdkTQaTdLs+1fKlFc1j/ezx
+6ZiiKGnoVw0YCN2/R2Vd02AVDjuwUso8cFwl7RPn59BKfJYvQ2bLqDzIplm/XRSZDIs94DP+3YFx
+qWY0BAf2/6+TumC+hXhBppBWeznuARJk4LAxjsohAlmvCHtzVjxaUbcPnu1zKifVwciIBoyk9CUH
+ETKttwK/PHxU68+yq4Bm3qKOndZu9eyGJKTWmw==
+&lt;/ds:Modulus&gt;
+&lt;ds:Exponent&gt;AQAB&lt;/ds:Exponent&gt;
+&lt;/ds:RSAKeyValue&gt;
+&lt;/ds:KeyValue&gt;
+&lt;/ds:KeyInfo&gt;
+&lt;ds:Object Id="Signature704354-Object727663"&gt;&lt;etsi:QualifyingProperties Target="#Signature704354"&gt;&lt;etsi:SignedProperties Id="Signature704354-SignedProperties468226"&gt;&lt;etsi:SignedSignatureProperties&gt;&lt;etsi:SigningTime&gt;2014-12-19T14:51:51-05:00&lt;/etsi:SigningTime&gt;&lt;etsi:SigningCertificate&gt;&lt;etsi:Cert&gt;&lt;etsi:CertDigest&gt;&lt;ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/&gt;&lt;ds:DigestValue&gt;Jrs4stDHu4pmHyenHSotJVmZU2g=&lt;/ds:DigestValue&gt;&lt;/etsi:CertDigest&gt;&lt;etsi:IssuerSerial&gt;&lt;ds:X509IssuerName&gt;CN=AC BANCO CENTRAL DEL ECUADOR,L=QUITO,OU=ENTIDAD DE CERTIFICACION DE INFORMACION-ECIBCE,O=BANCO CENTRAL DEL ECUADOR,C=EC&lt;/ds:X509IssuerName&gt;&lt;ds:X509SerialNumber&gt;1313009590&lt;/ds:X509SerialNumber&gt;&lt;/etsi:IssuerSerial&gt;&lt;/etsi:Cert&gt;&lt;/etsi:SigningCertificate&gt;&lt;/etsi:SignedSignatureProperties&gt;&lt;etsi:SignedDataObjectProperties&gt;&lt;etsi:DataObjectFormat ObjectReference="#Reference-ID-751161"&gt;&lt;etsi:Description&gt;contenido comprobante&lt;/etsi:Description&gt;&lt;etsi:MimeType&gt;text/xml&lt;/etsi:MimeType&gt;&lt;/etsi:DataObjectFormat&gt;&lt;/etsi:SignedDataObjectProperties&gt;&lt;/etsi:SignedProperties&gt;&lt;/etsi:QualifyingProperties&gt;&lt;/ds:Object&gt;&lt;/ds:Signature&gt;&lt;/factura&gt;</comprobante>
+  <mensajes>
+    <mensaje>
+      <identificador>60</identificador>
+      <mensaje>ESTE PROCESO FUE REALIZADO EN EL AMBIENTE DE PRUEBAS</mensaje>
+      <tipo>INFORMATIVO</tipo>
+    </mensaje>
+  </mensajes>
+</autorizacion>

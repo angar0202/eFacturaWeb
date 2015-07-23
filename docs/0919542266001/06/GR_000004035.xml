@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<guiaRemision id="comprobante" version="1.0.0">
+   <infoTributaria>
+      <ambiente>1</ambiente>
+      <tipoEmision>1</tipoEmision>
+      <razonSocial>TRACTOMAQ S.A.</razonSocial>
+      <ruc>0992620854001</ruc>
+      <claveAcceso>1012201406099262085400110010020000040350000012513</claveAcceso>
+      <codDoc>06</codDoc>
+      <estab>001</estab>
+      <ptoEmi>002</ptoEmi>
+      <secuencial>000004035</secuencial>
+      <dirMatriz>KM 95 VIA DAULE 43 NO SOLAR 62 Y 23 NO</dirMatriz>
+   </infoTributaria>
+   <infoGuiaRemision>
+      <dirEstablecimiento>LA 27 AVA S/N Y CRISTOBAL COLON</dirEstablecimiento>
+      <dirPartida>LA 27 AVA S/N Y CRISTOBAL COLON</dirPartida>
+      <razonSocialTransportista>PRUEBAS SERVICIO DE RENTAS INTERNAS</razonSocialTransportista>
+      <tipoIdentificacionTransportista>04</tipoIdentificacionTransportista>
+      <rucTransportista>0919542266001</rucTransportista>
+      <rise>RISE</rise>
+      <obligadoContabilidad>SI</obligadoContabilidad>
+      <contribuyenteEspecial>00048</contribuyenteEspecial>
+      <fechaIniTransporte>10/12/2014</fechaIniTransporte>
+      <fechaFinTransporte>10/12/2014</fechaFinTransporte>
+      <placa>GRZ9481</placa>
+   </infoGuiaRemision>
+   <destinatarios>
+      <destinatario>
+         <identificacionDestinatario>0919542266001</identificacionDestinatario>
+         <razonSocialDestinatario>COLOMA AGUILERA GUILLERMO</razonSocialDestinatario>
+         <dirDestinatario>LA 27 AVA S/N Y CRISTOBAL COLON</dirDestinatario>
+         <motivoTraslado>O</motivoTraslado>
+         <codEstabDestino>001</codEstabDestino>
+         <ruta>N/A</ruta>
+         <codDocSustento>01</codDocSustento>
+         <numDocSustento>001-001-000000067</numDocSustento>
+         <numAutDocSustento>1234567890</numAutDocSustento>
+         <fechaEmisionDocSustento>10/12/2014</fechaEmisionDocSustento>
+         <detalles>
+            <detalle>
+               <codigoInterno>BN-001</codigoInterno>
+               <descripcion>BONO DE REENCAUCHE 20 DOLARES</descripcion>
+               <cantidad>6.00</cantidad>
+            </detalle>
+         </detalles>
+      </destinatario>
+      <destinatario>
+         <identificacionDestinatario>0919542266001</identificacionDestinatario>
+         <razonSocialDestinatario>COLOMA AGUILERA GUILLERMO</razonSocialDestinatario>
+         <dirDestinatario>LA 27 AVA S/N Y CRISTOBAL COLON</dirDestinatario>
+         <motivoTraslado>O</motivoTraslado>
+         <codEstabDestino>001</codEstabDestino>
+         <ruta>N/A</ruta>
+         <codDocSustento>01</codDocSustento>
+         <numDocSustento>001-001-000000067</numDocSustento>
+         <numAutDocSustento>1234567890</numAutDocSustento>
+         <fechaEmisionDocSustento>10/12/2014</fechaEmisionDocSustento>
+         <detalles>
+            <detalle>
+               <codigoInterno>DL-046(JP)</codigoInterno>
+               <descripcion>12R22.5 16PR SP350A GDEEI</descripcion>
+               <cantidad>2.00</cantidad>
+            </detalle>
+         </detalles>
+      </destinatario>
+      <destinatario>
+         <identificacionDestinatario>0919542266001</identificacionDestinatario>
+         <razonSocialDestinatario>COLOMA AGUILERA GUILLERMO</razonSocialDestinatario>
+         <dirDestinatario>LA 27 AVA S/N Y CRISTOBAL COLON</dirDestinatario>
+         <motivoTraslado>O</motivoTraslado>
+         <codEstabDestino>001</codEstabDestino>
+         <ruta>N/A</ruta>
+         <codDocSustento>01</codDocSustento>
+         <numDocSustento>001-001-000000067</numDocSustento>
+         <numAutDocSustento>1234567890</numAutDocSustento>
+         <fechaEmisionDocSustento>10/12/2014</fechaEmisionDocSustento>
+         <detalles>
+            <detalle>
+               <codigoInterno>DL-051(JP)</codigoInterno>
+               <descripcion>12R22.5 16PR SP580 A GDEI</descripcion>
+               <cantidad>4.00</cantidad>
+            </detalle>
+         </detalles>
+      </destinatario>
+   </destinatarios>
+</guiaRemision>

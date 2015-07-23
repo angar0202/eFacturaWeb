@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<factura id="comprobante" version="1.0.0">
+   <infoTributaria>
+      <ambiente>1</ambiente>
+      <tipoEmision>1</tipoEmision>
+      <razonSocial>TRACTOMAQ S.A.</razonSocial>
+      <ruc>0992620854001</ruc>
+      <claveAcceso>3012201401099262085400110010020000041470000321219</claveAcceso>
+      <codDoc>01</codDoc>
+      <estab>001</estab>
+      <ptoEmi>002</ptoEmi>
+      <secuencial>000004147</secuencial>
+      <dirMatriz>KM 95 VIA DAULE 43 NO SOLAR 62 Y 23 NO</dirMatriz>
+   </infoTributaria>
+   <infoFactura>
+      <fechaEmision>30/12/2014</fechaEmision>
+      <dirEstablecimiento>NACIONES UNIDAS NO.OE4-182 Y GREGORIO BOBADILLO OF. PB</dirEstablecimiento>
+      <contribuyenteEspecial>00048</contribuyenteEspecial>
+      <obligadoContabilidad>SI</obligadoContabilidad>
+      <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+      <razonSocialComprador>PRUEBAS SERVICIO DE RENTAS INTERNAS</razonSocialComprador>
+      <identificacionComprador>0401568225001</identificacionComprador>
+      <totalSinImpuestos>1331.50</totalSinImpuestos>
+      <totalDescuento>0.00</totalDescuento>
+      <totalConImpuestos>
+         <totalImpuesto>
+            <codigo>2</codigo>
+            <codigoPorcentaje>2</codigoPorcentaje>
+            <baseImponible>1331.50</baseImponible>
+            <tarifa>0</tarifa>
+            <valor>159.78</valor>
+         </totalImpuesto>
+      </totalConImpuestos>
+      <propina>0.00</propina>
+      <importeTotal>1491.28</importeTotal>
+      <moneda>DOLAR</moneda>
+   </infoFactura>
+   <detalles>
+      <detalle>
+         <codigoPrincipal>DL-061(JP)</codigoPrincipal>
+         <descripcion>LT265/75R16 112Q MT2 OW DEI</descripcion>
+         <cantidad>4.00</cantidad>
+         <precioUnitario>173.95</precioUnitario>
+         <descuento>0.00</descuento>
+         <precioTotalSinImpuesto>695.80</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>695.80</baseImponible>
+               <valor>83.50</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+      <detalle>
+         <codigoPrincipal>DL-017</codigoPrincipal>
+         <descripcion>205/40R17 84W DZ101 RF DI</descripcion>
+         <cantidad>4.00</cantidad>
+         <precioUnitario>123.21</precioUnitario>
+         <descuento>0.00</descuento>
+         <precioTotalSinImpuesto>492.84</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>492.84</baseImponible>
+               <valor>59.14</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+      <detalle>
+         <codigoPrincipal>DL-078</codigoPrincipal>
+         <descripcion>195/65R15 91V SPLM704</descripcion>
+         <cantidad>2.00</cantidad>
+         <precioUnitario>71.43</precioUnitario>
+         <descuento>0.00</descuento>
+         <precioTotalSinImpuesto>142.86</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>142.86</baseImponible>
+               <valor>17.14</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+   </detalles>
+</factura>

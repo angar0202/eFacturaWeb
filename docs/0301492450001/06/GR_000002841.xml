@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<guiaRemision id="comprobante" version="1.0.0">
+   <infoTributaria>
+      <ambiente>1</ambiente>
+      <tipoEmision>1</tipoEmision>
+      <razonSocial>TRACTOMAQ S A </razonSocial>
+      <ruc>0992620854001</ruc>
+      <claveAcceso>1912201406099262085400110010020000028410000018811</claveAcceso>
+      <codDoc>06</codDoc>
+      <estab>001</estab>
+      <ptoEmi>002</ptoEmi>
+      <secuencial>000002841</secuencial>
+      <dirMatriz>KM 95 VIA DAULE 43 NO SOLAR 62 Y 23 NO</dirMatriz>
+   </infoTributaria>
+   <infoGuiaRemision>
+      <dirEstablecimiento>AV. 24 DE MAYO S/N Y AV. CHE GUEVARA</dirEstablecimiento>
+      <dirPartida>AV. 24 DE MAYO S/N Y AV. CHE GUEVARA</dirPartida>
+      <razonSocialTransportista>PRUEBAS SERVICIO DE RENTAS INTERNAS</razonSocialTransportista>
+      <tipoIdentificacionTransportista>04</tipoIdentificacionTransportista>
+      <rucTransportista>0301492450001</rucTransportista>
+      <rise>RISE</rise>
+      <obligadoContabilidad>SI</obligadoContabilidad>
+      <contribuyenteEspecial>00048</contribuyenteEspecial>
+      <fechaIniTransporte>19/12/2014</fechaIniTransporte>
+      <fechaFinTransporte>19/12/2014</fechaFinTransporte>
+      <placa>GSH2314</placa>
+   </infoGuiaRemision>
+   <destinatarios>
+      <destinatario>
+         <identificacionDestinatario>0301492450001</identificacionDestinatario>
+         <razonSocialDestinatario>AMOROSO MATUTE JUAN CARLO</razonSocialDestinatario>
+         <dirDestinatario>AV. 24 DE MAYO S/N Y AV. CHE GUEVARA</dirDestinatario>
+         <motivoTraslado>O</motivoTraslado>
+         <codEstabDestino>001</codEstabDestino>
+         <ruta>NA</ruta>
+         <codDocSustento>01</codDocSustento>
+         <numDocSustento>001-002-000004121</numDocSustento>
+         <numAutDocSustento>1912201414492409926208540010176812651</numAutDocSustento>
+         <fechaEmisionDocSustento>17/12/2014</fechaEmisionDocSustento>
+         <detalles>
+            <detalle>
+               <codigoInterno>DL-013</codigoInterno>
+               <descripcion>265/70R15 112T AT3 OW 01 GDEEI</descripcion>
+               <cantidad>8.00</cantidad>
+            </detalle>
+         </detalles>
+      </destinatario>
+   </destinatarios>
+</guiaRemision>

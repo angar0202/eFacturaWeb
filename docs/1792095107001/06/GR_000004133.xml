@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<guiaRemision id="comprobante" version="1.0.0">
+   <infoTributaria>
+      <ambiente>1</ambiente>
+      <tipoEmision>1</tipoEmision>
+      <razonSocial>TRACTOMAQ S A </razonSocial>
+      <ruc>0992620854001</ruc>
+      <claveAcceso>1912201406099262085400110010020000041330000020110</claveAcceso>
+      <codDoc>06</codDoc>
+      <estab>001</estab>
+      <ptoEmi>002</ptoEmi>
+      <secuencial>000004133</secuencial>
+      <dirMatriz>KM 95 VIA DAULE 43 NO SOLAR 62 Y 23 NO</dirMatriz>
+   </infoTributaria>
+   <infoGuiaRemision>
+      <dirEstablecimiento>AV. ATAHUALPA NO. OE228 Y RUMIPAMBA RF JUNTO A UNIVISA EDF MIGUEL SANSUR PB.</dirEstablecimiento>
+      <dirPartida>AV. ATAHUALPA NO. OE228 Y RUMIPAMBA RF JUNTO A UNIVISA EDF MIGUEL SANSUR PB.</dirPartida>
+      <razonSocialTransportista>PRUEBAS SERVICIO DE RENTAS INTERNAS</razonSocialTransportista>
+      <tipoIdentificacionTransportista>04</tipoIdentificacionTransportista>
+      <rucTransportista>1792095107001</rucTransportista>
+      <rise>RISE</rise>
+      <obligadoContabilidad>SI</obligadoContabilidad>
+      <contribuyenteEspecial>00048</contribuyenteEspecial>
+      <fechaIniTransporte>19/12/2014</fechaIniTransporte>
+      <fechaFinTransporte>19/12/2014</fechaFinTransporte>
+      <placa>GSH02314</placa>
+   </infoGuiaRemision>
+   <destinatarios>
+      <destinatario>
+         <identificacionDestinatario>1792095107001</identificacionDestinatario>
+         <razonSocialDestinatario>COMERCIAL Y DISTRIBUIDORA</razonSocialDestinatario>
+         <dirDestinatario>AV. ATAHUALPA NO. OE228 Y RUMIPAMBA RF JUNTO A UNIVISA EDF MIGUEL SANSUR PB.</dirDestinatario>
+         <motivoTraslado>O</motivoTraslado>
+         <codEstabDestino>001</codEstabDestino>
+         <ruta>NA</ruta>
+         <codDocSustento>01</codDocSustento>
+         <numDocSustento>001-002-000004133</numDocSustento>
+         <numAutDocSustento>1912201414521909926208540010176816778</numAutDocSustento>
+         <fechaEmisionDocSustento>19/12/2014</fechaEmisionDocSustento>
+         <detalles>
+            <detalle>
+               <codigoInterno>DL-002</codigoInterno>
+               <descripcion>265/60R18 110H AT3 GWI</descripcion>
+               <cantidad>4.00</cantidad>
+            </detalle>
+         </detalles>
+      </destinatario>
+   </destinatarios>
+</guiaRemision>

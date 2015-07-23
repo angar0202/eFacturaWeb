@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<factura id="comprobante" version="1.0.0">
+   <infoTributaria>
+      <ambiente>1</ambiente>
+      <tipoEmision>1</tipoEmision>
+      <razonSocial>TRACTOMAQ S.A.</razonSocial>
+      <ruc>0992620854001</ruc>
+      <claveAcceso>2711201401099262085400110010010000701550010885310</claveAcceso>
+      <codDoc>01</codDoc>
+      <estab>001</estab>
+      <ptoEmi>001</ptoEmi>
+      <secuencial>000070155</secuencial>
+      <dirMatriz>KM 95 VIA DAULE 43 NO SOLAR 62 Y 23 NO</dirMatriz>
+   </infoTributaria>
+   <infoFactura>
+      <fechaEmision>27/11/2014</fechaEmision>
+      <dirEstablecimiento>AV. ESPAÑA 5-20 REF: JUNTO AL BANCO DE GUAYAQUIL</dirEstablecimiento>
+      <obligadoContabilidad>SI</obligadoContabilidad>
+      <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+      <razonSocialComprador>PRUEBAS SERVICIO DE RENTAS INTERNAS</razonSocialComprador>
+      <identificacionComprador>0102088424001</identificacionComprador>
+      <totalSinImpuestos>7410.20</totalSinImpuestos>
+      <totalDescuento>460.32</totalDescuento>
+      <totalConImpuestos>
+         <totalImpuesto>
+            <codigo>2</codigo>
+            <codigoPorcentaje>2</codigoPorcentaje>
+            <baseImponible>7410.20</baseImponible>
+            <tarifa>0</tarifa>
+            <valor>889.22</valor>
+         </totalImpuesto>
+      </totalConImpuestos>
+      <propina>0.00</propina>
+      <importeTotal>8299.42</importeTotal>
+      <moneda>DOLAR</moneda>
+   </infoFactura>
+   <detalles>
+      <detalle>
+         <codigoPrincipal>GT075</codigoPrincipal>
+         <descripcion>GT RADIAL 315/80R22.518PR GT686 MS</descripcion>
+         <cantidad>12.00</cantidad>
+         <precioUnitario>473.21</precioUnitario>
+         <descuento>0.00</descuento>
+         <precioTotalSinImpuesto>5678.52</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>5678.52</baseImponible>
+               <valor>681.42</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+      <detalle>
+         <codigoPrincipal>GT135</codigoPrincipal>
+         <descripcion>GT RADIAL 295/80R22.5 16PR  GAR821 MIXTA</descripcion>
+         <cantidad>4.00</cantidad>
+         <precioUnitario>548.00</precioUnitario>
+         <descuento>460.32</descuento>
+         <precioTotalSinImpuesto>1731.68</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>1731.68</baseImponible>
+               <valor>207.80</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+   </detalles>
+</factura>

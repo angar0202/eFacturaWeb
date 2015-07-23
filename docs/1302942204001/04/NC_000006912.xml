@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<notaCredito id="comprobante" version="1.0.0">
+   <infoTributaria>
+      <ambiente>1</ambiente>
+      <tipoEmision>1</tipoEmision>
+      <razonSocial>TRACTOMAQ S.A.</razonSocial>
+      <ruc>0992620854001</ruc>
+      <claveAcceso>0712201404099262085400110010010000069120010914516</claveAcceso>
+      <codDoc>04</codDoc>
+      <estab>001</estab>
+      <ptoEmi>001</ptoEmi>
+      <secuencial>000006912</secuencial>
+      <dirMatriz>KM 95 VIA DAULE 43 NO SOLAR 62 Y 23 NO</dirMatriz>
+   </infoTributaria>
+   <infoNotaCredito>
+      <fechaEmision>07/12/2014</fechaEmision>
+      <dirEstablecimiento>KM 1/2 SITIO BAJO DE LAS PALMAS CARRETERO MONTECRISTI  A 100 METROS DE LA IGLESIA VIRGEN DE ASUNCION</dirEstablecimiento>
+      <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+      <razonSocialComprador>PRUEBAS SERVICIO DE RENTAS INTERNAS</razonSocialComprador>
+      <identificacionComprador>1302942204001</identificacionComprador>
+      <contribuyenteEspecial>00048</contribuyenteEspecial>
+      <obligadoContabilidad>SI</obligadoContabilidad>
+      <rise>RISE</rise>
+      <codDocModificado>01</codDocModificado>
+      <numDocModificado>001-001-000060791</numDocModificado>
+      <fechaEmisionDocSustento>31/03/2014</fechaEmisionDocSustento>
+      <totalSinImpuestos>722.52</totalSinImpuestos>
+      <valorModificacion>809.22</valorModificacion>
+      <moneda>DOLAR</moneda>
+      <totalConImpuestos>
+         <totalImpuesto>
+            <codigo>2</codigo>
+            <codigoPorcentaje>2</codigoPorcentaje>
+            <baseImponible>722.52</baseImponible>
+            <valor>86.70</valor>
+         </totalImpuesto>
+      </totalConImpuestos>
+      <motivo>CLT DEV. - CIERRA NEGOCIO</motivo>
+   </infoNotaCredito>
+   <detalles>
+      <detalle>
+         <codigoInterno>LM522</codigoInterno>
+         <codigoAdicional>LM522</codigoAdicional>
+         <descripcion>LONG MARCH 275/80R22.516 LM216 DIRECCIONAL</descripcion>
+         <cantidad>2.00</cantidad>
+         <precioUnitario>440.56</precioUnitario>
+         <descuento>158.60</descuento>
+         <precioTotalSinImpuesto>722.52</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>722.52</baseImponible>
+               <valor>86.70</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+   </detalles>
+</notaCredito>

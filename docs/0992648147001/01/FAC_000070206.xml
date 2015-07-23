@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<factura id="comprobante" version="1.0.0">
+   <infoTributaria>
+      <ambiente>1</ambiente>
+      <tipoEmision>1</tipoEmision>
+      <razonSocial>TRACTOMAQ S.A.</razonSocial>
+      <ruc>0992620854001</ruc>
+      <claveAcceso>2811201401099262085400110010010000702060010891117</claveAcceso>
+      <codDoc>01</codDoc>
+      <estab>001</estab>
+      <ptoEmi>001</ptoEmi>
+      <secuencial>000070206</secuencial>
+      <dirMatriz>KM 95 VIA DAULE 43 NO SOLAR 62 Y 23 NO</dirMatriz>
+   </infoTributaria>
+   <infoFactura>
+      <fechaEmision>28/11/2014</fechaEmision>
+      <dirEstablecimiento>CUADRIGESIMA CUARTA S/N Y JAIME ROLDOS AGUILERA RF: A UNA CUADRA DE LA IGLESIA CATOLICA VIRGEN DE MO</dirEstablecimiento>
+      <obligadoContabilidad>SI</obligadoContabilidad>
+      <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+      <razonSocialComprador>PRUEBAS SERVICIO DE RENTAS INTERNAS</razonSocialComprador>
+      <identificacionComprador>0992648147001</identificacionComprador>
+      <totalSinImpuestos>12313.32</totalSinImpuestos>
+      <totalDescuento>957.68</totalDescuento>
+      <totalConImpuestos>
+         <totalImpuesto>
+            <codigo>2</codigo>
+            <codigoPorcentaje>2</codigoPorcentaje>
+            <baseImponible>12313.32</baseImponible>
+            <tarifa>0</tarifa>
+            <valor>1477.61</valor>
+         </totalImpuesto>
+      </totalConImpuestos>
+      <propina>0.00</propina>
+      <importeTotal>13790.93</importeTotal>
+      <moneda>DOLAR</moneda>
+   </infoFactura>
+   <detalles>
+      <detalle>
+         <codigoPrincipal>LM552</codigoPrincipal>
+         <descripcion>LONG MARCH 12R22.5 18PR LM306 </descripcion>
+         <cantidad>17.00</cantidad>
+         <precioUnitario>539.00</precioUnitario>
+         <descuento>733.04</descuento>
+         <precioTotalSinImpuesto>8429.96</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>8429.96</baseImponible>
+               <valor>1011.60</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+      <detalle>
+         <codigoPrincipal>GT085</codigoPrincipal>
+         <descripcion>GT RADIAL 750R16 14PR GT678 TRACCION</descripcion>
+         <cantidad>4.00</cantidad>
+         <precioUnitario>255.00</precioUnitario>
+         <descuento>81.60</descuento>
+         <precioTotalSinImpuesto>938.40</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>938.40</baseImponible>
+               <valor>112.61</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+      <detalle>
+         <codigoPrincipal>ARM009</codigoPrincipal>
+         <descripcion>ARMOUR 14.0024/16 L.2</descripcion>
+         <cantidad>4.00</cantidad>
+         <precioUnitario>650.00</precioUnitario>
+         <descuento>104.00</descuento>
+         <precioTotalSinImpuesto>2496.00</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>2496.00</baseImponible>
+               <valor>299.52</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+      <detalle>
+         <codigoPrincipal>GT012</codigoPrincipal>
+         <descripcion>GT RADIAL 750R16 14PR S.TRAV668 LISA</descripcion>
+         <cantidad>2.00</cantidad>
+         <precioUnitario>244.00</precioUnitario>
+         <descuento>39.04</descuento>
+         <precioTotalSinImpuesto>448.96</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>448.96</baseImponible>
+               <valor>53.88</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+   </detalles>
+</factura>

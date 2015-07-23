@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<factura id="comprobante" version="1.0.0">
+   <infoTributaria>
+      <ambiente>1</ambiente>
+      <tipoEmision>1</tipoEmision>
+      <razonSocial>TRACTOMAQ S.A.</razonSocial>
+      <ruc>0992620854001</ruc>
+      <claveAcceso>1712201401099262085400110010020000040890000315014</claveAcceso>
+      <codDoc>01</codDoc>
+      <estab>001</estab>
+      <ptoEmi>002</ptoEmi>
+      <secuencial>000004089</secuencial>
+      <dirMatriz>KM 95 VIA DAULE 43 NO SOLAR 62 Y 23 NO</dirMatriz>
+   </infoTributaria>
+   <infoFactura>
+      <fechaEmision>17/12/2014</fechaEmision>
+      <dirEstablecimiento>LADRON DE GUEVARA # E13-479 Y BARCELONA</dirEstablecimiento>
+      <contribuyenteEspecial>00048</contribuyenteEspecial>
+      <obligadoContabilidad>SI</obligadoContabilidad>
+      <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+      <razonSocialComprador>PRUEBAS SERVICIO DE RENTAS INTERNAS</razonSocialComprador>
+      <identificacionComprador>1792151562001</identificacionComprador>
+      <totalSinImpuestos>3426.52</totalSinImpuestos>
+      <totalDescuento>49.64</totalDescuento>
+      <totalConImpuestos>
+         <totalImpuesto>
+            <codigo>2</codigo>
+            <codigoPorcentaje>2</codigoPorcentaje>
+            <baseImponible>3426.52</baseImponible>
+            <tarifa>0</tarifa>
+            <valor>411.18</valor>
+         </totalImpuesto>
+      </totalConImpuestos>
+      <propina>0.00</propina>
+      <importeTotal>3837.70</importeTotal>
+      <moneda>DOLAR</moneda>
+   </infoFactura>
+   <detalles>
+      <detalle>
+         <codigoPrincipal>DL-012</codigoPrincipal>
+         <descripcion>255/70R16 111T AT3 OW 01 GDEEI</descripcion>
+         <cantidad>12.00</cantidad>
+         <precioUnitario>143.25</precioUnitario>
+         <descuento>0.00</descuento>
+         <precioTotalSinImpuesto>1719.00</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>1719.00</baseImponible>
+               <valor>206.28</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+      <detalle>
+         <codigoPrincipal>DL-099(JP)</codigoPrincipal>
+         <descripcion>31X10.50R15LT 109N MT1</descripcion>
+         <cantidad>4.00</cantidad>
+         <precioUnitario>167.86</precioUnitario>
+         <descuento>0.00</descuento>
+         <precioTotalSinImpuesto>671.44</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>671.44</baseImponible>
+               <valor>80.57</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+      <detalle>
+         <codigoPrincipal>DL-033</codigoPrincipal>
+         <descripcion>205/55ZR16 91W SP9000 EI</descripcion>
+         <cantidad>4.00</cantidad>
+         <precioUnitario>124.11</precioUnitario>
+         <descuento>49.64</descuento>
+         <precioTotalSinImpuesto>446.80</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>446.80</baseImponible>
+               <valor>53.62</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+      <detalle>
+         <codigoPrincipal>DL-114</codigoPrincipal>
+         <descripcion>31X10.50 R15 LT 109S AT3</descripcion>
+         <cantidad>4.00</cantidad>
+         <precioUnitario>147.32</precioUnitario>
+         <descuento>0.00</descuento>
+         <precioTotalSinImpuesto>589.28</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>589.28</baseImponible>
+               <valor>70.71</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+   </detalles>
+</factura>

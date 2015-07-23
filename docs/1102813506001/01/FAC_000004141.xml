@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<factura id="comprobante" version="1.0.0">
+   <infoTributaria>
+      <ambiente>1</ambiente>
+      <tipoEmision>1</tipoEmision>
+      <razonSocial>TRACTOMAQ S.A.</razonSocial>
+      <ruc>0992620854001</ruc>
+      <claveAcceso>3012201401099262085400110010020000041410000320619</claveAcceso>
+      <codDoc>01</codDoc>
+      <estab>001</estab>
+      <ptoEmi>002</ptoEmi>
+      <secuencial>000004141</secuencial>
+      <dirMatriz>KM 95 VIA DAULE 43 NO SOLAR 62 Y 23 NO</dirMatriz>
+   </infoTributaria>
+   <infoFactura>
+      <fechaEmision>30/12/2014</fechaEmision>
+      <dirEstablecimiento>JOSE FELIX 15-48 ENTRE SUCRE Y 18 DE NOVIEMBRE A DOS CUADRAS DEL PARQUE BOLIVAR</dirEstablecimiento>
+      <contribuyenteEspecial>00048</contribuyenteEspecial>
+      <obligadoContabilidad>SI</obligadoContabilidad>
+      <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+      <razonSocialComprador>PRUEBAS SERVICIO DE RENTAS INTERNAS</razonSocialComprador>
+      <identificacionComprador>1102813506001</identificacionComprador>
+      <totalSinImpuestos>5549.14</totalSinImpuestos>
+      <totalDescuento>0.00</totalDescuento>
+      <totalConImpuestos>
+         <totalImpuesto>
+            <codigo>2</codigo>
+            <codigoPorcentaje>2</codigoPorcentaje>
+            <baseImponible>5549.14</baseImponible>
+            <tarifa>0</tarifa>
+            <valor>665.90</valor>
+         </totalImpuesto>
+      </totalConImpuestos>
+      <propina>0.00</propina>
+      <importeTotal>6215.04</importeTotal>
+      <moneda>DOLAR</moneda>
+   </infoFactura>
+   <detalles>
+      <detalle>
+         <codigoPrincipal>DL-048(JP)</codigoPrincipal>
+         <descripcion>295/80R22.5 152M SP391 DEI</descripcion>
+         <cantidad>2.00</cantidad>
+         <precioUnitario>477.50</precioUnitario>
+         <descuento>0.00</descuento>
+         <precioTotalSinImpuesto>955.00</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>955.00</baseImponible>
+               <valor>114.60</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+      <detalle>
+         <codigoPrincipal>DL-037</codigoPrincipal>
+         <descripcion>185/60R13 80H SPLM703 GEI</descripcion>
+         <cantidad>8.00</cantidad>
+         <precioUnitario>58.04</precioUnitario>
+         <descuento>0.00</descuento>
+         <precioTotalSinImpuesto>464.32</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>464.32</baseImponible>
+               <valor>55.72</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+      <detalle>
+         <codigoPrincipal>DL-002</codigoPrincipal>
+         <descripcion>265/60R18 110H AT3 GWI</descripcion>
+         <cantidad>4.00</cantidad>
+         <precioUnitario>175.65</precioUnitario>
+         <descuento>0.00</descuento>
+         <precioTotalSinImpuesto>702.60</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>702.60</baseImponible>
+               <valor>84.31</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+      <detalle>
+         <codigoPrincipal>DL-049(JP)</codigoPrincipal>
+         <descripcion>295/80R22.5 152M SP431A GDEEI</descripcion>
+         <cantidad>4.00</cantidad>
+         <precioUnitario>460.45</precioUnitario>
+         <descuento>0.00</descuento>
+         <precioTotalSinImpuesto>1841.80</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>1841.80</baseImponible>
+               <valor>221.02</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+      <detalle>
+         <codigoPrincipal>DL-123(JP)</codigoPrincipal>
+         <descripcion>245/55R19 PT2</descripcion>
+         <cantidad>4.00</cantidad>
+         <precioUnitario>176.79</precioUnitario>
+         <descuento>0.00</descuento>
+         <precioTotalSinImpuesto>707.16</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>707.16</baseImponible>
+               <valor>84.86</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+      <detalle>
+         <codigoPrincipal>DL-045(JP)</codigoPrincipal>
+         <descripcion>295/80R22.5 152M SP350A GDWI</descripcion>
+         <cantidad>2.00</cantidad>
+         <precioUnitario>439.13</precioUnitario>
+         <descuento>0.00</descuento>
+         <precioTotalSinImpuesto>878.26</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>878.26</baseImponible>
+               <valor>105.39</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+   </detalles>
+</factura>

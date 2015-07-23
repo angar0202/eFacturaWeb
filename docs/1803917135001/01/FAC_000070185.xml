@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<factura id="comprobante" version="1.0.0">
+   <infoTributaria>
+      <ambiente>1</ambiente>
+      <tipoEmision>1</tipoEmision>
+      <razonSocial>TRACTOMAQ S.A.</razonSocial>
+      <ruc>0992620854001</ruc>
+      <claveAcceso>2711201401099262085400110010010000701850010888811</claveAcceso>
+      <codDoc>01</codDoc>
+      <estab>001</estab>
+      <ptoEmi>001</ptoEmi>
+      <secuencial>000070185</secuencial>
+      <dirMatriz>KM 95 VIA DAULE 43 NO SOLAR 62 Y 23 NO</dirMatriz>
+   </infoTributaria>
+   <infoFactura>
+      <fechaEmision>27/11/2014</fechaEmision>
+      <dirEstablecimiento>SANTO DOMINGO , PARROQUIA BOMBOLI M CALLE 5 NO.36 Y AV. 1 (URB. EL PORTON DE CAMPROV MANZANA 19 DIAG</dirEstablecimiento>
+      <obligadoContabilidad>SI</obligadoContabilidad>
+      <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+      <razonSocialComprador>PRUEBAS SERVICIO DE RENTAS INTERNAS</razonSocialComprador>
+      <identificacionComprador>1803917135001</identificacionComprador>
+      <totalSinImpuestos>2381.06</totalSinImpuestos>
+      <totalDescuento>632.94</totalDescuento>
+      <totalConImpuestos>
+         <totalImpuesto>
+            <codigo>2</codigo>
+            <codigoPorcentaje>2</codigoPorcentaje>
+            <baseImponible>2381.06</baseImponible>
+            <tarifa>0</tarifa>
+            <valor>285.73</valor>
+         </totalImpuesto>
+      </totalConImpuestos>
+      <propina>0.00</propina>
+      <importeTotal>2666.79</importeTotal>
+      <moneda>DOLAR</moneda>
+   </infoFactura>
+   <detalles>
+      <detalle>
+         <codigoPrincipal>LM551</codigoPrincipal>
+         <descripcion>LONG MARCH 12R22.5 18PR LM216 </descripcion>
+         <cantidad>2.00</cantidad>
+         <precioUnitario>499.00</precioUnitario>
+         <descuento>209.58</descuento>
+         <precioTotalSinImpuesto>788.42</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>788.42</baseImponible>
+               <valor>94.61</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+      <detalle>
+         <codigoPrincipal>LM550</codigoPrincipal>
+         <descripcion>LONG MARCH 12R22.5 18PR LM302 </descripcion>
+         <cantidad>4.00</cantidad>
+         <precioUnitario>504.00</precioUnitario>
+         <descuento>423.36</descuento>
+         <precioTotalSinImpuesto>1592.64</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>1592.64</baseImponible>
+               <valor>191.12</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+   </detalles>
+</factura>

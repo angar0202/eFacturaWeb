@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<guiaRemision id="comprobante" version="1.0.0">
+   <infoTributaria>
+      <ambiente>1</ambiente>
+      <tipoEmision>1</tipoEmision>
+      <razonSocial>TRACTOMAQ S A </razonSocial>
+      <ruc>0992620854001</ruc>
+      <claveAcceso>1912201406099262085400110010020000041340000020213</claveAcceso>
+      <codDoc>06</codDoc>
+      <estab>001</estab>
+      <ptoEmi>002</ptoEmi>
+      <secuencial>000004134</secuencial>
+      <dirMatriz>KM 95 VIA DAULE 43 NO SOLAR 62 Y 23 NO</dirMatriz>
+   </infoTributaria>
+   <infoGuiaRemision>
+      <dirEstablecimiento>CALLE 9 DE JULIO 425 Y OLMEDO FRENTE AL MERCADO MUNICIPAL</dirEstablecimiento>
+      <dirPartida>CALLE 9 DE JULIO 425 Y OLMEDO FRENTE AL MERCADO MUNICIPAL</dirPartida>
+      <razonSocialTransportista>PRUEBAS SERVICIO DE RENTAS INTERNAS</razonSocialTransportista>
+      <tipoIdentificacionTransportista>04</tipoIdentificacionTransportista>
+      <rucTransportista>1306353135001</rucTransportista>
+      <rise>RISE</rise>
+      <obligadoContabilidad>SI</obligadoContabilidad>
+      <contribuyenteEspecial>00048</contribuyenteEspecial>
+      <fechaIniTransporte>19/12/2014</fechaIniTransporte>
+      <fechaFinTransporte>19/12/2014</fechaFinTransporte>
+      <placa>GSH02314</placa>
+   </infoGuiaRemision>
+   <destinatarios>
+      <destinatario>
+         <identificacionDestinatario>1306353135001</identificacionDestinatario>
+         <razonSocialDestinatario>VALLEJOS RODRIGUEZ ANA MA</razonSocialDestinatario>
+         <dirDestinatario>CALLE 9 DE JULIO 425 Y OLMEDO FRENTE AL MERCADO MUNICIPAL</dirDestinatario>
+         <motivoTraslado>O</motivoTraslado>
+         <codEstabDestino>001</codEstabDestino>
+         <ruta>NA</ruta>
+         <codDocSustento>01</codDocSustento>
+         <numDocSustento>001-002-000004134</numDocSustento>
+         <numAutDocSustento>1912201414523509926208540010176817188</numAutDocSustento>
+         <fechaEmisionDocSustento>19/12/2014</fechaEmisionDocSustento>
+         <detalles>
+            <detalle>
+               <codigoInterno>DL-035</codigoInterno>
+               <descripcion>175/50R13 72H SPLM703 GEI</descripcion>
+               <cantidad>2.00</cantidad>
+            </detalle>
+         </detalles>
+      </destinatario>
+      <destinatario>
+         <identificacionDestinatario>1306353135001</identificacionDestinatario>
+         <razonSocialDestinatario>VALLEJOS RODRIGUEZ ANA MA</razonSocialDestinatario>
+         <dirDestinatario>CALLE 9 DE JULIO 425 Y OLMEDO FRENTE AL MERCADO MUNICIPAL</dirDestinatario>
+         <motivoTraslado>O</motivoTraslado>
+         <codEstabDestino>001</codEstabDestino>
+         <ruta>NA</ruta>
+         <codDocSustento>01</codDocSustento>
+         <numDocSustento>001-002-000004134</numDocSustento>
+         <numAutDocSustento>1912201414523509926208540010176817188</numAutDocSustento>
+         <fechaEmisionDocSustento>19/12/2014</fechaEmisionDocSustento>
+         <detalles>
+            <detalle>
+               <codigoInterno>DL-036</codigoInterno>
+               <descripcion>185/60R14 82H SPLM703 GEEI</descripcion>
+               <cantidad>6.00</cantidad>
+            </detalle>
+         </detalles>
+      </destinatario>
+      <destinatario>
+         <identificacionDestinatario>1306353135001</identificacionDestinatario>
+         <razonSocialDestinatario>VALLEJOS RODRIGUEZ ANA MA</razonSocialDestinatario>
+         <dirDestinatario>CALLE 9 DE JULIO 425 Y OLMEDO FRENTE AL MERCADO MUNICIPAL</dirDestinatario>
+         <motivoTraslado>O</motivoTraslado>
+         <codEstabDestino>001</codEstabDestino>
+         <ruta>NA</ruta>
+         <codDocSustento>01</codDocSustento>
+         <numDocSustento>001-002-000004134</numDocSustento>
+         <numAutDocSustento>1912201414523509926208540010176817188</numAutDocSustento>
+         <fechaEmisionDocSustento>19/12/2014</fechaEmisionDocSustento>
+         <detalles>
+            <detalle>
+               <codigoInterno>DL-078</codigoInterno>
+               <descripcion>195/65R15 91V SPLM704</descripcion>
+               <cantidad>4.00</cantidad>
+            </detalle>
+         </detalles>
+      </destinatario>
+      <destinatario>
+         <identificacionDestinatario>1306353135001</identificacionDestinatario>
+         <razonSocialDestinatario>VALLEJOS RODRIGUEZ ANA MA</razonSocialDestinatario>
+         <dirDestinatario>CALLE 9 DE JULIO 425 Y OLMEDO FRENTE AL MERCADO MUNICIPAL</dirDestinatario>
+         <motivoTraslado>O</motivoTraslado>
+         <codEstabDestino>001</codEstabDestino>
+         <ruta>NA</ruta>
+         <codDocSustento>01</codDocSustento>
+         <numDocSustento>001-002-000004134</numDocSustento>
+         <numAutDocSustento>1912201414523509926208540010176817188</numAutDocSustento>
+         <fechaEmisionDocSustento>19/12/2014</fechaEmisionDocSustento>
+         <detalles>
+            <detalle>
+               <codigoInterno>DL-111</codigoInterno>
+               <descripcion>225/70R16 103T AT3</descripcion>
+               <cantidad>4.00</cantidad>
+            </detalle>
+         </detalles>
+      </destinatario>
+   </destinatarios>
+</guiaRemision>

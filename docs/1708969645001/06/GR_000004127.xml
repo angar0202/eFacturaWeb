@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<guiaRemision id="comprobante" version="1.0.0">
+   <infoTributaria>
+      <ambiente>1</ambiente>
+      <tipoEmision>1</tipoEmision>
+      <razonSocial>TRACTOMAQ S A </razonSocial>
+      <ruc>0992620854001</ruc>
+      <claveAcceso>1912201406099262085400110010020000041270000019616</claveAcceso>
+      <codDoc>06</codDoc>
+      <estab>001</estab>
+      <ptoEmi>002</ptoEmi>
+      <secuencial>000004127</secuencial>
+      <dirMatriz>KM 95 VIA DAULE 43 NO SOLAR 62 Y 23 NO</dirMatriz>
+   </infoTributaria>
+   <infoGuiaRemision>
+      <dirEstablecimiento>AV.10 DE AGOSTO N4492 Y AV.EL INCA A UNA CUADRA DEL LABRADOR</dirEstablecimiento>
+      <dirPartida>AV.10 DE AGOSTO N4492 Y AV.EL INCA A UNA CUADRA DEL LABRADOR</dirPartida>
+      <razonSocialTransportista>PRUEBAS SERVICIO DE RENTAS INTERNAS</razonSocialTransportista>
+      <tipoIdentificacionTransportista>04</tipoIdentificacionTransportista>
+      <rucTransportista>1708969645001</rucTransportista>
+      <rise>RISE</rise>
+      <obligadoContabilidad>SI</obligadoContabilidad>
+      <contribuyenteEspecial>00048</contribuyenteEspecial>
+      <fechaIniTransporte>19/12/2014</fechaIniTransporte>
+      <fechaFinTransporte>19/12/2014</fechaFinTransporte>
+      <placa>GPE0350</placa>
+   </infoGuiaRemision>
+   <destinatarios>
+      <destinatario>
+         <identificacionDestinatario>1708969645001</identificacionDestinatario>
+         <razonSocialDestinatario>POLL LLANTAS</razonSocialDestinatario>
+         <dirDestinatario>AV.10 DE AGOSTO N4492 Y AV.EL INCA A UNA CUADRA DEL LABRADOR</dirDestinatario>
+         <motivoTraslado>O</motivoTraslado>
+         <codEstabDestino>001</codEstabDestino>
+         <ruta>NA</ruta>
+         <codDocSustento>01</codDocSustento>
+         <numDocSustento>001-002-000004127</numDocSustento>
+         <numAutDocSustento>1912201414501209926208540010176813983</numAutDocSustento>
+         <fechaEmisionDocSustento>18/12/2014</fechaEmisionDocSustento>
+         <detalles>
+            <detalle>
+               <codigoInterno>DL-077</codigoInterno>
+               <descripcion>215/60R15 94H SPLM704</descripcion>
+               <cantidad>4.00</cantidad>
+            </detalle>
+         </detalles>
+      </destinatario>
+      <destinatario>
+         <identificacionDestinatario>1708969645001</identificacionDestinatario>
+         <razonSocialDestinatario>POLL LLANTAS</razonSocialDestinatario>
+         <dirDestinatario>AV.10 DE AGOSTO N4492 Y AV.EL INCA A UNA CUADRA DEL LABRADOR</dirDestinatario>
+         <motivoTraslado>O</motivoTraslado>
+         <codEstabDestino>001</codEstabDestino>
+         <ruta>NA</ruta>
+         <codDocSustento>01</codDocSustento>
+         <numDocSustento>001-002-000004127</numDocSustento>
+         <numAutDocSustento>1912201414501209926208540010176813983</numAutDocSustento>
+         <fechaEmisionDocSustento>18/12/2014</fechaEmisionDocSustento>
+         <detalles>
+            <detalle>
+               <codigoInterno>DL-080</codigoInterno>
+               <descripcion>215/70R15 98H SPLM704</descripcion>
+               <cantidad>4.00</cantidad>
+            </detalle>
+         </detalles>
+      </destinatario>
+      <destinatario>
+         <identificacionDestinatario>1708969645001</identificacionDestinatario>
+         <razonSocialDestinatario>POLL LLANTAS</razonSocialDestinatario>
+         <dirDestinatario>AV.10 DE AGOSTO N4492 Y AV.EL INCA A UNA CUADRA DEL LABRADOR</dirDestinatario>
+         <motivoTraslado>O</motivoTraslado>
+         <codEstabDestino>001</codEstabDestino>
+         <ruta>NA</ruta>
+         <codDocSustento>01</codDocSustento>
+         <numDocSustento>001-002-000004127</numDocSustento>
+         <numAutDocSustento>1912201414501209926208540010176813983</numAutDocSustento>
+         <fechaEmisionDocSustento>18/12/2014</fechaEmisionDocSustento>
+         <detalles>
+            <detalle>
+               <codigoInterno>DL-118(JP)</codigoInterno>
+               <descripcion>235/60R16 100H PT2</descripcion>
+               <cantidad>2.00</cantidad>
+            </detalle>
+         </detalles>
+      </destinatario>
+   </destinatarios>
+</guiaRemision>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<factura id="comprobante" version="1.0.0">
+   <infoTributaria>
+      <ambiente>1</ambiente>
+      <tipoEmision>1</tipoEmision>
+      <razonSocial>TRACTOMAQ S.A.</razonSocial>
+      <ruc>0992620854001</ruc>
+      <claveAcceso>2711201401099262085400110010010000701480010884413</claveAcceso>
+      <codDoc>01</codDoc>
+      <estab>001</estab>
+      <ptoEmi>001</ptoEmi>
+      <secuencial>000070148</secuencial>
+      <dirMatriz>KM 95 VIA DAULE 43 NO SOLAR 62 Y 23 NO</dirMatriz>
+   </infoTributaria>
+   <infoFactura>
+      <fechaEmision>27/11/2014</fechaEmision>
+      <dirEstablecimiento>AV. GIL RAMIREZ DAVALOS 3-10 Y EL CHORRO</dirEstablecimiento>
+      <obligadoContabilidad>SI</obligadoContabilidad>
+      <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+      <razonSocialComprador>PRUEBAS SERVICIO DE RENTAS INTERNAS</razonSocialComprador>
+      <identificacionComprador>0103791471001</identificacionComprador>
+      <totalSinImpuestos>6904.08</totalSinImpuestos>
+      <totalDescuento>1839.92</totalDescuento>
+      <totalConImpuestos>
+         <totalImpuesto>
+            <codigo>2</codigo>
+            <codigoPorcentaje>2</codigoPorcentaje>
+            <baseImponible>6904.08</baseImponible>
+            <tarifa>0</tarifa>
+            <valor>828.50</valor>
+         </totalImpuesto>
+      </totalConImpuestos>
+      <propina>0.00</propina>
+      <importeTotal>7732.58</importeTotal>
+      <moneda>DOLAR</moneda>
+   </infoFactura>
+   <detalles>
+      <detalle>
+         <codigoPrincipal>ARM007</codigoPrincipal>
+         <descripcion>ARMOUR 12.5/8018/12 IMP600</descripcion>
+         <cantidad>1.00</cantidad>
+         <precioUnitario>280.00</precioUnitario>
+         <descuento>39.20</descuento>
+         <precioTotalSinImpuesto>240.80</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>240.80</baseImponible>
+               <valor>28.90</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+      <detalle>
+         <codigoPrincipal>CS388</codigoPrincipal>
+         <descripcion>CHENGSHAN 9.5R17.5 16PR CST78 DIREC</descripcion>
+         <cantidad>8.00</cantidad>
+         <precioUnitario>291.00</precioUnitario>
+         <descuento>512.16</descuento>
+         <precioTotalSinImpuesto>1815.84</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>1815.84</baseImponible>
+               <valor>217.90</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+      <detalle>
+         <codigoPrincipal>CS393</codigoPrincipal>
+         <descripcion>CHENGSHAN 235/75R17.5 16 CST78</descripcion>
+         <cantidad>2.00</cantidad>
+         <precioUnitario>260.00</precioUnitario>
+         <descuento>109.20</descuento>
+         <precioTotalSinImpuesto>410.80</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>410.80</baseImponible>
+               <valor>49.30</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+      <detalle>
+         <codigoPrincipal>CS348</codigoPrincipal>
+         <descripcion>CHENGSHAN 215/75R17.516 CST78 DIRECC</descripcion>
+         <cantidad>8.00</cantidad>
+         <precioUnitario>225.00</precioUnitario>
+         <descuento>378.00</descuento>
+         <precioTotalSinImpuesto>1422.00</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>1422.00</baseImponible>
+               <valor>170.64</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+      <detalle>
+         <codigoPrincipal>CS394</codigoPrincipal>
+         <descripcion>CHENGSHAN 235/75R17.5 16 CST68</descripcion>
+         <cantidad>4.00</cantidad>
+         <precioUnitario>264.00</precioUnitario>
+         <descuento>221.76</descuento>
+         <precioTotalSinImpuesto>834.24</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>834.24</baseImponible>
+               <valor>100.11</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+      <detalle>
+         <codigoPrincipal>CS349</codigoPrincipal>
+         <descripcion>CHENGSHAN 215/75R17.5 CST68 TRACC</descripcion>
+         <cantidad>12.00</cantidad>
+         <precioUnitario>230.00</precioUnitario>
+         <descuento>579.60</descuento>
+         <precioTotalSinImpuesto>2180.40</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>2180.40</baseImponible>
+               <valor>261.65</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+   </detalles>
+</factura>

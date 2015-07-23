@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comprobanteRetencion id="comprobante" version="1.0.0">
+   <infoTributaria>
+      <ambiente>1</ambiente>
+      <tipoEmision>1</tipoEmision>
+      <razonSocial>TRACTOMAQ S.A.</razonSocial>
+      <ruc>0992620854001</ruc>
+      <claveAcceso>1512201407099262085400110010010000226670027767317</claveAcceso>
+      <codDoc>07</codDoc>
+      <estab>001</estab>
+      <ptoEmi>001</ptoEmi>
+      <secuencial>000022667</secuencial>
+      <dirMatriz>KM 95 VIA DAULE 43 NO SOLAR 62 Y 23 NO</dirMatriz>
+   </infoTributaria>
+   <infoCompRetencion>
+      <fechaEmision>15/12/2014</fechaEmision>
+      <dirEstablecimiento>VIA DAULE KM 6.5 AV.PRINCIPAL S/N</dirEstablecimiento>
+      <contribuyenteEspecial>00048</contribuyenteEspecial>
+      <obligadoContabilidad>SI</obligadoContabilidad>
+      <tipoIdentificacionSujetoRetenido>04</tipoIdentificacionSujetoRetenido>
+      <razonSocialSujetoRetenido>PRUEBAS SERVICIO DE RENTAS INTERNAS</razonSocialSujetoRetenido>
+      <identificacionSujetoRetenido>0991288449001</identificacionSujetoRetenido>
+      <periodoFiscal>12/2014</periodoFiscal>
+   </infoCompRetencion>
+   <impuestos>
+      <impuesto>
+         <codigo>1</codigo>
+         <codigoRetencion>312</codigoRetencion>
+         <baseImponible>101.79</baseImponible>
+         <porcentajeRetener>1</porcentajeRetener>
+         <valorRetenido>1.02</valorRetenido>
+         <codDocSustento>01</codDocSustento>
+         <numDocSustento>001004000295550</numDocSustento>
+         <fechaEmisionDocSustento>15/12/2014</fechaEmisionDocSustento>
+      </impuesto>
+   </impuestos>
+</comprobanteRetencion>

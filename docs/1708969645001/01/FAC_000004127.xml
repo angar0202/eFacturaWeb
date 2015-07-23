@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<factura id="comprobante" version="1.0.0">
+   <infoTributaria>
+      <ambiente>1</ambiente>
+      <tipoEmision>1</tipoEmision>
+      <razonSocial>TRACTOMAQ S.A.</razonSocial>
+      <ruc>0992620854001</ruc>
+      <claveAcceso>1912201401099262085400110010020000041270000318913</claveAcceso>
+      <codDoc>01</codDoc>
+      <estab>001</estab>
+      <ptoEmi>002</ptoEmi>
+      <secuencial>000004127</secuencial>
+      <dirMatriz>KM 95 VIA DAULE 43 NO SOLAR 62 Y 23 NO</dirMatriz>
+   </infoTributaria>
+   <infoFactura>
+      <fechaEmision>19/12/2014</fechaEmision>
+      <dirEstablecimiento>AV.10 DE AGOSTO N44-92 Y AV.EL INCA A UNA CUADRA DEL LABRADOR</dirEstablecimiento>
+      <contribuyenteEspecial>00048</contribuyenteEspecial>
+      <obligadoContabilidad>SI</obligadoContabilidad>
+      <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+      <razonSocialComprador>PRUEBAS SERVICIO DE RENTAS INTERNAS</razonSocialComprador>
+      <identificacionComprador>1708969645001</identificacionComprador>
+      <totalSinImpuestos>812.15</totalSinImpuestos>
+      <totalDescuento>16.57</totalDescuento>
+      <totalConImpuestos>
+         <totalImpuesto>
+            <codigo>2</codigo>
+            <codigoPorcentaje>2</codigoPorcentaje>
+            <baseImponible>812.15</baseImponible>
+            <tarifa>0</tarifa>
+            <valor>97.45</valor>
+         </totalImpuesto>
+      </totalConImpuestos>
+      <propina>0.00</propina>
+      <importeTotal>909.60</importeTotal>
+      <moneda>DOLAR</moneda>
+   </infoFactura>
+   <detalles>
+      <detalle>
+         <codigoPrincipal>DL-080</codigoPrincipal>
+         <descripcion>215/70R15 98H SPLM704</descripcion>
+         <cantidad>4.00</cantidad>
+         <precioUnitario>74.11</precioUnitario>
+         <descuento>5.93</descuento>
+         <precioTotalSinImpuesto>290.51</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>290.51</baseImponible>
+               <valor>34.86</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+      <detalle>
+         <codigoPrincipal>DL-118(JP)</codigoPrincipal>
+         <descripcion>235/60R16 100H PT2</descripcion>
+         <cantidad>2.00</cantidad>
+         <precioUnitario>112.56</precioUnitario>
+         <descuento>4.50</descuento>
+         <precioTotalSinImpuesto>220.62</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>220.62</baseImponible>
+               <valor>26.47</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+      <detalle>
+         <codigoPrincipal>DL-077</codigoPrincipal>
+         <descripcion>215/60R15 94H SPLM704</descripcion>
+         <cantidad>4.00</cantidad>
+         <precioUnitario>76.79</precioUnitario>
+         <descuento>6.14</descuento>
+         <precioTotalSinImpuesto>301.02</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>301.02</baseImponible>
+               <valor>36.12</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+   </detalles>
+</factura>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<comprobanteRetencion id="comprobante" version="1.0.0">
+   <infoTributaria>
+      <ambiente>1</ambiente>
+      <tipoEmision>1</tipoEmision>
+      <razonSocial>TRACTOMAQ S.A.</razonSocial>
+      <ruc>0992620854001</ruc>
+      <claveAcceso>0712201407099262085400110010010000226040027498415</claveAcceso>
+      <codDoc>07</codDoc>
+      <estab>001</estab>
+      <ptoEmi>001</ptoEmi>
+      <secuencial>000022604</secuencial>
+      <dirMatriz>KM 95 VIA DAULE 43 NO SOLAR 62 Y 23 NO</dirMatriz>
+   </infoTributaria>
+   <infoCompRetencion>
+      <fechaEmision>07/12/2014</fechaEmision>
+      <dirEstablecimiento>CDLA SAN FELIPE MZ 153 SL32</dirEstablecimiento>
+      <contribuyenteEspecial>00048</contribuyenteEspecial>
+      <obligadoContabilidad>SI</obligadoContabilidad>
+      <tipoIdentificacionSujetoRetenido>04</tipoIdentificacionSujetoRetenido>
+      <razonSocialSujetoRetenido>PRUEBAS SERVICIO DE RENTAS INTERNAS</razonSocialSujetoRetenido>
+      <identificacionSujetoRetenido>0500807292001</identificacionSujetoRetenido>
+      <periodoFiscal>12/2014</periodoFiscal>
+   </infoCompRetencion>
+   <impuestos>
+      <impuesto>
+         <codigo>2</codigo>
+         <codigoRetencion>2</codigoRetencion>
+         <baseImponible>78.00</baseImponible>
+         <porcentajeRetener>70</porcentajeRetener>
+         <valorRetenido>54.60</valorRetenido>
+         <codDocSustento>01</codDocSustento>
+         <numDocSustento>001001000001193</numDocSustento>
+         <fechaEmisionDocSustento>01/12/2014</fechaEmisionDocSustento>
+      </impuesto>
+      <impuesto>
+         <codigo>1</codigo>
+         <codigoRetencion>309</codigoRetencion>
+         <baseImponible>650.00</baseImponible>
+         <porcentajeRetener>1</porcentajeRetener>
+         <valorRetenido>6.50</valorRetenido>
+         <codDocSustento>01</codDocSustento>
+         <numDocSustento>001001000001193</numDocSustento>
+         <fechaEmisionDocSustento>01/12/2014</fechaEmisionDocSustento>
+      </impuesto>
+   </impuestos>
+</comprobanteRetencion>

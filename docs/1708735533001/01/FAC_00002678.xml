@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<factura id="comprobante" version="1.0.0">
+   <infoTributaria>
+      <ambiente>1</ambiente>
+      <tipoEmision>1</tipoEmision>
+      <razonSocial>TRACTOMAQ S.A.</razonSocial>
+      <ruc>0992620854001</ruc>
+      <claveAcceso>051220140109926208540011001002000026780000294411</claveAcceso>
+      <codDoc>01</codDoc>
+      <estab>001</estab>
+      <ptoEmi>002</ptoEmi>
+      <secuencial>00002678</secuencial>
+      <dirMatriz>KM 95 VIA DAULE 43 NO SOLAR 62 Y 23 NO</dirMatriz>
+   </infoTributaria>
+   <infoFactura>
+      <fechaEmision>05/12/2014</fechaEmision>
+      <dirEstablecimiento>AV. 6 DE DICIEMBRE NO. N47-288 Y SAMUEL FRITZ. RF: A DOSCIENTOS METROS DEL REDONDEL DEL INCA. OF.PB.</dirEstablecimiento>
+      <contribuyenteEspecial>10-00</contribuyenteEspecial>
+      <obligadoContabilidad>SI</obligadoContabilidad>
+      <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+      <razonSocialComprador>PRUEBAS SERVICIO DE RENTAS INTERNAS</razonSocialComprador>
+      <identificacionComprador>1708735533001</identificacionComprador>
+      <totalSinImpuestos>900.40</totalSinImpuestos>
+      <totalDescuento>0.00</totalDescuento>
+      <totalConImpuestos>
+         <totalImpuesto>
+            <codigo>2</codigo>
+            <codigoPorcentaje>2</codigoPorcentaje>
+            <baseImponible>900.40</baseImponible>
+            <tarifa>0</tarifa>
+            <valor>108.05</valor>
+         </totalImpuesto>
+      </totalConImpuestos>
+      <propina>0.00</propina>
+      <importeTotal>1008.45</importeTotal>
+      <moneda>DOLAR</moneda>
+   </infoFactura>
+   <detalles>
+      <detalle>
+         <codigoPrincipal>DL-041</codigoPrincipal>
+         <descripcion>235/60R16 100H AT3 BL 01 EEI</descripcion>
+         <cantidad>8.00</cantidad>
+         <precioUnitario>112.55</precioUnitario>
+         <descuento>0.00</descuento>
+         <precioTotalSinImpuesto>900.40</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>900.40</baseImponible>
+               <valor>108.05</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+   </detalles>
+</factura>

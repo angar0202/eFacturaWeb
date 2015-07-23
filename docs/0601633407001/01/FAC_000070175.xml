@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<factura id="comprobante" version="1.0.0">
+   <infoTributaria>
+      <ambiente>1</ambiente>
+      <tipoEmision>1</tipoEmision>
+      <razonSocial>TRACTOMAQ S.A.</razonSocial>
+      <ruc>0992620854001</ruc>
+      <claveAcceso>2711201401099262085400110010010000701750010887517</claveAcceso>
+      <codDoc>01</codDoc>
+      <estab>001</estab>
+      <ptoEmi>001</ptoEmi>
+      <secuencial>000070175</secuencial>
+      <dirMatriz>KM 95 VIA DAULE 43 NO SOLAR 62 Y 23 NO</dirMatriz>
+   </infoTributaria>
+   <infoFactura>
+      <fechaEmision>27/11/2014</fechaEmision>
+      <dirEstablecimiento>KM. 8/2 COOP. JUAN MONTALVO MZ. C.1 SOLAR 3-4</dirEstablecimiento>
+      <obligadoContabilidad>SI</obligadoContabilidad>
+      <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+      <razonSocialComprador>PRUEBAS SERVICIO DE RENTAS INTERNAS</razonSocialComprador>
+      <identificacionComprador>0601633407001</identificacionComprador>
+      <totalSinImpuestos>1480.08</totalSinImpuestos>
+      <totalDescuento>281.92</totalDescuento>
+      <totalConImpuestos>
+         <totalImpuesto>
+            <codigo>2</codigo>
+            <codigoPorcentaje>2</codigoPorcentaje>
+            <baseImponible>1480.08</baseImponible>
+            <tarifa>0</tarifa>
+            <valor>177.61</valor>
+         </totalImpuesto>
+      </totalConImpuestos>
+      <propina>0.00</propina>
+      <importeTotal>1657.69</importeTotal>
+      <moneda>DOLAR</moneda>
+   </infoFactura>
+   <detalles>
+      <detalle>
+         <codigoPrincipal>CS389</codigoPrincipal>
+         <descripcion>CHENGSHAN 9.5R17.5 16PR CST68</descripcion>
+         <cantidad>4.00</cantidad>
+         <precioUnitario>295.00</precioUnitario>
+         <descuento>188.80</descuento>
+         <precioTotalSinImpuesto>991.20</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>991.20</baseImponible>
+               <valor>118.94</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+      <detalle>
+         <codigoPrincipal>CS388</codigoPrincipal>
+         <descripcion>CHENGSHAN 9.5R17.5 16PR CST78 DIREC</descripcion>
+         <cantidad>2.00</cantidad>
+         <precioUnitario>291.00</precioUnitario>
+         <descuento>93.12</descuento>
+         <precioTotalSinImpuesto>488.88</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>488.88</baseImponible>
+               <valor>58.67</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+   </detalles>
+</factura>

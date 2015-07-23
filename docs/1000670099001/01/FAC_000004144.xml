@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<factura id="comprobante" version="1.0.0">
+   <infoTributaria>
+      <ambiente>1</ambiente>
+      <tipoEmision>1</tipoEmision>
+      <razonSocial>TRACTOMAQ S.A.</razonSocial>
+      <ruc>0992620854001</ruc>
+      <claveAcceso>3012201401099262085400110010020000041440000320917</claveAcceso>
+      <codDoc>01</codDoc>
+      <estab>001</estab>
+      <ptoEmi>002</ptoEmi>
+      <secuencial>000004144</secuencial>
+      <dirMatriz>KM 95 VIA DAULE 43 NO SOLAR 62 Y 23 NO</dirMatriz>
+   </infoTributaria>
+   <infoFactura>
+      <fechaEmision>30/12/2014</fechaEmision>
+      <dirEstablecimiento>AV. LOS SHYRIS N37-106 Y EL COMERCIO</dirEstablecimiento>
+      <contribuyenteEspecial>00048</contribuyenteEspecial>
+      <obligadoContabilidad>SI</obligadoContabilidad>
+      <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+      <razonSocialComprador>PRUEBAS SERVICIO DE RENTAS INTERNAS</razonSocialComprador>
+      <identificacionComprador>1000670099001</identificacionComprador>
+      <totalSinImpuestos>2095.32</totalSinImpuestos>
+      <totalDescuento>83.28</totalDescuento>
+      <totalConImpuestos>
+         <totalImpuesto>
+            <codigo>2</codigo>
+            <codigoPorcentaje>2</codigoPorcentaje>
+            <baseImponible>2095.32</baseImponible>
+            <tarifa>0</tarifa>
+            <valor>251.44</valor>
+         </totalImpuesto>
+      </totalConImpuestos>
+      <propina>0.00</propina>
+      <importeTotal>2346.76</importeTotal>
+      <moneda>DOLAR</moneda>
+   </infoFactura>
+   <detalles>
+      <detalle>
+         <codigoPrincipal>DL-076</codigoPrincipal>
+         <descripcion>205/60R15 91V SPLM704</descripcion>
+         <cantidad>4.00</cantidad>
+         <precioUnitario>75.89</precioUnitario>
+         <descuento>6.07</descuento>
+         <precioTotalSinImpuesto>297.49</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>297.49</baseImponible>
+               <valor>35.70</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+      <detalle>
+         <codigoPrincipal>DL-077</codigoPrincipal>
+         <descripcion>215/60R15 94H SPLM704</descripcion>
+         <cantidad>4.00</cantidad>
+         <precioUnitario>76.79</precioUnitario>
+         <descuento>6.14</descuento>
+         <precioTotalSinImpuesto>301.02</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>301.02</baseImponible>
+               <valor>36.12</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+      <detalle>
+         <codigoPrincipal>DL-111</codigoPrincipal>
+         <descripcion>225/70R16 103T AT3</descripcion>
+         <cantidad>8.00</cantidad>
+         <precioUnitario>133.93</precioUnitario>
+         <descuento>21.43</descuento>
+         <precioTotalSinImpuesto>1050.01</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>1050.01</baseImponible>
+               <valor>126.00</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+      <detalle>
+         <codigoPrincipal>DL-033</codigoPrincipal>
+         <descripcion>205/55ZR16 91W SP9000 EI</descripcion>
+         <cantidad>4.00</cantidad>
+         <precioUnitario>124.11</precioUnitario>
+         <descuento>49.64</descuento>
+         <precioTotalSinImpuesto>446.80</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>446.80</baseImponible>
+               <valor>53.62</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+   </detalles>
+</factura>

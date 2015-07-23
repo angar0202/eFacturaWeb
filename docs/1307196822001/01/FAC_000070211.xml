@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<factura id="comprobante" version="1.0.0">
+   <infoTributaria>
+      <ambiente>1</ambiente>
+      <tipoEmision>1</tipoEmision>
+      <razonSocial>TRACTOMAQ S.A.</razonSocial>
+      <ruc>0992620854001</ruc>
+      <claveAcceso>2811201401099262085400110010010000702110010891610</claveAcceso>
+      <codDoc>01</codDoc>
+      <estab>001</estab>
+      <ptoEmi>001</ptoEmi>
+      <secuencial>000070211</secuencial>
+      <dirMatriz>KM 95 VIA DAULE 43 NO SOLAR 62 Y 23 NO</dirMatriz>
+   </infoTributaria>
+   <infoFactura>
+      <fechaEmision>28/11/2014</fechaEmision>
+      <dirEstablecimiento>ROCAFUERTE 903 Y PEDRO GUAL Y 9 DE OCTUBRE</dirEstablecimiento>
+      <obligadoContabilidad>SI</obligadoContabilidad>
+      <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+      <razonSocialComprador>PRUEBAS SERVICIO DE RENTAS INTERNAS</razonSocialComprador>
+      <identificacionComprador>1307196822001</identificacionComprador>
+      <totalSinImpuestos>18691.44</totalSinImpuestos>
+      <totalDescuento>1670.40</totalDescuento>
+      <totalConImpuestos>
+         <totalImpuesto>
+            <codigo>2</codigo>
+            <codigoPorcentaje>2</codigoPorcentaje>
+            <baseImponible>18691.44</baseImponible>
+            <tarifa>0</tarifa>
+            <valor>2242.97</valor>
+         </totalImpuesto>
+      </totalConImpuestos>
+      <propina>0.00</propina>
+      <importeTotal>20934.41</importeTotal>
+      <moneda>DOLAR</moneda>
+   </infoFactura>
+   <detalles>
+      <detalle>
+         <codigoPrincipal>GT031</codigoPrincipal>
+         <descripcion>GT RADIAL 11R22.5 16PR  MIXTA GT01 MS</descripcion>
+         <cantidad>38.00</cantidad>
+         <precioUnitario>352.68</precioUnitario>
+         <descuento>0.00</descuento>
+         <precioTotalSinImpuesto>13401.84</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>13401.84</baseImponible>
+               <valor>1608.22</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+      <detalle>
+         <codigoPrincipal>LM557</codigoPrincipal>
+         <descripcion>LONG MARCH 295/80R22.5 18PR LM302</descripcion>
+         <cantidad>16.00</cantidad>
+         <precioUnitario>435.00</precioUnitario>
+         <descuento>1670.40</descuento>
+         <precioTotalSinImpuesto>5289.60</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>5289.60</baseImponible>
+               <valor>634.75</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+   </detalles>
+</factura>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<guiaRemision id="comprobante" version="1.0.0">
+   <infoTributaria>
+      <ambiente>1</ambiente>
+      <tipoEmision>1</tipoEmision>
+      <razonSocial>TRACTOMAQ S A </razonSocial>
+      <ruc>0992620854001</ruc>
+      <claveAcceso>1912201406099262085400110010020000041120000018219</claveAcceso>
+      <codDoc>06</codDoc>
+      <estab>001</estab>
+      <ptoEmi>002</ptoEmi>
+      <secuencial>000004112</secuencial>
+      <dirMatriz>KM 95 VIA DAULE 43 NO SOLAR 62 Y 23 NO</dirMatriz>
+   </infoTributaria>
+   <infoGuiaRemision>
+      <dirEstablecimiento>AV. SHYRIS 2646 Y  AV. GASPAR DE VILLARROEL</dirEstablecimiento>
+      <dirPartida>AV. SHYRIS 2646 Y  AV. GASPAR DE VILLARROEL</dirPartida>
+      <razonSocialTransportista>PRUEBAS SERVICIO DE RENTAS INTERNAS</razonSocialTransportista>
+      <tipoIdentificacionTransportista>04</tipoIdentificacionTransportista>
+      <rucTransportista>1791350634001</rucTransportista>
+      <rise>RISE</rise>
+      <obligadoContabilidad>SI</obligadoContabilidad>
+      <contribuyenteEspecial>00048</contribuyenteEspecial>
+      <fechaIniTransporte>19/12/2014</fechaIniTransporte>
+      <fechaFinTransporte>19/12/2014</fechaFinTransporte>
+      <placa>PUK551</placa>
+   </infoGuiaRemision>
+   <destinatarios>
+      <destinatario>
+         <identificacionDestinatario>1791350634001</identificacionDestinatario>
+         <razonSocialDestinatario>LLANTAMATIC CIA. LTDA.</razonSocialDestinatario>
+         <dirDestinatario>AV. SHYRIS 2646 Y  AV. GASPAR DE VILLARROEL</dirDestinatario>
+         <motivoTraslado>O</motivoTraslado>
+         <codEstabDestino>001</codEstabDestino>
+         <ruta>NA</ruta>
+         <codDocSustento>01</codDocSustento>
+         <numDocSustento>001-002-000004112</numDocSustento>
+         <numAutDocSustento>1912201414482309926208540010176810611</numAutDocSustento>
+         <fechaEmisionDocSustento>17/12/2014</fechaEmisionDocSustento>
+         <detalles>
+            <detalle>
+               <codigoInterno>DL-008</codigoInterno>
+               <descripcion>275/65R17 115H AT3 BL 01 EEI</descripcion>
+               <cantidad>8.00</cantidad>
+            </detalle>
+         </detalles>
+      </destinatario>
+      <destinatario>
+         <identificacionDestinatario>1791350634001</identificacionDestinatario>
+         <razonSocialDestinatario>LLANTAMATIC CIA. LTDA.</razonSocialDestinatario>
+         <dirDestinatario>AV. SHYRIS 2646 Y  AV. GASPAR DE VILLARROEL</dirDestinatario>
+         <motivoTraslado>O</motivoTraslado>
+         <codEstabDestino>001</codEstabDestino>
+         <ruta>NA</ruta>
+         <codDocSustento>01</codDocSustento>
+         <numDocSustento>001-002-000004112</numDocSustento>
+         <numAutDocSustento>1912201414482309926208540010176810611</numAutDocSustento>
+         <fechaEmisionDocSustento>17/12/2014</fechaEmisionDocSustento>
+         <detalles>
+            <detalle>
+               <codigoInterno>DL-011</codigoInterno>
+               <descripcion>245/70R16 111T AT3 OW 02 DEEI</descripcion>
+               <cantidad>6.00</cantidad>
+            </detalle>
+         </detalles>
+      </destinatario>
+   </destinatarios>
+</guiaRemision>

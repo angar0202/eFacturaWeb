@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<factura id="comprobante" version="1.0.0">
+   <infoTributaria>
+      <ambiente>1</ambiente>
+      <tipoEmision>1</tipoEmision>
+      <razonSocial>TRACTOMAQ S.A.</razonSocial>
+      <ruc>0992620854001</ruc>
+      <claveAcceso>2711201401099262085400110010010000701680010886814</claveAcceso>
+      <codDoc>01</codDoc>
+      <estab>001</estab>
+      <ptoEmi>001</ptoEmi>
+      <secuencial>000070168</secuencial>
+      <dirMatriz>KM 95 VIA DAULE 43 NO SOLAR 62 Y 23 NO</dirMatriz>
+   </infoTributaria>
+   <infoFactura>
+      <fechaEmision>27/11/2014</fechaEmision>
+      <dirEstablecimiento>CALLE 24 DE MAYO S/N DIAGONAL AL BCO PICHINCHA</dirEstablecimiento>
+      <obligadoContabilidad>SI</obligadoContabilidad>
+      <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+      <razonSocialComprador>PRUEBAS SERVICIO DE RENTAS INTERNAS</razonSocialComprador>
+      <identificacionComprador>1307091635001</identificacionComprador>
+      <totalSinImpuestos>676.19</totalSinImpuestos>
+      <totalDescuento>97.47</totalDescuento>
+      <totalConImpuestos>
+         <totalImpuesto>
+            <codigo>2</codigo>
+            <codigoPorcentaje>2</codigoPorcentaje>
+            <baseImponible>676.19</baseImponible>
+            <tarifa>0</tarifa>
+            <valor>81.14</valor>
+         </totalImpuesto>
+      </totalConImpuestos>
+      <propina>0.00</propina>
+      <importeTotal>757.33</importeTotal>
+      <moneda>DOLAR</moneda>
+   </infoFactura>
+   <detalles>
+      <detalle>
+         <codigoPrincipal>GT149</codigoPrincipal>
+         <descripcion>GT RADIAL 215/75R14C 112/110R 8PR LT MAXMILER EX</descripcion>
+         <cantidad>3.00</cantidad>
+         <precioUnitario>112.24</precioUnitario>
+         <descuento>60.61</descuento>
+         <precioTotalSinImpuesto>276.11</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>276.11</baseImponible>
+               <valor>33.13</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+      <detalle>
+         <codigoPrincipal>RW543</codigoPrincipal>
+         <descripcion>RUNWAY 155/80R12 77T END806</descripcion>
+         <cantidad>4.00</cantidad>
+         <precioUnitario>51.20</precioUnitario>
+         <descuento>36.86</descuento>
+         <precioTotalSinImpuesto>167.94</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>167.94</baseImponible>
+               <valor>20.15</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+      <detalle>
+         <codigoPrincipal>GT077</codigoPrincipal>
+         <descripcion>GT RADIAL LT235/75R15 6PR ADVENT A/TII </descripcion>
+         <cantidad>2.00</cantidad>
+         <precioUnitario>116.07</precioUnitario>
+         <descuento>0.00</descuento>
+         <precioTotalSinImpuesto>232.14</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>2</codigoPorcentaje>
+               <tarifa>12</tarifa>
+               <baseImponible>232.14</baseImponible>
+               <valor>27.86</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+   </detalles>
+</factura>

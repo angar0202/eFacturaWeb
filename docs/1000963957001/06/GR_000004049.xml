@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<guiaRemision id="comprobante" version="1.0.0">
+   <infoTributaria>
+      <ambiente>1</ambiente>
+      <tipoEmision>1</tipoEmision>
+      <razonSocial>TRACTOMAQ S.A.</razonSocial>
+      <ruc>0992620854001</ruc>
+      <claveAcceso>1112201406099262085400110010020000040490000013911</claveAcceso>
+      <codDoc>06</codDoc>
+      <estab>001</estab>
+      <ptoEmi>002</ptoEmi>
+      <secuencial>000004049</secuencial>
+      <dirMatriz>KM 95 VIA DAULE 43 NO SOLAR 62 Y 23 NO</dirMatriz>
+   </infoTributaria>
+   <infoGuiaRemision>
+      <dirEstablecimiento>CALDERO  OR293 Y AV. NATALIA JARRIN RF AL FRENTE DEL COLISEO MUNICIPAL CENTENARIO</dirEstablecimiento>
+      <dirPartida>CALDERO  OR293 Y AV. NATALIA JARRIN RF AL FRENTE DEL COLISEO MUNICIPAL CENTENARIO</dirPartida>
+      <razonSocialTransportista>PRUEBAS SERVICIO DE RENTAS INTERNAS</razonSocialTransportista>
+      <tipoIdentificacionTransportista>04</tipoIdentificacionTransportista>
+      <rucTransportista>1000963957001</rucTransportista>
+      <rise>RISE</rise>
+      <obligadoContabilidad>SI</obligadoContabilidad>
+      <contribuyenteEspecial>00048</contribuyenteEspecial>
+      <fechaIniTransporte>11/12/2014</fechaIniTransporte>
+      <fechaFinTransporte>11/12/2014</fechaFinTransporte>
+      <placa>GIS0768</placa>
+   </infoGuiaRemision>
+   <destinatarios>
+      <destinatario>
+         <identificacionDestinatario>1000963957001</identificacionDestinatario>
+         <razonSocialDestinatario>ALMEIDA TERAN HERNAN PATR</razonSocialDestinatario>
+         <dirDestinatario>CALDERO  OR293 Y AV. NATALIA JARRIN RF AL FRENTE DEL COLISEO MUNICIPAL CENTENARIO</dirDestinatario>
+         <motivoTraslado>O</motivoTraslado>
+         <codEstabDestino>001</codEstabDestino>
+         <ruta>N/A</ruta>
+         <codDocSustento>01</codDocSustento>
+         <numDocSustento>001-002-000004049</numDocSustento>
+         <numAutDocSustento>1234567890</numAutDocSustento>
+         <fechaEmisionDocSustento>11/12/2014</fechaEmisionDocSustento>
+         <detalles>
+            <detalle>
+               <codigoInterno>DL-011</codigoInterno>
+               <descripcion>245/70R16 111T AT3 OW 02 DEEI</descripcion>
+               <cantidad>1.00</cantidad>
+            </detalle>
+         </detalles>
+      </destinatario>
+   </destinatarios>
+</guiaRemision>

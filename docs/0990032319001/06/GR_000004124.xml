@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<guiaRemision id="comprobante" version="1.0.0">
+   <infoTributaria>
+      <ambiente>1</ambiente>
+      <tipoEmision>1</tipoEmision>
+      <razonSocial>TRACTOMAQ S A </razonSocial>
+      <ruc>0992620854001</ruc>
+      <claveAcceso>1912201406099262085400110010020000041240000019210</claveAcceso>
+      <codDoc>06</codDoc>
+      <estab>001</estab>
+      <ptoEmi>002</ptoEmi>
+      <secuencial>000004124</secuencial>
+      <dirMatriz>KM 95 VIA DAULE 43 NO SOLAR 62 Y 23 NO</dirMatriz>
+   </infoTributaria>
+   <infoGuiaRemision>
+      <dirEstablecimiento>AV. JUAN TANCA MARENGO 107 Y JUSTINO CORNEJO</dirEstablecimiento>
+      <dirPartida>AV. JUAN TANCA MARENGO 107 Y JUSTINO CORNEJO</dirPartida>
+      <razonSocialTransportista>PRUEBAS SERVICIO DE RENTAS INTERNAS</razonSocialTransportista>
+      <tipoIdentificacionTransportista>04</tipoIdentificacionTransportista>
+      <rucTransportista>0990032319001</rucTransportista>
+      <rise>RISE</rise>
+      <obligadoContabilidad>SI</obligadoContabilidad>
+      <contribuyenteEspecial>00048</contribuyenteEspecial>
+      <fechaIniTransporte>19/12/2014</fechaIniTransporte>
+      <fechaFinTransporte>19/12/2014</fechaFinTransporte>
+      <placa>GPE350</placa>
+   </infoGuiaRemision>
+   <destinatarios>
+      <destinatario>
+         <identificacionDestinatario>0990032319001</identificacionDestinatario>
+         <razonSocialDestinatario>ANTONIO PINO YCAZA CIA. L</razonSocialDestinatario>
+         <dirDestinatario>AV. JUAN TANCA MARENGO 107 Y JUSTINO CORNEJO</dirDestinatario>
+         <motivoTraslado>O</motivoTraslado>
+         <codEstabDestino>001</codEstabDestino>
+         <ruta>NA</ruta>
+         <codDocSustento>01</codDocSustento>
+         <numDocSustento>001-002-000004124</numDocSustento>
+         <numAutDocSustento>1912201414494809926208540010176812991</numAutDocSustento>
+         <fechaEmisionDocSustento>18/12/2014</fechaEmisionDocSustento>
+         <detalles>
+            <detalle>
+               <codigoInterno>DL-005</codigoInterno>
+               <descripcion>235/65R17 108H AT3 XL GWI</descripcion>
+               <cantidad>1.00</cantidad>
+            </detalle>
+         </detalles>
+      </destinatario>
+      <destinatario>
+         <identificacionDestinatario>0990032319001</identificacionDestinatario>
+         <razonSocialDestinatario>ANTONIO PINO YCAZA CIA. L</razonSocialDestinatario>
+         <dirDestinatario>AV. JUAN TANCA MARENGO 107 Y JUSTINO CORNEJO</dirDestinatario>
+         <motivoTraslado>O</motivoTraslado>
+         <codEstabDestino>001</codEstabDestino>
+         <ruta>NA</ruta>
+         <codDocSustento>01</codDocSustento>
+         <numDocSustento>001-002-000004124</numDocSustento>
+         <numAutDocSustento>1912201414494809926208540010176812991</numAutDocSustento>
+         <fechaEmisionDocSustento>18/12/2014</fechaEmisionDocSustento>
+         <detalles>
+            <detalle>
+               <codigoInterno>DL-127</codigoInterno>
+               <descripcion>235/65R17 108V PT2 XL</descripcion>
+               <cantidad>3.00</cantidad>
+            </detalle>
+         </detalles>
+      </destinatario>
+   </destinatarios>
+</guiaRemision>
