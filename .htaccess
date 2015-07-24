@@ -1,7 +1,7 @@
 <IfModule mod_rewrite.c>
 
 #RewriteEngine On
-#RewriteBase /etractomaq/
+#RewriteBase /eFacturaWeb/
 #AddHandler application/x-httpd-php5 .php
 #RewriteEngine on
 #RewriteCond $1 !^(index\.php|img|js|css|cms|docs|services|robots\.txt)
